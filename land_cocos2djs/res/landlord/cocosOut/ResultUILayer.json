@@ -1,0 +1,2501 @@
+{
+  "ID": "79cf5048-7309-4922-b304-b9138395e0ce",
+  "Version": "2.3.4",
+  "Name": "ResultUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 285,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "RightMargin": 936.0,
+            "TopMargin": 440.0,
+            "Tag": 112,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 113,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.84,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 477.0,
+                    "RightMargin": -459.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 111,
+                    "ActionTag": 1358900507,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 2042466609,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_continue",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 114,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 438.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.19,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 347.0,
+                    "RightMargin": -329.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 115,
+                    "ActionTag": 329282317,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 698.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.49,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 607.0,
+                    "RightMargin": -589.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 116,
+                    "ActionTag": 302933759,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_up",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1295411999,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "layer_continue_up",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 126,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 567.9999,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.84,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 476.9999,
+                    "RightMargin": -458.9999,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 128,
+                    "ActionTag": 2058181802,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_up",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1826445818,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_up",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -771602184,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "layer_default",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "RightMargin": 936.0,
+            "TopMargin": 440.0,
+            "Tag": 117,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 100,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.84,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 477.0,
+                    "RightMargin": -459.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 101,
+                    "ActionTag": -31975590,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1883378090,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_continue",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 102,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 438.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.19,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 347.0,
+                    "RightMargin": -329.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 103,
+                    "ActionTag": 173783497,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 698.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.49,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 607.0,
+                    "RightMargin": -589.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 104,
+                    "ActionTag": 908152745,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_up",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 2033930297,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_continue_up",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 118,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 438.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.19,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 347.0,
+                    "RightMargin": -329.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 119,
+                    "ActionTag": 505438201,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 698.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.49,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 607.0,
+                    "RightMargin": -589.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 122,
+                    "ActionTag": -140371625,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_showcard",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -318339605,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_continue_back",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 120,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk028.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 338.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.69,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 247.0,
+                    "RightMargin": -229.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 121,
+                    "ActionTag": -365088017,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_showcard_5.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.84,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 477.0,
+                    "RightMargin": -459.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 124,
+                    "ActionTag": -1163357404,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_showcard",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 798.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.99,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 707.0,
+                    "RightMargin": -689.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 123,
+                    "ActionTag": -937195562,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_up",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -846866688,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_continue_up_back",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 129,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk037.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 152,
+                    "Scale9Height": 68,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 568.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.84,
+                      "Y": 1.6
+                    },
+                    "PreSize": {
+                      "X": 0.91,
+                      "Y": 0.45
+                    },
+                    "LeftMargin": 477.0,
+                    "RightMargin": -459.0,
+                    "TopMargin": -165.0,
+                    "BottomMargin": 275.0,
+                    "Tag": 132,
+                    "ActionTag": 2109226814,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 90.0
+                    },
+                    "Name": "btn_continue_up",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1821432512,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "layer_up",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1845006992,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "layer_happy",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "RightMargin": 936.0,
+            "TopMargin": 440.0,
+            "Tag": 110,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.6595,
+                  "Y": 0.6595
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0033,
+                  "Y": 0.0033
+                },
+                "PreSize": {
+                  "X": 5.68,
+                  "Y": 3.2
+                },
+                "LeftMargin": 0.6595,
+                "RightMargin": -936.6595,
+                "TopMargin": -440.6594,
+                "BottomMargin": 0.6595,
+                "Tag": 125,
+                "ActionTag": -1539040187,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "Panel_8",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 66,
+                "Scale9OriginY": 66,
+                "Scale9Width": 68,
+                "Scale9Height": 68,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.98,
+                  "Y": 303.6824
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8549,
+                  "Y": 1.5184
+                },
+                "PreSize": {
+                  "X": 3.0,
+                  "Y": 2.0
+                },
+                "LeftMargin": 270.98,
+                "RightMargin": -670.98,
+                "TopMargin": -303.6824,
+                "BottomMargin": 103.6824,
+                "Tag": 286,
+                "ActionTag": -1045308282,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 400.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk043.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 166,
+                "Scale9OriginY": 22,
+                "Scale9Width": 57,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.9802,
+                  "Y": 470.4295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8549,
+                  "Y": 2.3521
+                },
+                "PreSize": {
+                  "X": 1.945,
+                  "Y": 0.34
+                },
+                "LeftMargin": 376.4802,
+                "RightMargin": -565.4802,
+                "TopMargin": -304.4295,
+                "BottomMargin": 436.4295,
+                "Tag": 287,
+                "ActionTag": 1848693798,
+                "Size": {
+                  "X": 389.0,
+                  "Y": 68.0
+                },
+                "Name": "bg_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 34,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 849.0007,
+                  "Y": 481.5377
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.245,
+                  "Y": 2.4077
+                },
+                "PreSize": {
+                  "X": 0.28,
+                  "Y": 0.28
+                },
+                "LeftMargin": 821.0007,
+                "RightMargin": -677.0007,
+                "TopMargin": -309.5377,
+                "BottomMargin": 453.5377,
+                "Tag": 288,
+                "ActionTag": -1810069618,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 56.0
+                },
+                "Name": "closeBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "金币不足啦",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 569.9803,
+                  "Y": 472.6841
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8499,
+                  "Y": 2.3634
+                },
+                "PreSize": {
+                  "X": 0.81,
+                  "Y": 0.185
+                },
+                "LeftMargin": 488.9803,
+                "RightMargin": -450.9803,
+                "TopMargin": -291.1841,
+                "BottomMargin": 454.1841,
+                "Tag": 289,
+                "ActionTag": -1163340285,
+                "Size": {
+                  "X": 162.0,
+                  "Y": 37.0
+                },
+                "Name": "title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 20,
+                "Scale9Width": 34,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.9792,
+                  "Y": 302.3219
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8549,
+                  "Y": 1.5116
+                },
+                "PreSize": {
+                  "X": 2.92,
+                  "Y": 0.9
+                },
+                "LeftMargin": 278.9792,
+                "RightMargin": -662.9792,
+                "TopMargin": -192.3219,
+                "BottomMargin": 212.3219,
+                "Tag": 291,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_3.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 88,
+                    "Scale9Height": 78,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 173.1544,
+                      "Y": 98.1637
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2965,
+                      "Y": 0.5454
+                    },
+                    "PreSize": {
+                      "X": 0.1884,
+                      "Y": 0.5556
+                    },
+                    "LeftMargin": 118.1544,
+                    "RightMargin": 355.8456,
+                    "TopMargin": 31.8363,
+                    "BottomMargin": 48.1637,
+                    "Tag": 294,
+                    "ActionTag": 1881627963,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 100.0
+                    },
+                    "Name": "bg_0_0_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_1.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 88,
+                    "Scale9Height": 78,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 427.6782,
+                      "Y": 95.5797
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7323,
+                      "Y": 0.531
+                    },
+                    "PreSize": {
+                      "X": 0.1884,
+                      "Y": 0.5556
+                    },
+                    "LeftMargin": 372.6782,
+                    "RightMargin": 101.3218,
+                    "TopMargin": 34.4203,
+                    "BottomMargin": 45.5797,
+                    "Tag": 312,
+                    "ActionTag": 174005251,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 100.0
+                    },
+                    "Name": "bg_0_0_0_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk041.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 64,
+                    "Scale9Height": 7,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 42.9409,
+                      "Y": 149.5599
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0735,
+                      "Y": 0.8309
+                    },
+                    "PreSize": {
+                      "X": 0.1712,
+                      "Y": 0.1889
+                    },
+                    "LeftMargin": -7.0591,
+                    "RightMargin": 491.0591,
+                    "TopMargin": 13.4401,
+                    "BottomMargin": 132.5599,
+                    "Tag": 313,
+                    "ActionTag": -1234503833,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 34.0
+                    },
+                    "Name": "bg_0_0_0_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hongdi.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 25,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5047,
+                      "ScaleY": 0.5125
+                    },
+                    "Position": {
+                      "X": 362.9772,
+                      "Y": 133.5756
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6215,
+                      "Y": 0.7421
+                    },
+                    "PreSize": {
+                      "X": 0.0805,
+                      "Y": 0.2611
+                    },
+                    "LeftMargin": 339.2556,
+                    "RightMargin": 197.7444,
+                    "TopMargin": 23.5113,
+                    "BottomMargin": 109.4887,
+                    "Tag": 314,
+                    "ActionTag": -343385799,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 47.0
+                    },
+                    "Name": "bg_0_0_0_1_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "赠",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 362.4648,
+                      "Y": 130.5612
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6207,
+                      "Y": 0.7253
+                    },
+                    "PreSize": {
+                      "X": 0.0445,
+                      "Y": 0.1556
+                    },
+                    "LeftMargin": 349.4648,
+                    "RightMargin": 208.5352,
+                    "TopMargin": 35.4388,
+                    "BottomMargin": 116.5612,
+                    "Tag": 209,
+                    "ActionTag": -1638218073,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 28.0
+                    },
+                    "Name": "title_zeng",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "150000金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 172.7397,
+                      "Y": 30.3995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2958,
+                      "Y": 0.1689
+                    },
+                    "PreSize": {
+                      "X": 0.238,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 103.2397,
+                    "RightMargin": 341.7603,
+                    "TopMargin": 134.6005,
+                    "BottomMargin": 15.3995,
+                    "Tag": 315,
+                    "ActionTag": 1802863294,
+                    "Size": {
+                      "X": 139.0,
+                      "Y": 30.0
+                    },
+                    "Name": "title_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "50000金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.9903,
+                      "Y": 30.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7311,
+                      "Y": 0.1722
+                    },
+                    "PreSize": {
+                      "X": 0.2209,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 362.4903,
+                    "RightMargin": 92.5097,
+                    "TopMargin": 134.0002,
+                    "BottomMargin": 15.9998,
+                    "Tag": 316,
+                    "ActionTag": 447859230,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 30.0
+                    },
+                    "Name": "title_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "￥6",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.4869,
+                      "Y": 149.6967
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0676,
+                      "Y": 0.8316
+                    },
+                    "PreSize": {
+                      "X": 0.0685,
+                      "Y": 0.1556
+                    },
+                    "LeftMargin": 19.4869,
+                    "RightMargin": 524.5131,
+                    "TopMargin": 16.3033,
+                    "BottomMargin": 135.6967,
+                    "Tag": 317,
+                    "ActionTag": -178688991,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 28.0
+                    },
+                    "Name": "title_0_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 60,
+                    "LabelText": "+",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5382,
+                      "ScaleY": 0.4741
+                    },
+                    "Position": {
+                      "X": 291.4001,
+                      "Y": 84.0501
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.499,
+                      "Y": 0.4669
+                    },
+                    "PreSize": {
+                      "X": 0.0634,
+                      "Y": 0.3833
+                    },
+                    "LeftMargin": 271.4861,
+                    "RightMargin": 275.5139,
+                    "TopMargin": 59.6615,
+                    "BottomMargin": 51.3385,
+                    "Tag": 318,
+                    "ActionTag": 479044628,
+                    "Size": {
+                      "X": 37.0,
+                      "Y": 69.0
+                    },
+                    "Name": "title_0_1_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1868039872,
+                "Size": {
+                  "X": 584.0,
+                  "Y": 180.0
+                },
+                "Name": "bgChild",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk045.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 413.7682,
+                  "Y": 159.8787
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.0688,
+                  "Y": 0.7994
+                },
+                "PreSize": {
+                  "X": 0.935,
+                  "Y": 0.345
+                },
+                "LeftMargin": 320.2682,
+                "RightMargin": -307.2682,
+                "TopMargin": 5.6213,
+                "BottomMargin": 125.3787,
+                "Tag": 292,
+                "ActionTag": 1611704518,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 69.0
+                },
+                "Name": "dijiBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk042.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 729.007,
+                  "Y": 160.7862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.645,
+                  "Y": 0.8039
+                },
+                "PreSize": {
+                  "X": 0.935,
+                  "Y": 0.35
+                },
+                "LeftMargin": 635.507,
+                "RightMargin": -622.507,
+                "TopMargin": 4.2138,
+                "BottomMargin": 125.7862,
+                "Tag": 293,
+                "ActionTag": 1171568450,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "libaoBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "金币不足不要怕。来一款超值富豪礼包吧！",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.7278,
+                  "Y": 418.7448
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8536,
+                  "Y": 2.0937
+                },
+                "PreSize": {
+                  "X": 2.215,
+                  "Y": 0.14
+                },
+                "LeftMargin": 349.2278,
+                "RightMargin": -592.2278,
+                "TopMargin": -232.7448,
+                "BottomMargin": 404.7448,
+                "Tag": 321,
+                "ActionTag": -1177618304,
+                "Size": {
+                  "X": 443.0,
+                  "Y": 28.0
+                },
+                "Name": "title_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 567608614,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "layer_chest",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/mall/mall.plist",
+        "plaza/mall/mall.png",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

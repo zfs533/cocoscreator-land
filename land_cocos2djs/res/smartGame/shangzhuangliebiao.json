@@ -1,0 +1,165 @@
+{
+  "ID": "49d88a7a-5ba8-43f4-bff1-699f76892f5b",
+  "Version": "2.2.8.0",
+  "Name": "shangzhuangliebiao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_SZ_liebiao_di.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Width": 254,
+            "Scale9Height": 76,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.861,
+              "Y": 0.1495
+            },
+            "Tag": 99,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 39.0001,
+                  "Y": 37.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1535,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0616,
+                  "Y": 0.1094
+                },
+                "LeftMargin": 4.0001,
+                "RightMargin": 179.9999,
+                "TopMargin": 1.9998,
+                "BottomMargin": 2.0002,
+                "Tag": 98,
+                "ActionTag": -1534789265,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 70.0
+                },
+                "Name": "image_touxiang_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "大写的懵逼大写的\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 78.0001,
+                  "Y": 48.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 228,
+                  "G": 125,
+                  "B": 71
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3071,
+                  "Y": 0.6486
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 78.0001,
+                "RightMargin": -0.0001,
+                "TopMargin": 26.0,
+                "BottomMargin": 23.0,
+                "Tag": 100,
+                "ActionTag": 2134079543,
+                "Size": {
+                  "X": 176.0,
+                  "Y": 25.0
+                },
+                "Name": "text_2_xingming1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1053478923,
+            "Size": {
+              "X": 254.0,
+              "Y": 74.0
+            },
+            "Name": "image_beijing_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 254.0,
+          "Y": 74.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

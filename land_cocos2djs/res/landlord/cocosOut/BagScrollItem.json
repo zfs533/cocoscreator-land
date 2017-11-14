@@ -1,0 +1,945 @@
+{
+  "ID": "f44cba59-3ca8-40b2-8711-1b07cdd65982",
+  "Version": "2.3.4",
+  "Name": "BagScrollItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 390,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 111,
+                "Scale9Height": 74,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 158.0,
+                  "Y": 110.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1681,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3287,
+                  "Y": 0.9091
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 3.5,
+                "RightMargin": 627.5,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 257,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 21,
+                    "LabelText": "鲜花",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 203.655,
+                      "Y": 155.1089
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6591,
+                      "Y": 0.7755
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.12
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 128.655,
+                    "RightMargin": 30.345,
+                    "TopMargin": 32.8911,
+                    "BottomMargin": 143.1089,
+                    "Tag": 263,
+                    "ActionTag": -586294549,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_item_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 79.0821,
+                      "Y": 122.2855
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2559,
+                      "Y": 0.6114
+                    },
+                    "PreSize": {
+                      "X": 0.2718,
+                      "Y": 0.42
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 37.0821,
+                    "RightMargin": 187.9179,
+                    "TopMargin": 35.7145,
+                    "BottomMargin": 80.2855,
+                    "Tag": 261,
+                    "ActionTag": -219018344,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 84.0
+                    },
+                    "Name": "Image_item_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "授人鲜花，在牌局中使用",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.9153,
+                      "Y": 110.5137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6696,
+                      "Y": 0.5526
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.325
+                    },
+                    "LeftMargin": 131.9153,
+                    "RightMargin": 27.0847,
+                    "TopMargin": 56.9863,
+                    "BottomMargin": 78.0137,
+                    "Tag": 383,
+                    "ActionTag": -587409802,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 65.0
+                    },
+                    "Name": "text_item_explain",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "LabelText": "x1",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fnt/bmf_bag.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.1296,
+                      "Y": 92.8593
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3888,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.0874,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 93.1296,
+                    "RightMargin": 188.8704,
+                    "TopMargin": 93.1407,
+                    "BottomMargin": 78.8593,
+                    "Tag": 400,
+                    "ActionTag": 1535914552,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 28.0
+                    },
+                    "Name": "fnt_item_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -856497884,
+                "Size": {
+                  "X": 309.0,
+                  "Y": 200.0
+                },
+                "Name": "button_bagitem_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 111,
+                "Scale9Height": 74,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.0001,
+                  "Y": 109.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5011,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3287,
+                  "Y": 0.9091
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 316.5001,
+                "RightMargin": 314.4999,
+                "TopMargin": 10.0001,
+                "BottomMargin": 9.9999,
+                "Tag": 34,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 21,
+                    "LabelText": "鲜花",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 203.655,
+                      "Y": 155.1089
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6591,
+                      "Y": 0.7755
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.12
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 128.655,
+                    "RightMargin": 30.345,
+                    "TopMargin": 32.8911,
+                    "BottomMargin": 143.1089,
+                    "Tag": 35,
+                    "ActionTag": -714751658,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_item_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 79.0821,
+                      "Y": 122.2855
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2559,
+                      "Y": 0.6114
+                    },
+                    "PreSize": {
+                      "X": 0.2718,
+                      "Y": 0.42
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 37.0821,
+                    "RightMargin": 187.9179,
+                    "TopMargin": 35.7145,
+                    "BottomMargin": 80.2855,
+                    "Tag": 36,
+                    "ActionTag": -2116563605,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 84.0
+                    },
+                    "Name": "Image_item_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "授人鲜花，在牌局中使用",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.9153,
+                      "Y": 110.5137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6696,
+                      "Y": 0.5526
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.325
+                    },
+                    "LeftMargin": 131.9153,
+                    "RightMargin": 27.0847,
+                    "TopMargin": 56.9863,
+                    "BottomMargin": 78.0137,
+                    "Tag": 37,
+                    "ActionTag": 1741275334,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 65.0
+                    },
+                    "Name": "text_item_explain",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "LabelText": "x1",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fnt/bmf_bag.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.1296,
+                      "Y": 92.8593
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3888,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.0874,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 93.1296,
+                    "RightMargin": 188.8704,
+                    "TopMargin": 93.1407,
+                    "BottomMargin": 78.8593,
+                    "Tag": 38,
+                    "ActionTag": 744309259,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 28.0
+                    },
+                    "Name": "fnt_item_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1961695351,
+                "Size": {
+                  "X": 309.0,
+                  "Y": 200.0
+                },
+                "Name": "button_bagitem_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_item_bg.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 111,
+                "Scale9Height": 74,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 782.8486,
+                  "Y": 110.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8328,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3287,
+                  "Y": 0.9091
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 628.3486,
+                "RightMargin": 2.6514,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 44,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 21,
+                    "LabelText": "鲜花",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 203.655,
+                      "Y": 155.1089
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6591,
+                      "Y": 0.7755
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.12
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 128.655,
+                    "RightMargin": 30.345,
+                    "TopMargin": 32.8911,
+                    "BottomMargin": 143.1089,
+                    "Tag": 45,
+                    "ActionTag": -1062080049,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_item_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 79.0821,
+                      "Y": 122.2855
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2559,
+                      "Y": 0.6114
+                    },
+                    "PreSize": {
+                      "X": 0.2718,
+                      "Y": 0.42
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 37.0821,
+                    "RightMargin": 187.9179,
+                    "TopMargin": 35.7145,
+                    "BottomMargin": 80.2855,
+                    "Tag": 46,
+                    "ActionTag": 710968136,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 84.0
+                    },
+                    "Name": "Image_item_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "授人鲜花，在牌局中使用",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.9153,
+                      "Y": 110.5137
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6696,
+                      "Y": 0.5526
+                    },
+                    "PreSize": {
+                      "X": 0.4854,
+                      "Y": 0.325
+                    },
+                    "LeftMargin": 131.9153,
+                    "RightMargin": 27.0847,
+                    "TopMargin": 56.9863,
+                    "BottomMargin": 78.0137,
+                    "Tag": 47,
+                    "ActionTag": 690290121,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 65.0
+                    },
+                    "Name": "text_item_explain",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "LabelText": "x1",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fnt/bmf_bag.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.1296,
+                      "Y": 92.8593
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3888,
+                      "Y": 0.4643
+                    },
+                    "PreSize": {
+                      "X": 0.0874,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 93.1296,
+                    "RightMargin": 188.8704,
+                    "TopMargin": 93.1407,
+                    "BottomMargin": 78.8593,
+                    "Tag": 48,
+                    "ActionTag": -1416413279,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 28.0
+                    },
+                    "Name": "fnt_item_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1279910253,
+                "Size": {
+                  "X": 309.0,
+                  "Y": 200.0
+                },
+                "Name": "button_bagitem_2",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1638066581,
+            "Size": {
+              "X": 940.0,
+              "Y": 220.0
+            },
+            "Name": "layer_bagScrollitem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 940.0,
+          "Y": 220.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fnt/bmf_bag.fnt",
+        "fnt/bmf_bag.png",
+        "fnt/normal.TTF",
+        "plaza/bag/bag.plist",
+        "plaza/bag/bag.png",
+        "plaza/mall/mall.plist",
+        "plaza/mall/mall.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

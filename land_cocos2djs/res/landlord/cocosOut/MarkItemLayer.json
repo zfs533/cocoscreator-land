@@ -1,0 +1,354 @@
+{
+  "ID": "c489c27f-f9e0-4119-9e3b-7134f5eb6d26",
+  "Version": "2.3.4",
+  "Name": "MarkItemLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 135,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 18,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_rili_normal.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 9,
+                "Scale9Width": 43,
+                "Scale9Height": 31,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 60,
+                "ActionTag": -129564426,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 50.0
+                },
+                "Name": "Image_mark_normal",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_rili_select.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_rili_normal.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 9,
+                "Scale9Width": 51,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.98
+                },
+                "TopMargin": 1.0,
+                "Tag": 169,
+                "ActionTag": 1926929516,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 49.0
+                },
+                "Name": "btn_markitem_normal",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 40,
+                "LabelText": "12",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.0,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4938,
+                  "Y": 0.46
+                },
+                "PreSize": {
+                  "X": 0.4938,
+                  "Y": 0.92
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 21.0,
+                "TopMargin": 4.0,
+                "Tag": 170,
+                "ActionTag": -773366999,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 46.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_markitem_day",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_label_marked.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9OriginX": 5,
+                "Scale9OriginY": 3,
+                "Scale9Width": 35,
+                "Scale9Height": 24,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 17,
+                "ActionTag": 1874595871,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_markitem_signed",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_label_bu.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_label_bu.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9OriginX": 3,
+                "Scale9OriginY": 3,
+                "Scale9Width": 26,
+                "Scale9Height": 24,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 59,
+                "ActionTag": 1028641383,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_markitem_ret",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1480085076,
+            "Size": {
+              "X": 81.0,
+              "Y": 50.0
+            },
+            "Name": "panel_mark_item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 81.0,
+          "Y": 50.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

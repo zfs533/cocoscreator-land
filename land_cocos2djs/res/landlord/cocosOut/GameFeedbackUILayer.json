@@ -1,0 +1,1860 @@
+{
+  "ID": "c88aad86-e419-45cb-b634-16ce148ee028",
+  "Version": "2.3.4",
+  "Name": "GameFeedbackUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 44,
+        "Children": [
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.1833,
+              "Y": 1.0
+            },
+            "LeftMargin": -88.0,
+            "RightMargin": -88.0,
+            "Tag": 1197,
+            "ActionTag": -611552417,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Alpha": 85,
+            "Name": "maskLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.1833,
+              "Y": 1.0
+            },
+            "LeftMargin": -88.0,
+            "RightMargin": -88.0,
+            "Tag": 1196,
+            "ActionTag": 1253141932,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "touchLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -44,
+            "Scale9OriginY": -48,
+            "Scale9Width": 88,
+            "Scale9Height": 96,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.1833,
+              "Y": 1.0
+            },
+            "LeftMargin": -88.0,
+            "RightMargin": -88.0,
+            "Tag": 98,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_mall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6866,
+                  "Y": 0.8125
+                },
+                "LeftMargin": 178.0,
+                "RightMargin": 178.0,
+                "TopMargin": 60.0,
+                "BottomMargin": 60.0,
+                "Tag": 1177,
+                "ActionTag": -1288888547,
+                "Size": {
+                  "X": 780.0,
+                  "Y": 520.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_rank_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 96,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6866,
+                  "Y": 0.8125
+                },
+                "LeftMargin": 178.0,
+                "RightMargin": 178.0,
+                "TopMargin": 60.0,
+                "BottomMargin": 60.0,
+                "Tag": 1176,
+                "ActionTag": 158399268,
+                "Size": {
+                  "X": 780.0,
+                  "Y": 520.0
+                },
+                "Name": "Image_rank_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 8,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 344.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5375
+                },
+                "PreSize": {
+                  "X": 0.6338,
+                  "Y": 0.5625
+                },
+                "LeftMargin": 208.0,
+                "RightMargin": 208.0,
+                "TopMargin": 115.9999,
+                "BottomMargin": 164.0001,
+                "Tag": 1175,
+                "ActionTag": -1545707254,
+                "Size": {
+                  "X": 720.0,
+                  "Y": 360.0
+                },
+                "Name": "Image_rank_bg3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_problem_title.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0004,
+                  "Y": 566.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8859
+                },
+                "PreSize": {
+                  "X": 0.1673,
+                  "Y": 0.0812
+                },
+                "LeftMargin": 473.0004,
+                "RightMargin": 472.9996,
+                "TopMargin": 47.0003,
+                "BottomMargin": 540.9997,
+                "Tag": 1178,
+                "ActionTag": -1914715170,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 52.0
+                },
+                "Name": "image_mark_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 34,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 938.5999,
+                  "Y": 560.9967
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8262,
+                  "Y": 0.8766
+                },
+                "PreSize": {
+                  "X": 0.0563,
+                  "Y": 0.1
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 906.5999,
+                "RightMargin": 165.4001,
+                "TopMargin": 47.0033,
+                "BottomMargin": 528.9967,
+                "Tag": 1281,
+                "ActionTag": -1954189528,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "panel_gamefeedback_close",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 554248630,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "panel_gamefeedback",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9999,
+              "Y": 330.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5156
+            },
+            "PreSize": {
+              "X": 0.6146,
+              "Y": 0.5938
+            },
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 184.9999,
+            "RightMargin": 185.0001,
+            "TopMargin": 120.0,
+            "BottomMargin": 140.0,
+            "Tag": 102,
+            "Children": [
+              {
+                "FontSize": 21,
+                "LabelText": "请选择提交问题的类型：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -30.96,
+                  "Y": 356.6382
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0525,
+                  "Y": 0.9385
+                },
+                "PreSize": {
+                  "X": 0.3746,
+                  "Y": 0.0632
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -30.96,
+                "RightMargin": 399.96,
+                "TopMargin": 11.3618,
+                "BottomMargin": 344.6382,
+                "Tag": 104,
+                "ActionTag": -16363743,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 24.0
+                },
+                "Name": "text_gamefeedback_selectinfo",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    支付问题",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 10,
+                "Scale9Width": 127,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8737,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1184,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -29.1263,
+                "RightMargin": 421.1263,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 146,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_selected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1374,
+                    "ActionTag": -102947278,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1156979163,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_payselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    支付问题",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 11,
+                "Scale9OriginY": 10,
+                "Scale9Width": 176,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.8737,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1184,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -29.1263,
+                "RightMargin": 421.1263,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 145,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_noselected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1375,
+                    "ActionTag": 634804313,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -778029056,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_payunselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    游戏故障",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 10,
+                "Scale9Width": 156,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 292.8738,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4964,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 193.8738,
+                "RightMargin": 198.1262,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 149,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_selected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1377,
+                    "ActionTag": 1460001769,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1531469295,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_gameselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    游戏故障",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 10,
+                "Scale9Width": 157,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 292.8738,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4964,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 193.8738,
+                "RightMargin": 198.1262,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 150,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_noselected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1376,
+                    "ActionTag": 475343350,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1396294939,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_gameunselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    其他问题",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 10,
+                "Scale9Width": 127,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.874,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8744,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 416.874,
+                "RightMargin": -24.874,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 151,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_selected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1378,
+                    "ActionTag": -938962204,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1294385225,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_otherselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "    其他问题",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_ProblemBg.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 10,
+                "Scale9Width": 157,
+                "Scale9Height": 44,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.874,
+                  "Y": 301.6252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8744,
+                  "Y": 0.7938
+                },
+                "PreSize": {
+                  "X": 0.3356,
+                  "Y": 0.1684
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 416.874,
+                "RightMargin": -24.874,
+                "TopMargin": 46.3748,
+                "BottomMargin": 269.6252,
+                "Tag": 152,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_ProblemBg_noselected.png",
+                      "Plist": "setting/setting.plist"
+                    },
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 32.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1515,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1717,
+                      "Y": 0.5469
+                    },
+                    "LeftMargin": 13.0,
+                    "RightMargin": 151.0,
+                    "TopMargin": 14.5,
+                    "BottomMargin": 14.5,
+                    "Tag": 1379,
+                    "ActionTag": -1973879430,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_22_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 99052448,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_gamefeedback_otherunselect",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "重要联系方式：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -30.9598,
+                  "Y": 212.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0525,
+                  "Y": 0.5579
+                },
+                "PreSize": {
+                  "X": 0.2322,
+                  "Y": 0.0632
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -30.9598,
+                "RightMargin": 483.9598,
+                "TopMargin": 155.9998,
+                "BottomMargin": 200.0002,
+                "Tag": 155,
+                "ActionTag": -761454180,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 24.0
+                },
+                "Name": "text_gamefeedback_selectinfo_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "StretchWidthEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 316.8373,
+                  "Y": 211.9994
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.537,
+                  "Y": 0.5579
+                },
+                "PreSize": {
+                  "X": 0.661,
+                  "Y": 0.1421
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 121.8373,
+                "RightMargin": 78.1627,
+                "TopMargin": 141.0006,
+                "BottomMargin": 184.9994,
+                "Tag": 29,
+                "Children": [
+                  {
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "FontSize": 21,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "请输入您的手机号码，方便我们联系您！",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 11,
+                    "TouchEnable": true,
+                    "StretchWidthEnable": true,
+                    "StretchHeightEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 7.9995,
+                      "Y": 20.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 158,
+                      "G": 158,
+                      "B": 158
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0205,
+                      "Y": 0.3814
+                    },
+                    "PreSize": {
+                      "X": 0.9641,
+                      "Y": 0.6481
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 7.9995,
+                    "RightMargin": 6.0005,
+                    "TopMargin": 15.9034,
+                    "BottomMargin": 3.0966,
+                    "Tag": 156,
+                    "ActionTag": -950150732,
+                    "Size": {
+                      "X": 376.0,
+                      "Y": 35.0
+                    },
+                    "Alpha": 153,
+                    "Name": "textfaild_gamefeedback_mobile",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": 719666474,
+                "Size": {
+                  "X": 390.0,
+                  "Y": 54.0
+                },
+                "Name": "Image_gamefeedback_contact",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "详细描述遇到的问题：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -30.9599,
+                  "Y": 146.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0525,
+                  "Y": 0.3868
+                },
+                "PreSize": {
+                  "X": 0.339,
+                  "Y": 0.0632
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -30.9599,
+                "RightMargin": 420.9599,
+                "TopMargin": 221.0001,
+                "BottomMargin": 134.9999,
+                "Tag": 30,
+                "ActionTag": 480541481,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 24.0
+                },
+                "Name": "text_gamefeedback_probleminfo",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 24,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -29.9593,
+                  "Y": 82.2446
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0508,
+                  "Y": 0.2164
+                },
+                "PreSize": {
+                  "X": 0.9186,
+                  "Y": 0.2368
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -29.9593,
+                "RightMargin": 77.9593,
+                "TopMargin": 252.7554,
+                "BottomMargin": 37.2446,
+                "Tag": 31,
+                "Children": [
+                  {
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "FontSize": 21,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "请描述具体的问题",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 60,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.3658,
+                      "Y": 44.1525
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 158,
+                      "G": 158,
+                      "B": 158
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0191,
+                      "Y": 0.4906
+                    },
+                    "PreSize": {
+                      "X": 0.9594,
+                      "Y": 0.8889
+                    },
+                    "LeftMargin": 10.3658,
+                    "RightMargin": 11.6342,
+                    "TopMargin": 5.8475,
+                    "BottomMargin": 4.1525,
+                    "Tag": 1380,
+                    "ActionTag": -6155059,
+                    "Size": {
+                      "X": 520.0,
+                      "Y": 80.0
+                    },
+                    "Alpha": 153,
+                    "Name": "textfield_gamefeedback_problem",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": 378146359,
+                "Size": {
+                  "X": 542.0,
+                  "Y": 90.0
+                },
+                "Name": "Image_gamefeedback_problembk",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 72,
+                "ButtonText": "",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_uploadImage.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_uploadImage.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 4,
+                "Scale9OriginY": 4,
+                "Scale9Width": 58,
+                "Scale9Height": 58,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 567.1917,
+                  "Y": 95.2964
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9613,
+                  "Y": 0.2508
+                },
+                "PreSize": {
+                  "X": 0.1119,
+                  "Y": 0.1737
+                },
+                "LeftMargin": 534.1917,
+                "RightMargin": -10.1917,
+                "TopMargin": 251.7036,
+                "BottomMargin": 62.2964,
+                "Tag": 78,
+                "ActionTag": 791710935,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_image_upload",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -848319973,
+            "Size": {
+              "X": 590.0,
+              "Y": 380.0
+            },
+            "Name": "panel_gamefeedback_body",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "上传图片",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fnt/normal.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 752.2225,
+              "Y": 187.0081
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 207,
+              "G": 239
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7836,
+              "Y": 0.2922
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0328
+            },
+            "LeftMargin": 714.7225,
+            "RightMargin": 170.2775,
+            "TopMargin": 442.4919,
+            "BottomMargin": 176.5081,
+            "Tag": 105,
+            "ActionTag": 1443530659,
+            "Size": {
+              "X": 75.0,
+              "Y": 21.0
+            },
+            "Name": "text_imageloadinfo",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 44,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sendProblem.png",
+              "Plist": "setting/setting.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sendProblem.png",
+              "Plist": "setting/setting.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 16,
+            "Scale9Width": 163,
+            "Scale9Height": 30,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 113.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1781
+            },
+            "PreSize": {
+              "X": 0.1948,
+              "Y": 0.1094
+            },
+            "LeftMargin": 386.5,
+            "RightMargin": 386.5,
+            "TopMargin": 491.0001,
+            "BottomMargin": 78.9999,
+            "Tag": 104,
+            "ActionTag": -1488630184,
+            "Size": {
+              "X": 187.0,
+              "Y": 70.0
+            },
+            "Name": "btn_gamefeedback_submit",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/image_mall_bg.png",
+        "plaza/safeBox/safeBox.plist",
+        "plaza/safeBox/safeBox.png",
+        "setting/setting.plist",
+        "setting/setting.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

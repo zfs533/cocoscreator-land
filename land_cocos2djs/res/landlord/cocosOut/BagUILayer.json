@@ -1,0 +1,551 @@
+{
+  "ID": "a746267c-394e-4efe-98f9-7e1e438d8de0",
+  "Version": "2.3.4",
+  "Name": "BagUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 124,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_plazaBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 449,
+            "ActionTag": -1381887722,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "image_plazaBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_topBar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1625
+            },
+            "BottomMargin": 536.0,
+            "Tag": 446,
+            "ActionTag": 905720369,
+            "Size": {
+              "X": 1136.0,
+              "Y": 104.0
+            },
+            "Name": "image_topBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 30.0,
+              "Y": 610.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0264,
+              "Y": 0.9531
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0688
+            },
+            "LeftMargin": 2.0,
+            "RightMargin": 1078.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 588.0,
+            "Tag": 1156,
+            "ActionTag": -1689654575,
+            "Size": {
+              "X": 56.0,
+              "Y": 44.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_mall_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 21,
+            "Scale9Width": 22,
+            "Scale9Height": 22,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8594
+            },
+            "TopMargin": 90.0,
+            "Tag": 1187,
+            "ActionTag": 1001478452,
+            "Size": {
+              "X": 1136.0,
+              "Y": 550.0
+            },
+            "Name": "BG",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_label_bg.png",
+              "Plist": "plaza/userInfo/userInfo.plist"
+            },
+            "Scale9OriginX": 72,
+            "Scale9OriginY": 2,
+            "Scale9Width": 6,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1128.0,
+              "Y": 553.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.993,
+              "Y": 0.8641
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0141
+            },
+            "LeftMargin": 978.0,
+            "RightMargin": 8.0,
+            "TopMargin": 87.0,
+            "BottomMargin": 544.0,
+            "Tag": 144,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_title_label_bag.png",
+                  "Plist": "plaza/bag/bag.plist"
+                },
+                "Scale9OriginX": 21,
+                "Scale9OriginY": 11,
+                "Scale9Width": 124,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 76.0,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5067,
+                  "Y": 5.7778
+                },
+                "PreSize": {
+                  "X": 1.1067,
+                  "Y": 7.3333
+                },
+                "LeftMargin": -7.0,
+                "RightMargin": -9.0,
+                "TopMargin": -76.0,
+                "BottomMargin": 19.0,
+                "Tag": 145,
+                "ActionTag": 1368857442,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 66.0
+                },
+                "Name": "Image_label_bag",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1498595659,
+            "Size": {
+              "X": 150.0,
+              "Y": 9.0
+            },
+            "Name": "Image_label_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 275.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4297
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.4688
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 268.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 275.0,
+            "Tag": 215,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_mall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -0.0001,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 3.1533,
+                  "Y": 1.7
+                },
+                "LeftMargin": -473.0001,
+                "RightMargin": -172.9999,
+                "TopMargin": 45.0,
+                "BottomMargin": -255.0,
+                "Tag": 216,
+                "ActionTag": 1653354056,
+                "Size": {
+                  "X": 946.0,
+                  "Y": 510.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_bag_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "你的背包是空的哦！",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.1233
+                },
+                "LeftMargin": -135.0,
+                "RightMargin": 165.0,
+                "TopMargin": 281.5,
+                "BottomMargin": -18.5,
+                "Tag": 435,
+                "ActionTag": 222401688,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 37.0
+                },
+                "Name": "text_bag_tips",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 960,
+                  "Height": 516
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 86,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 3.1333,
+                  "Y": 1.7
+                },
+                "LeftMargin": -470.0,
+                "RightMargin": -170.0,
+                "TopMargin": 45.0,
+                "BottomMargin": -255.0,
+                "Tag": 64,
+                "ActionTag": 815863272,
+                "Size": {
+                  "X": 940.0,
+                  "Y": 510.0
+                },
+                "Name": "scrollView_bag",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": -867742059,
+            "Size": {
+              "X": 300.0,
+              "Y": 300.0
+            },
+            "Name": "layer_bag",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "fnt/normal.TTF",
+        "plaza/bag/bag.plist",
+        "plaza/bag/bag.png",
+        "plaza/image_mall_bg.png",
+        "plaza/image_plazaBg.jpg",
+        "plaza/image_topBar.png",
+        "plaza/userInfo/userInfo.plist",
+        "plaza/userInfo/userInfo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

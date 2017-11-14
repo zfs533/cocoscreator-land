@@ -1,0 +1,1770 @@
+{
+  "ID": "9056cc38-1e2d-4aa9-859b-6fa18f676b41",
+  "Version": "2.3.4",
+  "Name": "SafeBoxLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 124,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_plazaBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 449,
+            "ActionTag": -1381887722,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "image_plazaBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_topBar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1625
+            },
+            "BottomMargin": 536.0,
+            "Tag": 446,
+            "ActionTag": 905720369,
+            "Size": {
+              "X": 1136.0,
+              "Y": 104.0
+            },
+            "Name": "image_topBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 30.0,
+              "Y": 610.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0264,
+              "Y": 0.9531
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0688
+            },
+            "LeftMargin": 2.0,
+            "RightMargin": 1078.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 588.0,
+            "Tag": 1156,
+            "ActionTag": -1689654575,
+            "Size": {
+              "X": 56.0,
+              "Y": 44.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_mall_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 21,
+            "Scale9Width": 22,
+            "Scale9Height": 22,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8594
+            },
+            "TopMargin": 90.0,
+            "Tag": 981,
+            "ActionTag": -327779567,
+            "Size": {
+              "X": 1136.0,
+              "Y": 550.0
+            },
+            "Name": "BG",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_label_bg.png",
+              "Plist": "plaza/userInfo/userInfo.plist"
+            },
+            "Scale9OriginX": 72,
+            "Scale9OriginY": 2,
+            "Scale9Width": 6,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1128.0,
+              "Y": 553.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.993,
+              "Y": 0.8641
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0141
+            },
+            "LeftMargin": 978.0,
+            "RightMargin": 8.0,
+            "TopMargin": 87.0,
+            "BottomMargin": 544.0,
+            "Tag": 144,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_label_title.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9OriginX": 21,
+                "Scale9OriginY": 11,
+                "Scale9Width": 56,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 76.0,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5067,
+                  "Y": 5.7778
+                },
+                "PreSize": {
+                  "X": 0.6533,
+                  "Y": 3.7778
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 25.0,
+                "TopMargin": -60.0,
+                "BottomMargin": 35.0,
+                "Tag": 145,
+                "ActionTag": 1368857442,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_label_safeBox",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1498595659,
+            "Size": {
+              "X": 150.0,
+              "Y": 9.0
+            },
+            "Name": "Image_label_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 275.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4297
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.4688
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 268.0,
+            "TopMargin": 65.0,
+            "BottomMargin": 275.0,
+            "Tag": 215,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_mall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -9.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.0333
+                },
+                "PreSize": {
+                  "X": 3.11,
+                  "Y": 1.6867
+                },
+                "LeftMargin": -466.5,
+                "RightMargin": -166.5,
+                "TopMargin": 56.9995,
+                "BottomMargin": -262.9995,
+                "Tag": 216,
+                "ActionTag": 1653354056,
+                "Size": {
+                  "X": 933.0,
+                  "Y": 506.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_safeBox_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_title.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 195.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 1.1133,
+                  "Y": 0.35
+                },
+                "LeftMargin": -167.0,
+                "RightMargin": 133.0,
+                "TopMargin": 52.5,
+                "BottomMargin": 142.5,
+                "Tag": 235,
+                "ActionTag": 852113422,
+                "Size": {
+                  "X": 334.0,
+                  "Y": 105.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_safeBox_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 96,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0007,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 3.0933,
+                  "Y": 1.6
+                },
+                "LeftMargin": -463.9993,
+                "RightMargin": -164.0007,
+                "TopMargin": 60.0,
+                "BottomMargin": -240.0,
+                "Tag": 239,
+                "ActionTag": -1414165743,
+                "Size": {
+                  "X": 928.0,
+                  "Y": 480.0
+                },
+                "Name": "image_safeBox_storage_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 24,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -239.999,
+                  "Y": -28.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.8,
+                  "Y": -0.0933
+                },
+                "PreSize": {
+                  "X": 1.3,
+                  "Y": 1.2
+                },
+                "LeftMargin": -434.999,
+                "RightMargin": 344.999,
+                "TopMargin": 148.0003,
+                "BottomMargin": -208.0003,
+                "Tag": 238,
+                "ActionTag": -1855087736,
+                "Size": {
+                  "X": 390.0,
+                  "Y": 360.0
+                },
+                "Name": "image_safeBox_storage_bg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_girln.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -357.2681,
+                  "Y": -50.7243
+                },
+                "Scale": {
+                  "ScaleX": 0.85,
+                  "ScaleY": 0.85
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.1909,
+                  "Y": -0.1691
+                },
+                "PreSize": {
+                  "X": 0.5967,
+                  "Y": 1.1533
+                },
+                "LeftMargin": -446.7681,
+                "RightMargin": 567.7681,
+                "TopMargin": 177.7243,
+                "BottomMargin": -223.7243,
+                "Tag": 240,
+                "ActionTag": -2014910726,
+                "Size": {
+                  "X": 179.0,
+                  "Y": 346.0
+                },
+                "Name": "image_safeBox_girl",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_bg2.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 196,
+                "Scale9Height": 196,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 223.912,
+                  "Y": -34.9306
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7464,
+                  "Y": -0.1164
+                },
+                "PreSize": {
+                  "X": 1.4433,
+                  "Y": 1.2533
+                },
+                "LeftMargin": 7.412,
+                "RightMargin": -140.412,
+                "TopMargin": 146.9306,
+                "BottomMargin": -222.9306,
+                "Tag": 241,
+                "ActionTag": 1024278501,
+                "Size": {
+                  "X": 433.0,
+                  "Y": 376.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_safeBox_operate_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 24,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 202.0437,
+                  "Y": -28.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6735,
+                  "Y": -0.0933
+                },
+                "PreSize": {
+                  "X": 1.5333,
+                  "Y": 1.2
+                },
+                "LeftMargin": -27.9563,
+                "RightMargin": -132.0437,
+                "TopMargin": 148.0,
+                "BottomMargin": -208.0,
+                "Tag": 242,
+                "ActionTag": 300865191,
+                "Size": {
+                  "X": 460.0,
+                  "Y": 360.0
+                },
+                "Name": "image_safeBox_operate_bg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_storage_title.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -239.9984,
+                  "Y": 186.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.8,
+                  "Y": 0.62
+                },
+                "PreSize": {
+                  "X": 0.34,
+                  "Y": 0.1167
+                },
+                "LeftMargin": -290.9984,
+                "RightMargin": 488.9984,
+                "TopMargin": 96.5,
+                "BottomMargin": 168.5,
+                "Tag": 244,
+                "ActionTag": -83810070,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 35.0
+                },
+                "Name": "image_storage_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_operate_title.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 203.0005,
+                  "Y": 186.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6767,
+                  "Y": 0.62
+                },
+                "PreSize": {
+                  "X": 0.34,
+                  "Y": 0.1167
+                },
+                "LeftMargin": 152.0005,
+                "RightMargin": 45.9995,
+                "TopMargin": 96.5,
+                "BottomMargin": 168.5,
+                "Tag": 243,
+                "ActionTag": -1185738339,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 35.0
+                },
+                "Name": "image_operate_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_storage_icon.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9OriginX": 64,
+                "Scale9OriginY": 33,
+                "Scale9Width": 66,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -191.8425,
+                  "Y": 10.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6395,
+                  "Y": 0.0333
+                },
+                "PreSize": {
+                  "X": 0.6467,
+                  "Y": 0.3367
+                },
+                "LeftMargin": -288.8425,
+                "RightMargin": 394.8425,
+                "TopMargin": 239.4998,
+                "BottomMargin": -40.4998,
+                "Tag": 245,
+                "ActionTag": 1896901464,
+                "Size": {
+                  "X": 194.0,
+                  "Y": 101.0
+                },
+                "Name": "image_storage_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "当前存储金额",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -187.3468,
+                  "Y": -55.6847
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 250,
+                  "B": 177
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6245,
+                  "Y": -0.1856
+                },
+                "PreSize": {
+                  "X": 0.43,
+                  "Y": 0.08
+                },
+                "LeftMargin": -251.8468,
+                "RightMargin": 422.8468,
+                "TopMargin": 343.6847,
+                "BottomMargin": -67.6847,
+                "Tag": 249,
+                "ActionTag": 2057491176,
+                "Size": {
+                  "X": 129.0,
+                  "Y": 24.0
+                },
+                "Name": "text_safeBox_current",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_goldBar.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "Scale9OriginX": 35,
+                "Scale9OriginY": 11,
+                "Scale9Width": 146,
+                "Scale9Height": 19,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -185.0,
+                  "Y": -150.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6167,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.68,
+                  "Y": 0.1533
+                },
+                "LeftMargin": -287.0,
+                "RightMargin": 383.0,
+                "TopMargin": 427.0,
+                "BottomMargin": -173.0,
+                "Tag": 265,
+                "ActionTag": -269316159,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 46.0
+                },
+                "Name": "image_safeBox_current_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "1231321232",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -178.0602,
+                  "Y": -151.6942
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.5935,
+                  "Y": -0.5056
+                },
+                "PreSize": {
+                  "X": 0.4233,
+                  "Y": 0.0933
+                },
+                "LeftMargin": -241.5602,
+                "RightMargin": 414.5602,
+                "TopMargin": 437.6942,
+                "BottomMargin": -165.6942,
+                "Tag": 266,
+                "ActionTag": 1784484867,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 28.0
+                },
+                "Name": "text_safedeposbox_inglod",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 17,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 202.2487,
+                  "Y": 55.6584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6742,
+                  "Y": 0.1855
+                },
+                "PreSize": {
+                  "X": 1.4,
+                  "Y": 0.2067
+                },
+                "LeftMargin": -7.7513,
+                "RightMargin": -112.2487,
+                "TopMargin": 213.3416,
+                "BottomMargin": 24.6584,
+                "Tag": 268,
+                "ActionTag": 430840899,
+                "Size": {
+                  "X": 420.0,
+                  "Y": 62.0
+                },
+                "Name": "image_safebox_text",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 199.0,
+                  "Y": 54.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 189,
+                  "G": 189,
+                  "B": 189
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6633,
+                  "Y": 0.18
+                },
+                "PreSize": {
+                  "X": 1.3333,
+                  "Y": 0.17
+                },
+                "LeftMargin": -1.0,
+                "RightMargin": -99.0,
+                "TopMargin": 220.5,
+                "BottomMargin": 28.5,
+                "Tag": 269,
+                "ActionTag": 150683705,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 51.0
+                },
+                "Name": "text_safedeposbox_outgold",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "存取金额不能低于10000金币",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 203.2485,
+                  "Y": -62.7063
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 250,
+                  "B": 177
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6775,
+                  "Y": -0.209
+                },
+                "PreSize": {
+                  "X": 0.8967,
+                  "Y": 0.08
+                },
+                "LeftMargin": 68.7485,
+                "RightMargin": -37.7485,
+                "TopMargin": 350.7063,
+                "BottomMargin": -74.7063,
+                "Tag": 270,
+                "ActionTag": -1581357807,
+                "Size": {
+                  "X": 269.0,
+                  "Y": 24.0
+                },
+                "Name": "text_safeBox_explain",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_in.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_in.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 79.0004,
+                  "Y": -148.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2633,
+                  "Y": -0.4933
+                },
+                "PreSize": {
+                  "X": 0.6233,
+                  "Y": 0.23
+                },
+                "LeftMargin": -14.4996,
+                "RightMargin": 127.4996,
+                "TopMargin": 413.5001,
+                "BottomMargin": -182.5001,
+                "Tag": 272,
+                "ActionTag": 337205882,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 69.0
+                },
+                "Name": "btn_safedeposbox_in",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_out.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_out.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 322.9999,
+                  "Y": -147.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0767,
+                  "Y": -0.4933
+                },
+                "PreSize": {
+                  "X": 0.6233,
+                  "Y": 0.2333
+                },
+                "LeftMargin": 229.4999,
+                "RightMargin": -116.4999,
+                "TopMargin": 412.9998,
+                "BottomMargin": -182.9998,
+                "Tag": 271,
+                "ActionTag": 1443999674,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_safedeposbox_out",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -867742059,
+            "Size": {
+              "X": 300.0,
+              "Y": 300.0
+            },
+            "Name": "layer_safeBox",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2641,
+              "Y": 0.4688
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 268.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 320.0,
+            "Tag": 273,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 127,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 3.7867,
+                  "Y": 2.1333
+                },
+                "LeftMargin": -568.0,
+                "RightMargin": -268.0,
+                "TopMargin": -20.0,
+                "BottomMargin": -320.0,
+                "Tag": 385,
+                "ActionTag": -622103525,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "tip_mask",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_tips_bg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 402,
+                "Scale9Height": 226,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.6567,
+                  "Y": 1.0367
+                },
+                "LeftMargin": -248.5,
+                "RightMargin": 51.5,
+                "TopMargin": 144.5,
+                "BottomMargin": -155.5,
+                "Tag": 279,
+                "ActionTag": -1459567926,
+                "Size": {
+                  "X": 497.0,
+                  "Y": 311.0
+                },
+                "Name": "image_safeBox_tips_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_tips_title.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 117.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.39
+                },
+                "PreSize": {
+                  "X": 0.9133,
+                  "Y": 0.1167
+                },
+                "LeftMargin": -137.0,
+                "RightMargin": 163.0,
+                "TopMargin": 165.5,
+                "BottomMargin": 99.5,
+                "Tag": 292,
+                "ActionTag": 1226306626,
+                "Size": {
+                  "X": 274.0,
+                  "Y": 35.0
+                },
+                "Name": "image_safeBox_tips_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 17,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.11
+                },
+                "PreSize": {
+                  "X": 1.1333,
+                  "Y": 0.22
+                },
+                "LeftMargin": -170.0,
+                "RightMargin": 130.0,
+                "TopMargin": 234.0,
+                "Tag": 287,
+                "ActionTag": 1109585018,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 66.0
+                },
+                "Name": "image_safeBox_tips_text_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -160.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 208,
+                  "G": 208,
+                  "B": 208
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.5333,
+                  "Y": 0.11
+                },
+                "PreSize": {
+                  "X": 1.0667,
+                  "Y": 0.1
+                },
+                "LeftMargin": -160.0,
+                "RightMargin": 140.0,
+                "TopMargin": 252.0,
+                "BottomMargin": 18.0,
+                "Tag": 288,
+                "ActionTag": 1578765717,
+                "Size": {
+                  "X": 320.0,
+                  "Y": 30.0
+                },
+                "Name": "text_safeBox_tips_pw",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_tips_ok.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_safeBox_tips_ok.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -85.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.2833
+                },
+                "PreSize": {
+                  "X": 0.6633,
+                  "Y": 0.2333
+                },
+                "LeftMargin": -99.5,
+                "RightMargin": 200.5,
+                "TopMargin": 350.0,
+                "BottomMargin": -120.0,
+                "Tag": 291,
+                "ActionTag": -1582180540,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_safeBox_tips_ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_press.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_press.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 34,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 223.256,
+                  "Y": 128.8393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7442,
+                  "Y": 0.4295
+                },
+                "PreSize": {
+                  "X": 0.2567,
+                  "Y": 0.2567
+                },
+                "LeftMargin": 184.756,
+                "RightMargin": 38.244,
+                "TopMargin": 132.6607,
+                "BottomMargin": 90.3393,
+                "Tag": 345,
+                "ActionTag": -732072833,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 77.0
+                },
+                "Name": "btn_safeBox_tips_back",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1777777374,
+            "Size": {
+              "X": 300.0,
+              "Y": 300.0
+            },
+            "VisibleForFrame": false,
+            "Name": "layer_safeBox_tips",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/image_mall_bg.png",
+        "plaza/image_plazaBg.jpg",
+        "plaza/image_topBar.png",
+        "plaza/plaza.plist",
+        "plaza/plaza.png",
+        "plaza/safeBox/safeBox.plist",
+        "plaza/safeBox/safeBox.png",
+        "plaza/userInfo/userInfo.plist",
+        "plaza/userInfo/userInfo.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

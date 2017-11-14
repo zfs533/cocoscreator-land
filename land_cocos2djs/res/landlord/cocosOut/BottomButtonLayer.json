@@ -1,0 +1,1809 @@
+{
+  "ID": "a8b70292-fff7-45bf-8710-e1ad9f5e7344",
+  "Version": "2.3.4",
+  "Name": "BottomButtonLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -200.0,
+            "TopMargin": -200.0,
+            "Tag": 571,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_bottomBar.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 1136,
+                "Scale9Height": 57,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 5.68,
+                  "Y": 0.285
+                },
+                "LeftMargin": -568.0,
+                "RightMargin": -368.0,
+                "TopMargin": 143.0,
+                "Tag": 129,
+                "ActionTag": -1983759408,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 57.0
+                },
+                "Name": "image_bottomBar",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 4.8,
+                  "Y": 0.35
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": -280.0,
+                "TopMargin": 130.0,
+                "Tag": 196,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 174,
+                    "Scale9Height": 143,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 87.6938,
+                      "Y": 72.3998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0913,
+                      "Y": 1.0343
+                    },
+                    "PreSize": {
+                      "X": 0.2083,
+                      "Y": 2.2143
+                    },
+                    "LeftMargin": -12.3062,
+                    "RightMargin": 772.3062,
+                    "TopMargin": -79.8998,
+                    "BottomMargin": -5.1002,
+                    "Tag": 197,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_bottom_mail.png",
+                          "Plist": "plaza/plaza.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 139.9832,
+                          "Y": 38.2213
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6999,
+                          "Y": 0.2466
+                        },
+                        "PreSize": {
+                          "X": 0.605,
+                          "Y": 0.3419
+                        },
+                        "LeftMargin": 79.4832,
+                        "RightMargin": -0.4832,
+                        "TopMargin": 90.2787,
+                        "BottomMargin": 11.7213,
+                        "Tag": 198,
+                        "ActionTag": 1458340770,
+                        "Size": {
+                          "X": 121.0,
+                          "Y": 53.0
+                        },
+                        "Name": "image_bottom_mail",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "particle/p_mallbutton.plist",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 66.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.33,
+                          "Y": 0.5806
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 66.0,
+                        "RightMargin": 134.0,
+                        "TopMargin": 65.0,
+                        "BottomMargin": 90.0,
+                        "Tag": 387,
+                        "ActionTag": -286699708,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "particle_mall",
+                        "ctype": "ParticleObjectData"
+                      }
+                    ],
+                    "ActionTag": -259717648,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 155.0
+                    },
+                    "Name": "btn_mail",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 90,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 292.8746,
+                      "Y": 35.9709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3051,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1208,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 234.8746,
+                    "RightMargin": 609.1254,
+                    "TopMargin": 0.0291,
+                    "BottomMargin": 1.9709,
+                    "Tag": 200,
+                    "ActionTag": 404913465,
+                    "Size": {
+                      "X": 116.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_bag",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 87,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 489.6119,
+                      "Y": 35.9709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1177,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 433.1119,
+                    "RightMargin": 413.8881,
+                    "TopMargin": 0.0291,
+                    "BottomMargin": 1.9709,
+                    "Tag": 201,
+                    "ActionTag": -4201119,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_task",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 110,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 686.3492,
+                      "Y": 35.9709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7149,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1417,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 618.3492,
+                    "RightMargin": 205.6508,
+                    "TopMargin": 0.0291,
+                    "BottomMargin": 1.9709,
+                    "Tag": 202,
+                    "ActionTag": 683726566,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_ranking",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 121,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 883.0865,
+                      "Y": 35.9709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9199,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1531,
+                      "Y": 0.8714
+                    },
+                    "LeftMargin": 809.5865,
+                    "RightMargin": 3.4135,
+                    "TopMargin": 3.5291,
+                    "BottomMargin": 5.4709,
+                    "Tag": 203,
+                    "ActionTag": -2025450011,
+                    "Size": {
+                      "X": 147.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btn_safeBox",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1852294858,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 70.0
+                },
+                "Name": "layer_btn_iosCheck",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 4.8,
+                  "Y": 0.35
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": -280.0,
+                "TopMargin": 130.0,
+                "Tag": 205,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 174,
+                    "Scale9Height": 143,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 87.6938,
+                      "Y": 72.3998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0913,
+                      "Y": 1.0343
+                    },
+                    "PreSize": {
+                      "X": 0.2083,
+                      "Y": 2.2143
+                    },
+                    "LeftMargin": -12.3062,
+                    "RightMargin": 772.3062,
+                    "TopMargin": -79.8998,
+                    "BottomMargin": -5.1002,
+                    "Tag": 206,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_bottom_mail.png",
+                          "Plist": "plaza/plaza.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 139.9832,
+                          "Y": 38.2213
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6999,
+                          "Y": 0.2466
+                        },
+                        "PreSize": {
+                          "X": 0.605,
+                          "Y": 0.3419
+                        },
+                        "LeftMargin": 79.4832,
+                        "RightMargin": -0.4832,
+                        "TopMargin": 90.2787,
+                        "BottomMargin": 11.7213,
+                        "Tag": 207,
+                        "ActionTag": -1054725586,
+                        "Size": {
+                          "X": 121.0,
+                          "Y": 53.0
+                        },
+                        "Name": "image_bottom_mail",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "particle/p_mallbutton.plist",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 66.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.33,
+                          "Y": 0.5806
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 66.0,
+                        "RightMargin": 134.0,
+                        "TopMargin": 65.0,
+                        "BottomMargin": 90.0,
+                        "Tag": 386,
+                        "ActionTag": 274322804,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "particle_mall",
+                        "ctype": "ParticleObjectData"
+                      }
+                    ],
+                    "ActionTag": 1614680226,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 155.0
+                    },
+                    "Name": "btn_mail",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 87,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 272.7972,
+                      "Y": 35.9715
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2842,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1177,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 216.2972,
+                    "RightMargin": 630.7028,
+                    "TopMargin": 0.0285,
+                    "BottomMargin": 1.9715,
+                    "Tag": 208,
+                    "ActionTag": 1393321799,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_exchange",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 90,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.0538,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4438,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1208,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 368.0538,
+                    "RightMargin": 475.9462,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 209,
+                    "ActionTag": 902576418,
+                    "Size": {
+                      "X": 116.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_bag",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 87,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 579.3104,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6034,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1177,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 522.8104,
+                    "RightMargin": 324.1896,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 210,
+                    "ActionTag": 1316878710,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_task",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 110,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 732.5669,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7631,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1417,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 664.5669,
+                    "RightMargin": 159.4331,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 211,
+                    "ActionTag": 885241257,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_ranking",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 121,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 885.8235,
+                      "Y": 34.6021
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9227,
+                      "Y": 0.4943
+                    },
+                    "PreSize": {
+                      "X": 0.1531,
+                      "Y": 0.8714
+                    },
+                    "LeftMargin": 812.3235,
+                    "RightMargin": 0.6765,
+                    "TopMargin": 4.8979,
+                    "BottomMargin": 4.1021,
+                    "Tag": 212,
+                    "ActionTag": 866366154,
+                    "Size": {
+                      "X": 147.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btn_safeBox",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 133658298,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 70.0
+                },
+                "Name": "layer_btn_ios",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 4.8,
+                  "Y": 0.35
+                },
+                "LeftMargin": -480.0,
+                "RightMargin": -280.0,
+                "TopMargin": 130.0,
+                "Tag": 369,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_mail.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 174,
+                    "Scale9Height": 143,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 87.6938,
+                      "Y": 72.3998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0913,
+                      "Y": 1.0343
+                    },
+                    "PreSize": {
+                      "X": 0.2083,
+                      "Y": 2.2143
+                    },
+                    "LeftMargin": -12.3062,
+                    "RightMargin": 772.3062,
+                    "TopMargin": -79.8998,
+                    "BottomMargin": -5.1002,
+                    "Tag": 370,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_bottom_mail.png",
+                          "Plist": "plaza/plaza.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 139.9832,
+                          "Y": 38.2213
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6999,
+                          "Y": 0.2466
+                        },
+                        "PreSize": {
+                          "X": 0.605,
+                          "Y": 0.3419
+                        },
+                        "LeftMargin": 79.4832,
+                        "RightMargin": -0.4832,
+                        "TopMargin": 90.2787,
+                        "BottomMargin": 11.7213,
+                        "Tag": 371,
+                        "ActionTag": -1087072214,
+                        "Size": {
+                          "X": 121.0,
+                          "Y": 53.0
+                        },
+                        "Name": "image_bottom_mail",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "particle/p_mallbutton.plist",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 66.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.33,
+                          "Y": 0.5806
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 66.0,
+                        "RightMargin": 134.0,
+                        "TopMargin": 65.0,
+                        "BottomMargin": 90.0,
+                        "Tag": 377,
+                        "ActionTag": -1012119704,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "particle_mall",
+                        "ctype": "ParticleObjectData"
+                      }
+                    ],
+                    "ActionTag": -255708732,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 155.0
+                    },
+                    "Name": "btn_mail",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ exchange.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 87,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 272.7972,
+                      "Y": 35.9715
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2842,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1177,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 216.2972,
+                    "RightMargin": 630.7028,
+                    "TopMargin": 0.0285,
+                    "BottomMargin": 1.9715,
+                    "Tag": 372,
+                    "ActionTag": -1394060650,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_exchange",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_bag.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 90,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.0538,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4438,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1208,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 368.0538,
+                    "RightMargin": 475.9462,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 373,
+                    "ActionTag": 774220728,
+                    "Size": {
+                      "X": 116.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_bag",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_task.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 87,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 579.3104,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6034,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1177,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 522.8104,
+                    "RightMargin": 324.1896,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 374,
+                    "ActionTag": 1853121440,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_task",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_ranking.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 110,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 732.5669,
+                      "Y": 35.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7631,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.1417,
+                      "Y": 0.9714
+                    },
+                    "LeftMargin": 664.5669,
+                    "RightMargin": 159.4331,
+                    "TopMargin": 0.0282,
+                    "BottomMargin": 1.9718,
+                    "Tag": 375,
+                    "ActionTag": 639818838,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 68.0
+                    },
+                    "Name": "btn_ranking",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_bottom_safeBox.png",
+                      "Plist": "plaza/plaza.plist"
+                    },
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 121,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 885.8235,
+                      "Y": 34.6021
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9227,
+                      "Y": 0.4943
+                    },
+                    "PreSize": {
+                      "X": 0.1531,
+                      "Y": 0.8714
+                    },
+                    "LeftMargin": 812.3235,
+                    "RightMargin": 0.6765,
+                    "TopMargin": 4.8979,
+                    "BottomMargin": 4.1021,
+                    "Tag": 376,
+                    "ActionTag": 990398958,
+                    "Size": {
+                      "X": 147.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btn_safeBox",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 772767439,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 70.0
+                },
+                "Name": "layer_btn_android",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1941264500,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "layer_bottom",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "particle/p_mallbutton.plist",
+        "plaza/image_bottomBar.png",
+        "plaza/plaza.plist",
+        "plaza/plaza.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

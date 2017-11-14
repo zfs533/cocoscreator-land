@@ -1,0 +1,8 @@
+{
+    "packageUrl":"http://appservices.8633.com/Appupdate",
+    "remoteManifestUrl":"http://appservices.8633.com/api/update.aspx?name=project",
+    "remoteVersionUrl":"http://appservices.8633.com/api/update.aspx?name=version",
+    "version":"1.1.3008",
+    "enginen":"3.0",
+    "restartFlag":"1"
+}

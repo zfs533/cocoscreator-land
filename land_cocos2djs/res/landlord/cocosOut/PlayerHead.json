@@ -1,0 +1,980 @@
+{
+  "ID": "b5b1c2d4-ed3b-40f4-93a2-a34127268f3d",
+  "Version": "2.3.4",
+  "Name": "PlayerHead",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 57,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk012.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 30,
+            "Scale9Width": 32,
+            "Scale9Height": 32,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 52.48,
+              "Y": 98.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3546,
+              "Y": 0.6806
+            },
+            "PreSize": {
+              "X": 0.6216,
+              "Y": 0.6389
+            },
+            "LeftMargin": 6.48,
+            "RightMargin": 49.52,
+            "BottomMargin": 52.0,
+            "Tag": 58,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 46.0242,
+                  "Y": 45.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5003,
+                  "Y": 0.4968
+                },
+                "PreSize": {
+                  "X": 0.7609,
+                  "Y": 0.7609
+                },
+                "LeftMargin": 11.0242,
+                "RightMargin": 10.9758,
+                "TopMargin": 11.29,
+                "BottomMargin": 10.71,
+                "Tag": 59,
+                "ActionTag": 1044597645,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 70.0
+                },
+                "Name": "playerHead",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_head_ai.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 27,
+                "Scale9Width": 30,
+                "Scale9Height": 30,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 46.02,
+                  "Y": 45.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.4968
+                },
+                "PreSize": {
+                  "X": 0.7609,
+                  "Y": 0.7609
+                },
+                "LeftMargin": 11.02,
+                "RightMargin": 10.98,
+                "TopMargin": 11.29,
+                "BottomMargin": 10.71,
+                "Tag": 44,
+                "ActionTag": 2028208127,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 70.0
+                },
+                "VisibleForFrame": false,
+                "Name": "playerHead_ai",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "card_back.png",
+                  "Plist": "card/card.plist"
+                },
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 68,
+                "Scale9Width": 54,
+                "Scale9Height": 72,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 122.0,
+                  "Y": 55.0
+                },
+                "Scale": {
+                  "ScaleX": 0.2,
+                  "ScaleY": 0.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.3261,
+                  "Y": 0.5978
+                },
+                "PreSize": {
+                  "X": 1.7174,
+                  "Y": 2.2609
+                },
+                "LeftMargin": 43.0,
+                "RightMargin": -109.0,
+                "TopMargin": -67.0,
+                "BottomMargin": -49.0,
+                "Tag": 114,
+                "ActionTag": 1471987123,
+                "Size": {
+                  "X": 158.0,
+                  "Y": 208.0
+                },
+                "Name": "cardBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "20",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 38,
+                  "G": 91,
+                  "B": 128
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4995,
+                  "ScaleY": 0.4997
+                },
+                "Position": {
+                  "X": 122.0,
+                  "Y": 54.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.3261,
+                  "Y": 0.587
+                },
+                "PreSize": {
+                  "X": 0.2609,
+                  "Y": 0.25
+                },
+                "LeftMargin": 110.012,
+                "RightMargin": -42.012,
+                "TopMargin": 26.4931,
+                "BottomMargin": 42.5069,
+                "Tag": 62,
+                "ActionTag": 151277294,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 23.0
+                },
+                "Name": "remainCard",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk006.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 6,
+                "Scale9Width": 20,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 84.0,
+                  "Y": 57.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.913,
+                  "Y": 0.6196
+                },
+                "PreSize": {
+                  "X": 0.3478,
+                  "Y": 0.6957
+                },
+                "LeftMargin": 68.0,
+                "RightMargin": -8.0,
+                "TopMargin": 3.0,
+                "BottomMargin": 25.0,
+                "Tag": 64,
+                "ActionTag": -1443670812,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 64.0
+                },
+                "Name": "role",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 183.0,
+                  "Y": -10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.9891,
+                  "Y": -0.1087
+                },
+                "PreSize": {
+                  "X": 2.1739,
+                  "Y": 2.1739
+                },
+                "LeftMargin": 183.0,
+                "RightMargin": -291.0,
+                "TopMargin": -98.0,
+                "BottomMargin": -10.0,
+                "Tag": 693,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk032.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 122,
+                    "Scale9Height": 44,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 67,
+                    "Children": [
+                      {
+                        "FontSize": 24,
+                        "LabelText": "不要",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.6501,
+                          "Y": 31.6896
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3407,
+                          "Y": 0.5659
+                        },
+                        "PreSize": {
+                          "X": 0.3806,
+                          "Y": 0.5
+                        },
+                        "LeftMargin": 20.1501,
+                        "RightMargin": 62.8499,
+                        "TopMargin": 10.3104,
+                        "BottomMargin": 17.6896,
+                        "Tag": 167,
+                        "ActionTag": -1142217668,
+                        "Size": {
+                          "X": 51.0,
+                          "Y": 28.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "cancelText",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 6,
+                        "Scale9OriginY": 6,
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.2926,
+                          "Y": 51.4019
+                        },
+                        "Scale": {
+                          "ScaleX": -0.5959,
+                          "ScaleY": 0.5959
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4201,
+                          "Y": 0.9179
+                        },
+                        "PreSize": {
+                          "X": 0.9851,
+                          "Y": 1.25
+                        },
+                        "LeftMargin": -9.7074,
+                        "RightMargin": 11.7074,
+                        "TopMargin": -30.4019,
+                        "BottomMargin": 16.4019,
+                        "Tag": 68,
+                        "ActionTag": -1831221525,
+                        "Size": {
+                          "X": 132.0,
+                          "Y": 70.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "cancel_0",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1961301814,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "cancel",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "desk036.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 122,
+                    "Scale9Height": 44,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 69,
+                    "ActionTag": 586860604,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "readied",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "call.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 58,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 207,
+                    "ActionTag": -801963803,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Image_call",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "rod.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 39,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 56,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 206,
+                    "ActionTag": -867927435,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Image_rob",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "not_call.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 38,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 58,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 205,
+                    "ActionTag": -615581135,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Image_nocall",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "not_rod.png",
+                      "Plist": "texturepackerOutput/newDesk.plist"
+                    },
+                    "Scale9OriginX": 39,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 56,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.67,
+                      "Y": 0.28
+                    },
+                    "LeftMargin": -67.0,
+                    "RightMargin": 133.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": -28.0,
+                    "Tag": 204,
+                    "ActionTag": 1179405158,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "Name": "Image_norob",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1088500508,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "layer_tips",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk010.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 41,
+                "Scale9OriginY": 16,
+                "Scale9Width": 43,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.8595,
+                  "Y": -26.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6506,
+                  "Y": -0.288
+                },
+                "PreSize": {
+                  "X": 1.3587,
+                  "Y": 0.5435
+                },
+                "LeftMargin": -2.6405,
+                "RightMargin": -30.3595,
+                "TopMargin": 93.5,
+                "BottomMargin": -51.5,
+                "Tag": 112,
+                "ActionTag": 1360680329,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 50.0
+                },
+                "Name": "nameBg01",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk011.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "Scale9OriginX": 41,
+                "Scale9OriginY": 8,
+                "Scale9Width": 43,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.08,
+                  "Y": -17.1
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6204,
+                  "Y": -0.1859
+                },
+                "PreSize": {
+                  "X": 1.3587,
+                  "Y": 0.2826
+                },
+                "LeftMargin": -5.42,
+                "RightMargin": -27.58,
+                "TopMargin": 96.1,
+                "BottomMargin": -30.1,
+                "Tag": 113,
+                "ActionTag": -1827051416,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 26.0
+                },
+                "VisibleForFrame": false,
+                "Name": "nameBg02",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "1100000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/jia-export.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5167,
+                  "ScaleY": 0.3435
+                },
+                "Position": {
+                  "X": 52.5865,
+                  "Y": -39.7104
+                },
+                "Scale": {
+                  "ScaleX": 0.49,
+                  "ScaleY": 0.49
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5716,
+                  "Y": -0.4316
+                },
+                "PreSize": {
+                  "X": 1.5978,
+                  "Y": 0.4674
+                },
+                "LeftMargin": -23.3684,
+                "RightMargin": -31.6316,
+                "TopMargin": 103.4809,
+                "BottomMargin": -54.4809,
+                "Tag": 63,
+                "ActionTag": 1039868234,
+                "Size": {
+                  "X": 147.0,
+                  "Y": 43.0
+                },
+                "Name": "gold",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "贵宾13784...",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.5391,
+                  "Y": -18.0433
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5602,
+                  "Y": -0.1961
+                },
+                "PreSize": {
+                  "X": 1.1848,
+                  "Y": 0.25
+                },
+                "LeftMargin": -2.9609,
+                "RightMargin": -14.0391,
+                "TopMargin": 98.5433,
+                "BottomMargin": -29.5433,
+                "Tag": 61,
+                "ActionTag": -92625922,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 23.0
+                },
+                "Name": "playerName",
+                "ctype": "TextObjectData"
+              },
+              {
+                "LabelText": "+1100000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/jia-export.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5167,
+                  "ScaleY": 0.3435
+                },
+                "Position": {
+                  "X": 224.1085,
+                  "Y": 39.0166
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.436,
+                  "Y": 0.4241
+                },
+                "PreSize": {
+                  "X": 1.8478,
+                  "Y": 0.4674
+                },
+                "LeftMargin": 136.2695,
+                "RightMargin": -214.2695,
+                "TopMargin": 24.7539,
+                "BottomMargin": 24.2461,
+                "Tag": 115,
+                "ActionTag": 1340496459,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 43.0
+                },
+                "Name": "resultGold",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1844341887,
+            "Size": {
+              "X": 92.0,
+              "Y": 92.0
+            },
+            "Name": "head01",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 148.0,
+          "Y": 144.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "card/card.plist",
+        "card/card.png",
+        "Default/ImageFile.png",
+        "fnt/jia-export.fnt",
+        "fnt/jia-export.png",
+        "fnt/normal.TTF",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

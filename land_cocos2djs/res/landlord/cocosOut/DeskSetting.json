@@ -1,0 +1,424 @@
+{
+  "ID": "00c58797-764a-489d-8e2b-c31b823649fb",
+  "Version": "2.3.4",
+  "Name": "DeskSetting",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 171,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_safeBox_tips_bg.png",
+              "Plist": "plaza/safeBox/safeBox.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 76,
+            "Scale9OriginY": 72,
+            "Scale9Width": 363,
+            "Scale9Height": 184,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 566.3079,
+              "Y": 355.5818
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4985,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.3697,
+              "Y": 0.3906
+            },
+            "LeftMargin": 356.3079,
+            "RightMargin": 359.6921,
+            "TopMargin": 159.4182,
+            "BottomMargin": 230.5818,
+            "Tag": 172,
+            "ActionTag": -1334580471,
+            "Size": {
+              "X": 420.0,
+              "Y": 250.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_tips_close_normal.png",
+              "Plist": "ddzRoom/ddzRoom.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 756.8552,
+              "Y": 461.3577
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6662,
+              "Y": 0.7209
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 728.8552,
+            "RightMargin": 351.1448,
+            "TopMargin": 150.6423,
+            "BottomMargin": 433.3577,
+            "Tag": 209,
+            "ActionTag": -254587540,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "设置",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fnt/normal.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 566.9999,
+              "Y": 441.7013
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.6902
+            },
+            "PreSize": {
+              "X": 0.0546,
+              "Y": 0.0531
+            },
+            "LeftMargin": 535.9999,
+            "RightMargin": 538.0001,
+            "TopMargin": 181.2987,
+            "BottomMargin": 424.7013,
+            "Tag": 210,
+            "ActionTag": 584662749,
+            "Size": {
+              "X": 62.0,
+              "Y": 34.0
+            },
+            "Name": "Text_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk017.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 25,
+            "Scale9OriginY": 16,
+            "Scale9Width": 28,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 469.7113,
+              "Y": 369.1453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4135,
+              "Y": 0.5768
+            },
+            "PreSize": {
+              "X": 0.0687,
+              "Y": 0.05
+            },
+            "LeftMargin": 430.7113,
+            "RightMargin": 627.2887,
+            "TopMargin": 254.8547,
+            "BottomMargin": 353.1453,
+            "Tag": 211,
+            "ActionTag": 1074087357,
+            "Size": {
+              "X": 78.0,
+              "Y": 32.0
+            },
+            "Name": "Image_1_0_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk016.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 25,
+            "Scale9OriginY": 16,
+            "Scale9Width": 28,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 469.7106,
+              "Y": 293.8472
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4135,
+              "Y": 0.4591
+            },
+            "PreSize": {
+              "X": 0.0687,
+              "Y": 0.0516
+            },
+            "LeftMargin": 430.7106,
+            "RightMargin": 627.2894,
+            "TopMargin": 329.6528,
+            "BottomMargin": 277.3472,
+            "Tag": 212,
+            "ActionTag": 1419583482,
+            "Size": {
+              "X": 78.0,
+              "Y": 33.0
+            },
+            "Name": "Image_1_0_0_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_music_off.png",
+              "Plist": "setting/setting.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 128,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.165,
+              "Y": 369.1453
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5389,
+              "Y": 0.5768
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0938
+            },
+            "LeftMargin": 533.165,
+            "RightMargin": 444.835,
+            "TopMargin": 240.8547,
+            "BottomMargin": 339.1453,
+            "Tag": 116,
+            "ActionTag": 1743096450,
+            "Size": {
+              "X": 158.0,
+              "Y": 60.0
+            },
+            "Name": "musicBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_music_off.png",
+              "Plist": "setting/setting.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 128,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 612.1649,
+              "Y": 293.8473
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5389,
+              "Y": 0.4591
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0938
+            },
+            "LeftMargin": 533.1649,
+            "RightMargin": 444.8351,
+            "TopMargin": 316.1527,
+            "BottomMargin": 263.8473,
+            "Tag": 117,
+            "ActionTag": 350049057,
+            "Size": {
+              "X": 158.0,
+              "Y": 60.0
+            },
+            "Name": "effectBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "fnt/normal.TTF",
+        "plaza/safeBox/safeBox.plist",
+        "plaza/safeBox/safeBox.png",
+        "setting/setting.plist",
+        "setting/setting.png",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,955 @@
+{
+  "ID": "889cbca9-aa19-4032-bc08-a55105eb56f5",
+  "Version": "2.3.4",
+  "Name": "BuyGoldPageItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 390,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 117,
+                "Scale9Height": 82,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 157.0,
+                  "Y": 99.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.167,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3351,
+                  "Y": 1.04
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -0.5,
+                "RightMargin": 625.5,
+                "TopMargin": -3.9999,
+                "BottomMargin": -4.0001,
+                "Tag": 257,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "￥98",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 156.996,
+                      "Y": 39.9984
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 251,
+                      "G": 238,
+                      "B": 95
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4984,
+                      "Y": 0.1923
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.1346
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 101.996,
+                    "RightMargin": 103.004,
+                    "TopMargin": 154.0016,
+                    "BottomMargin": 25.9984,
+                    "Tag": 263,
+                    "ActionTag": -586294549,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_buygold_value",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 76.0,
+                      "Y": 117.9984
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2413,
+                      "Y": 0.5673
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.4808
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 21.0,
+                    "RightMargin": 184.0,
+                    "TopMargin": 40.0016,
+                    "BottomMargin": 67.9984,
+                    "Tag": 261,
+                    "ActionTag": -219018344,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 100.0
+                    },
+                    "Name": "Image_buygolditem_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "999999金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4444,
+                      "Y": 0.5769
+                    },
+                    "PreSize": {
+                      "X": 0.4571,
+                      "Y": 0.1442
+                    },
+                    "LeftMargin": 140.0,
+                    "RightMargin": 31.0,
+                    "TopMargin": 73.0,
+                    "BottomMargin": 105.0,
+                    "Tag": 45,
+                    "ActionTag": 1593574047,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 30.0
+                    },
+                    "Name": "textbmfont_buygoldtem_gold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_label_recommend.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 32,
+                    "Scale9Width": 39,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 153.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1683,
+                      "Y": 0.7356
+                    },
+                    "PreSize": {
+                      "X": 0.3143,
+                      "Y": 0.4808
+                    },
+                    "LeftMargin": 3.5,
+                    "RightMargin": 212.5,
+                    "TopMargin": 5.0,
+                    "BottomMargin": 103.0,
+                    "Tag": 72,
+                    "ActionTag": -1345247543,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 100.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_best_tips",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -856497884,
+                "Size": {
+                  "X": 315.0,
+                  "Y": 208.0
+                },
+                "Name": "button_buygolditem_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 117,
+                "Scale9Height": 82,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 469.9999,
+                  "Y": 99.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3351,
+                  "Y": 1.04
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 312.4999,
+                "RightMargin": 312.5001,
+                "TopMargin": -3.9999,
+                "BottomMargin": -4.0001,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "￥6",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 156.996,
+                      "Y": 40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 251,
+                      "G": 238,
+                      "B": 95
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4984,
+                      "Y": 0.1923
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.1635
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "LeftMargin": 101.996,
+                    "RightMargin": 103.004,
+                    "TopMargin": 151.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 55,
+                    "ActionTag": -1887944246,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 34.0
+                    },
+                    "Name": "text_buygold_value",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 76.0,
+                      "Y": 117.9984
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2413,
+                      "Y": 0.5673
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.4808
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 21.0,
+                    "RightMargin": 184.0,
+                    "TopMargin": 40.0016,
+                    "BottomMargin": 67.9984,
+                    "Tag": 56,
+                    "ActionTag": 653754509,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 100.0
+                    },
+                    "Name": "Image_buygolditem_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "999999金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4444,
+                      "Y": 0.5769
+                    },
+                    "PreSize": {
+                      "X": 0.4571,
+                      "Y": 0.1442
+                    },
+                    "LeftMargin": 140.0,
+                    "RightMargin": 31.0,
+                    "TopMargin": 73.0,
+                    "BottomMargin": 105.0,
+                    "Tag": 57,
+                    "ActionTag": 1758188535,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 30.0
+                    },
+                    "Name": "textbmfont_buygoldtem_gold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_label_recommend.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 32,
+                    "Scale9Width": 39,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 153.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1587,
+                      "Y": 0.7404
+                    },
+                    "PreSize": {
+                      "X": 0.2952,
+                      "Y": 0.4663
+                    },
+                    "LeftMargin": 3.5,
+                    "RightMargin": 218.5,
+                    "TopMargin": 5.5001,
+                    "BottomMargin": 105.4999,
+                    "Tag": 71,
+                    "ActionTag": 2127557356,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 97.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_best_tips",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -640110382,
+                "Size": {
+                  "X": 315.0,
+                  "Y": 208.0
+                },
+                "Name": "button_buygolditem_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mall_item_bg.png",
+                  "Plist": "plaza/mall/mall.plist"
+                },
+                "Scale9OriginX": 99,
+                "Scale9OriginY": 63,
+                "Scale9Width": 117,
+                "Scale9Height": 82,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 782.0008,
+                  "Y": 99.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8319,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3351,
+                  "Y": 1.04
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 624.5008,
+                "RightMargin": 0.4992,
+                "TopMargin": -3.9999,
+                "BottomMargin": -4.0001,
+                "Tag": 58,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "￥6",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 248,
+                      "B": 123
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 156.996,
+                      "Y": 39.9984
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 251,
+                      "G": 238,
+                      "B": 95
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4984,
+                      "Y": 0.1923
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.1635
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 101.996,
+                    "RightMargin": 103.004,
+                    "TopMargin": 151.0016,
+                    "BottomMargin": 22.9984,
+                    "Tag": 59,
+                    "ActionTag": 1664199756,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 34.0
+                    },
+                    "Name": "text_buygold_value",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_gold_title_6.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 33,
+                    "Scale9Width": 46,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 76.0,
+                      "Y": 117.9984
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2413,
+                      "Y": 0.5673
+                    },
+                    "PreSize": {
+                      "X": 0.3492,
+                      "Y": 0.4808
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 21.0,
+                    "RightMargin": 184.0,
+                    "TopMargin": 40.0016,
+                    "BottomMargin": 67.9984,
+                    "Tag": 60,
+                    "ActionTag": -1343930182,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 100.0
+                    },
+                    "Name": "Image_buygolditem_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "999999金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4444,
+                      "Y": 0.5769
+                    },
+                    "PreSize": {
+                      "X": 0.4571,
+                      "Y": 0.1442
+                    },
+                    "LeftMargin": 140.0,
+                    "RightMargin": 31.0,
+                    "TopMargin": 73.0,
+                    "BottomMargin": 105.0,
+                    "Tag": 61,
+                    "ActionTag": -522456652,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 30.0
+                    },
+                    "Name": "textbmfont_buygoldtem_gold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_label_recommend.png",
+                      "Plist": "plaza/mall/mall.plist"
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 32,
+                    "Scale9Width": 39,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.318,
+                      "Y": 154.099
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1597,
+                      "Y": 0.7409
+                    },
+                    "PreSize": {
+                      "X": 0.2952,
+                      "Y": 0.4663
+                    },
+                    "LeftMargin": 3.818,
+                    "RightMargin": 218.182,
+                    "TopMargin": 5.401,
+                    "BottomMargin": 105.599,
+                    "Tag": 70,
+                    "ActionTag": -1484555702,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 97.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_best_tips",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1187384773,
+                "Size": {
+                  "X": 315.0,
+                  "Y": 208.0
+                },
+                "Name": "button_buygolditem_2",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1638066581,
+            "Size": {
+              "X": 940.0,
+              "Y": 200.0
+            },
+            "Name": "panel_buygoldpageitem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 940.0,
+          "Y": 200.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "plaza/mall/mall.plist",
+        "plaza/mall/mall.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

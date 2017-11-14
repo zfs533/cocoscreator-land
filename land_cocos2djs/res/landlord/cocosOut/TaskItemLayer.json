@@ -1,0 +1,797 @@
+{
+  "ID": "92aeaf43-23c7-4a81-9f96-cb9a1ef30784",
+  "Version": "2.3.4",
+  "Name": "TaskItemLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_task_di.png",
+              "Plist": "plaza/task/task.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_task_di.png",
+              "Plist": "plaza/task/task.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_task_di.png",
+              "Plist": "plaza/task/task.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 50,
+            "Scale9OriginY": 10,
+            "Scale9Width": 839,
+            "Scale9Height": 91,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 475.0,
+              "Y": 61.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9895,
+              "Y": 0.9918
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 5.0,
+            "RightMargin": 5.0,
+            "TopMargin": 0.5,
+            "BottomMargin": 0.5,
+            "Tag": 309,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_task_gold.png",
+                  "Plist": "plaza/task/task.plist"
+                },
+                "Scale9OriginX": 32,
+                "Scale9OriginY": 31,
+                "Scale9Width": 46,
+                "Scale9Height": 38,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.2988,
+                  "Y": 62.7861
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.95
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0769,
+                  "Y": 0.5189
+                },
+                "PreSize": {
+                  "X": 0.117,
+                  "Y": 0.8264
+                },
+                "LeftMargin": 17.2988,
+                "RightMargin": 812.7012,
+                "TopMargin": 8.2139,
+                "BottomMargin": 12.7861,
+                "Tag": 311,
+                "ActionTag": 829541919,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 100.0
+                },
+                "Name": "image_item_title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "奖励：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 498.9996,
+                  "Y": 81.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5309,
+                  "Y": 0.6694
+                },
+                "PreSize": {
+                  "X": 0.0564,
+                  "Y": 0.1983
+                },
+                "LeftMargin": 498.9996,
+                "RightMargin": 388.0004,
+                "TopMargin": 28.0,
+                "BottomMargin": 69.0,
+                "Tag": 170,
+                "ActionTag": 1075505775,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 24.0
+                },
+                "Name": "text_taskitem_jiangli",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "900金币\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 557.5626,
+                  "Y": 58.0989
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 250,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5932,
+                  "Y": 0.4802
+                },
+                "PreSize": {
+                  "X": 0.1702,
+                  "Y": 0.562
+                },
+                "LeftMargin": 557.5626,
+                "RightMargin": 222.4374,
+                "TopMargin": 28.9011,
+                "BottomMargin": 24.0989,
+                "Tag": 262,
+                "ActionTag": 1085907424,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 68.0
+                },
+                "Name": "text_taskitem_info",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 379.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4032,
+                  "Y": 0.4959
+                },
+                "PreSize": {
+                  "X": 0.1064,
+                  "Y": 0.8264
+                },
+                "LeftMargin": 379.0,
+                "RightMargin": 461.0,
+                "TopMargin": -39.0,
+                "BottomMargin": 60.0,
+                "Tag": 314,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_champion_bg.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "Scale9OriginX": 63,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 69,
+                    "Scale9Height": 50,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 2.3,
+                      "Y": 0.76
+                    },
+                    "LeftMargin": -115.0,
+                    "RightMargin": -15.0,
+                    "TopMargin": 62.0,
+                    "BottomMargin": -38.0,
+                    "Tag": 315,
+                    "ActionTag": -2116963215,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 76.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_champion",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "今日累计牌局10局",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -50.9866,
+                      "Y": 22.2426
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.5099,
+                      "Y": 0.2224
+                    },
+                    "PreSize": {
+                      "X": 3.0,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -200.9866,
+                    "RightMargin": 0.9866,
+                    "TopMargin": 52.7574,
+                    "BottomMargin": -2.7574,
+                    "Tag": 101,
+                    "ActionTag": 1705788332,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 50.0
+                    },
+                    "Name": "text_taskitem_total",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -30780056,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "layer_champion",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "进度：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.0,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2181,
+                  "Y": 0.3306
+                },
+                "PreSize": {
+                  "X": 0.0564,
+                  "Y": 0.1983
+                },
+                "LeftMargin": 178.5,
+                "RightMargin": 708.5,
+                "TopMargin": 69.0,
+                "BottomMargin": 28.0,
+                "Tag": 385,
+                "ActionTag": 636641148,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 24.0
+                },
+                "Name": "text_taskitem_progress",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 335.0,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3564,
+                  "Y": 0.3388
+                },
+                "PreSize": {
+                  "X": 0.1064,
+                  "Y": 0.8264
+                },
+                "LeftMargin": 335.0,
+                "RightMargin": 505.0,
+                "TopMargin": -20.0,
+                "BottomMargin": 41.0,
+                "Tag": 328,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_progressBar_bgNew.png",
+                      "Plist": "plaza/task/task.plist"
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 124,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.84,
+                      "Y": 0.24
+                    },
+                    "LeftMargin": -92.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 88.0,
+                    "BottomMargin": -12.0,
+                    "Tag": 356,
+                    "ActionTag": 1704450852,
+                    "Size": {
+                      "X": 184.0,
+                      "Y": 24.0
+                    },
+                    "Name": "image_progressBar_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ProgressInfo": 100,
+                    "ImageFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_progressBarNew.png",
+                      "Plist": "plaza/task/task.plist"
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.84,
+                      "Y": 0.24
+                    },
+                    "LeftMargin": -92.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 88.0,
+                    "BottomMargin": -12.0,
+                    "Tag": 357,
+                    "ActionTag": 2037880301,
+                    "Size": {
+                      "X": 184.0,
+                      "Y": 24.0
+                    },
+                    "Name": "LoadingBar",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "100000/100000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 54,
+                      "G": 114,
+                      "B": 20
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -2.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": -0.02
+                    },
+                    "PreSize": {
+                      "X": 1.24,
+                      "Y": 0.21
+                    },
+                    "LeftMargin": -62.0,
+                    "RightMargin": 38.0,
+                    "TopMargin": 91.5,
+                    "BottomMargin": -12.5,
+                    "Tag": 358,
+                    "ActionTag": -7520388,
+                    "Size": {
+                      "X": 124.0,
+                      "Y": 21.0
+                    },
+                    "Name": "text_progress",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1465018921,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "layer_progress",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_signUp_overdue.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_signUp_overdue.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 142,
+                "Scale9Height": 90,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 799.0,
+                  "Y": 59.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.85,
+                  "Y": 0.4876
+                },
+                "PreSize": {
+                  "X": 0.1968,
+                  "Y": 0.7769
+                },
+                "LeftMargin": 706.5,
+                "RightMargin": 48.5,
+                "TopMargin": 15.0,
+                "BottomMargin": 12.0,
+                "Tag": 304,
+                "ActionTag": 592965249,
+                "Size": {
+                  "X": 185.0,
+                  "Y": 94.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_signUp",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_label_ing.png",
+                  "Plist": "plaza/task/task.plist"
+                },
+                "Scale9OriginX": 31,
+                "Scale9OriginY": 11,
+                "Scale9Width": 125,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 831.5314,
+                  "Y": 60.7354
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8846,
+                  "Y": 0.5019
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.5785
+                },
+                "LeftMargin": 737.5314,
+                "RightMargin": 14.4686,
+                "TopMargin": 25.2646,
+                "BottomMargin": 25.7354,
+                "Tag": 305,
+                "ActionTag": -867541641,
+                "Size": {
+                  "X": 188.0,
+                  "Y": 70.0
+                },
+                "Name": "text_signUpEx",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1967697347,
+            "Size": {
+              "X": 940.0,
+              "Y": 121.0
+            },
+            "Name": "btn_item",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 950.0,
+          "Y": 122.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "plaza/task/task.plist",
+        "plaza/task/task.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

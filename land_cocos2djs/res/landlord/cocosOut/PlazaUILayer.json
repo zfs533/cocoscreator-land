@@ -1,0 +1,2002 @@
+{
+  "ID": "e17785fb-8c4e-4ff2-bcfa-717a7f3b8d21",
+  "Version": "2.3.4",
+  "Name": "PlazaUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 400,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -1618862573,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 9,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1775871050,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 9,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 13,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -534858606,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 13,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 17,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 653990490,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 106.06,
+                "Y": 91.1605,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 653990490,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 17,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 21,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1633253609,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 120.0,
+                "Y": 91.0962,
+                "FrameIndex": 21,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 235.0,
+                "Y": 91.0962,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1633253609,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 21,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 36,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1901064386,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 254.8983,
+                "Y": 91.1205,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1901064386,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1901064386,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 36,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1077198037,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 270.5282,
+                "Y": 91.113,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1077198037,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1077198037,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 44,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -519306222,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 282.9775,
+                "Y": 89.545,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -519306222,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -519306222,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 44,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 48,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 281338453,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 292.0228,
+                "Y": 82.0412,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 281338453,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 180.0,
+                "FrameIndex": 35,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 281338453,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 48,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 52,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 788652064,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 90.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 788652064,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": true,
+                "FrameIndex": 52,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 788652064,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 52,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 180,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 835970163,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 180.0,
+                "Y": 90.0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 180.0,
+                "Y": 90.0,
+                "FrameIndex": 400,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 835970163,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.1,
+                "Y": 1.15,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.2,
+                "Y": 1.3,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.2,
+                "Y": 1.4,
+                "FrameIndex": 400,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 835970163,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 400,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 835970163,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 120,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 76,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 400,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 92,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_plazaBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 123,
+            "ActionTag": -424606996,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "image_plazaBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_titleBg.png",
+              "Plist": "ddzRoom/ddzRoom.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 565.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4974,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.265,
+              "Y": 0.1312
+            },
+            "LeftMargin": 414.5,
+            "RightMargin": 420.5,
+            "BottomMargin": 556.0,
+            "Tag": 1897,
+            "ActionTag": -330881765,
+            "Size": {
+              "X": 301.0,
+              "Y": 84.0
+            },
+            "Name": "image_titleBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_left_deco.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": -68,
+            "Scale9OriginY": -101,
+            "Scale9Width": 137,
+            "Scale9Height": 203,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.1849,
+              "Y": 0.4875
+            },
+            "RightMargin": 926.0,
+            "BottomMargin": 328.0,
+            "Tag": 293,
+            "ActionTag": -214467498,
+            "Size": {
+              "X": 210.0,
+              "Y": 312.0
+            },
+            "VisibleForFrame": false,
+            "Name": "image_left_deco",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_right_deco.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": -62,
+            "Scale9OriginY": -98,
+            "Scale9Width": 125,
+            "Scale9Height": 197,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.1681,
+              "Y": 0.4734
+            },
+            "LeftMargin": 945.0,
+            "BottomMargin": 337.0,
+            "Tag": 294,
+            "ActionTag": 1423387190,
+            "Size": {
+              "X": 191.0,
+              "Y": 303.0
+            },
+            "VisibleForFrame": false,
+            "Name": "image_right_deco",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_topBar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1625
+            },
+            "BottomMargin": 536.0,
+            "Tag": 120,
+            "ActionTag": -1846445182,
+            "Size": {
+              "X": 1136.0,
+              "Y": 104.0
+            },
+            "Name": "image_topBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_title.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 567.9998,
+              "Y": 618.8168
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9669
+            },
+            "PreSize": {
+              "X": 0.2157,
+              "Y": 0.0688
+            },
+            "LeftMargin": 445.4998,
+            "RightMargin": 445.5002,
+            "TopMargin": 21.1832,
+            "BottomMargin": 574.8168,
+            "Tag": 119,
+            "ActionTag": -1374347243,
+            "Size": {
+              "X": 245.0,
+              "Y": 44.0
+            },
+            "Name": "image_title",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_classicRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_classicRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 279,
+            "Scale9Height": 300,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 267.9824,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2359,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.272,
+              "Y": 0.5031
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 113.4824,
+            "RightMargin": 713.5176,
+            "TopMargin": 129.0,
+            "BottomMargin": 189.0,
+            "Tag": 94,
+            "ActionTag": -800325175,
+            "Size": {
+              "X": 309.0,
+              "Y": 322.0
+            },
+            "Name": "btn_plaza_gold",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_happyRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_happyRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 279,
+            "Scale9Height": 300,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 571.9999,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.272,
+              "Y": 0.5031
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 417.4999,
+            "RightMargin": 409.5001,
+            "TopMargin": 129.0,
+            "BottomMargin": 189.0,
+            "Tag": 187,
+            "ActionTag": 386996002,
+            "Size": {
+              "X": 309.0,
+              "Y": 322.0
+            },
+            "Name": "btn_plaza_happy",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_laiziRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_laiziRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 279,
+            "Scale9Height": 300,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.9999,
+              "Y": 349.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.272,
+              "Y": 0.5031
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 413.4999,
+            "RightMargin": 413.5001,
+            "TopMargin": 129.0001,
+            "BottomMargin": 188.9999,
+            "Tag": 93,
+            "ActionTag": 104629368,
+            "Size": {
+              "X": 309.0,
+              "Y": 322.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_plaza_laizi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_matchRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_matchRoom.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 279,
+            "Scale9Height": 300,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 878.0004,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7729,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.272,
+              "Y": 0.5031
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 723.5004,
+            "RightMargin": 103.4996,
+            "TopMargin": 129.0,
+            "BottomMargin": 189.0,
+            "Tag": 95,
+            "ActionTag": -1834036540,
+            "Size": {
+              "X": 309.0,
+              "Y": 322.0
+            },
+            "Name": "btn_plaza_match",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "在线人数：2000",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 243.6817,
+              "Y": 170.9247
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2145,
+              "Y": 0.2671
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0469
+            },
+            "LeftMargin": 143.6817,
+            "RightMargin": 792.3183,
+            "TopMargin": 454.0753,
+            "BottomMargin": 155.9247,
+            "Tag": 77,
+            "ActionTag": 959805570,
+            "Size": {
+              "X": 200.0,
+              "Y": 30.0
+            },
+            "VisibleForFrame": false,
+            "Name": "text_goldroomonline_count",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "在线人数：2000",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 923.0,
+              "Y": 174.976
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8125,
+              "Y": 0.2734
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0469
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 823.0,
+            "RightMargin": 113.0,
+            "TopMargin": 450.024,
+            "BottomMargin": 159.976,
+            "Tag": 79,
+            "ActionTag": -1802383498,
+            "Size": {
+              "X": 200.0,
+              "Y": 30.0
+            },
+            "VisibleForFrame": false,
+            "Name": "text_mathroomonline_count",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "newplayer_icon.png",
+              "Plist": "newplayer_pop/newplayer_pop.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "newplayer_icon.png",
+              "Plist": "newplayer_pop/newplayer_pop.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 95,
+            "Scale9Height": 103,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.0715,
+              "Y": 591.5299
+            },
+            "Scale": {
+              "ScaleX": 0.95,
+              "ScaleY": 0.95
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2756,
+              "Y": 0.9243
+            },
+            "PreSize": {
+              "X": 0.11,
+              "Y": 0.1953
+            },
+            "LeftMargin": 250.5715,
+            "RightMargin": 760.4285,
+            "TopMargin": -14.0299,
+            "BottomMargin": 529.0299,
+            "Tag": 84,
+            "ActionTag": -1974852809,
+            "Size": {
+              "X": 125.0,
+              "Y": 125.0
+            },
+            "Name": "btn_firstPay",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 386.3378,
+              "Y": 48.8976
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3401,
+              "Y": 0.0764
+            },
+            "PreSize": {
+              "X": 0.3081,
+              "Y": 0.2813
+            },
+            "LeftMargin": 386.3378,
+            "RightMargin": 399.6622,
+            "TopMargin": 411.1024,
+            "BottomMargin": 48.8976,
+            "Tag": 294,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quickGame.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quickGame2.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quickGame.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 233,
+                "Scale9Height": 74,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.005,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.7514,
+                  "Y": 0.5333
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 48.505,
+                "RightMargin": 38.495,
+                "TopMargin": 42.0,
+                "BottomMargin": 42.0,
+                "Tag": 96,
+                "ActionTag": -560008762,
+                "Size": {
+                  "X": 263.0,
+                  "Y": 96.0
+                },
+                "Name": "btn_plaza_startgame",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_1.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.8086,
+                  "Y": 99.1139
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1937,
+                  "Y": 0.5506
+                },
+                "PreSize": {
+                  "X": 0.0914,
+                  "Y": 0.3611
+                },
+                "LeftMargin": 51.8086,
+                "RightMargin": 266.1914,
+                "TopMargin": 48.3861,
+                "BottomMargin": 66.6139,
+                "Tag": 295,
+                "ActionTag": -1618862573,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 65.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_1_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_2.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.6949,
+                  "Y": 93.1896
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.222,
+                  "Y": 0.5177
+                },
+                "PreSize": {
+                  "X": 0.1486,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 51.6949,
+                "RightMargin": 246.3051,
+                "TopMargin": 46.8104,
+                "BottomMargin": 53.1896,
+                "Tag": 296,
+                "ActionTag": -1775871050,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_2_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_3.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 88.8199,
+                  "Y": 91.4196
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2538,
+                  "Y": 0.5079
+                },
+                "PreSize": {
+                  "X": 0.1943,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 54.8199,
+                "RightMargin": 227.1801,
+                "TopMargin": 46.5804,
+                "BottomMargin": 49.4196,
+                "Tag": 297,
+                "ActionTag": -534858606,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_3_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_4.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 106.06,
+                  "Y": 91.1605
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.303,
+                  "Y": 0.5064
+                },
+                "PreSize": {
+                  "X": 0.2143,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 68.56,
+                "RightMargin": 206.44,
+                "TopMargin": 46.8395,
+                "BottomMargin": 49.1605,
+                "Tag": 298,
+                "ActionTag": 653990490,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_4_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_5.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.0,
+                  "Y": 91.0962
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3429,
+                  "Y": 0.5061
+                },
+                "PreSize": {
+                  "X": 0.22,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 81.5,
+                "RightMargin": 191.5,
+                "TopMargin": 46.9038,
+                "BottomMargin": 49.0962,
+                "Tag": 299,
+                "ActionTag": 1633253609,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_5_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_4.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 254.8983,
+                  "Y": 91.1205
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7283,
+                  "Y": 0.5062
+                },
+                "PreSize": {
+                  "X": 0.2143,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 217.3983,
+                "RightMargin": 57.6017,
+                "TopMargin": 46.8795,
+                "BottomMargin": 49.1205,
+                "Tag": 300,
+                "ActionTag": -1901064386,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_4_9",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_3.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 270.5282,
+                  "Y": 91.113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7729,
+                  "Y": 0.5062
+                },
+                "PreSize": {
+                  "X": 0.1943,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 236.5282,
+                "RightMargin": 45.4718,
+                "TopMargin": 46.887,
+                "BottomMargin": 49.113,
+                "Tag": 301,
+                "ActionTag": -1077198037,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_3_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_2.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 282.9775,
+                  "Y": 89.545
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8085,
+                  "Y": 0.4975
+                },
+                "PreSize": {
+                  "X": 0.1486,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 256.9775,
+                "RightMargin": 41.0225,
+                "TopMargin": 50.455,
+                "BottomMargin": 49.545,
+                "Tag": 302,
+                "ActionTag": -519306222,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_2_11",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "SaoGuang_1.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 292.0228,
+                  "Y": 82.0412
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8344,
+                  "Y": 0.4558
+                },
+                "PreSize": {
+                  "X": 0.0914,
+                  "Y": 0.3611
+                },
+                "LeftMargin": 276.0228,
+                "RightMargin": 41.9772,
+                "TopMargin": 65.4588,
+                "BottomMargin": 49.5412,
+                "Tag": 303,
+                "ActionTag": 281338453,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 65.0
+                },
+                "VisibleForFrame": false,
+                "Name": "SaoGuang_1_12",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quickGame2.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.0,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.7514,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 48.5,
+                "RightMargin": 38.5,
+                "TopMargin": 42.0,
+                "BottomMargin": 42.0,
+                "Tag": 304,
+                "ActionTag": 788652064,
+                "Size": {
+                  "X": 263.0,
+                  "Y": 96.0
+                },
+                "Alpha": 0,
+                "Name": "btn_quickGame2_13",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_quickGame.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.0,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5143,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.7514,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 48.5,
+                "RightMargin": 38.5,
+                "TopMargin": 42.0,
+                "BottomMargin": 42.0,
+                "Tag": 305,
+                "ActionTag": 835970163,
+                "Size": {
+                  "X": 263.0,
+                  "Y": 96.0
+                },
+                "Alpha": 0,
+                "Name": "btn_quickGame_14",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1686142091,
+            "Size": {
+              "X": 350.0,
+              "Y": 180.0
+            },
+            "Name": "Startgame",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "newplayer_pop/newplayer_pop.plist",
+        "newplayer_pop/newplayer_pop.png",
+        "plaza/image_plazaBg.jpg",
+        "plaza/image_topBar.png",
+        "plaza/plaza.plist",
+        "plaza/plaza.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

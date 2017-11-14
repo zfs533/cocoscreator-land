@@ -1,0 +1,334 @@
+{
+  "ID": "059e6338-f04f-404c-866c-3d618e891864",
+  "Version": "2.3.4",
+  "Name": "TicketRecordItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 43,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 158,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 460.828,
+              "Y": 20.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5009,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 0.828,
+            "RightMargin": -0.828,
+            "Tag": 81,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "话费话费话费话费话费",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.0,
+                  "Y": 17.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.163,
+                  "Y": 0.425
+                },
+                "PreSize": {
+                  "X": 0.2641,
+                  "Y": 0.7
+                },
+                "LeftMargin": 28.5,
+                "RightMargin": 648.5,
+                "TopMargin": 9.0,
+                "BottomMargin": 3.0,
+                "Tag": 74,
+                "ActionTag": -17974897,
+                "Size": {
+                  "X": 243.0,
+                  "Y": 28.0
+                },
+                "Name": "text_ticketrecord_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 23,
+                "LabelText": "2015.03.05",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5176,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3804,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.1348,
+                  "Y": 0.75
+                },
+                "LeftMargin": 285.8176,
+                "RightMargin": 510.1824,
+                "TopMargin": 7.0,
+                "BottomMargin": 3.0,
+                "Tag": 287,
+                "ActionTag": -931871509,
+                "Size": {
+                  "X": 124.0,
+                  "Y": 30.0
+                },
+                "Name": "text_ticketrecord_time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "MALL20160531133316301648472",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 600.0,
+                  "Y": 17.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6522,
+                  "Y": 0.431
+                },
+                "PreSize": {
+                  "X": 0.3848,
+                  "Y": 0.7
+                },
+                "LeftMargin": 423.0,
+                "RightMargin": 143.0,
+                "TopMargin": 8.76,
+                "BottomMargin": 3.24,
+                "Tag": 288,
+                "ActionTag": -6188278,
+                "Size": {
+                  "X": 354.0,
+                  "Y": 28.0
+                },
+                "Name": "text_ticketrecord_order",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "处理中",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5176,
+                  "ScaleY": 0.4229
+                },
+                "Position": {
+                  "X": 838.5355,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 1,
+                  "G": 237,
+                  "B": 51
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9115,
+                  "Y": 0.375
+                },
+                "PreSize": {
+                  "X": 0.0913,
+                  "Y": 0.9
+                },
+                "LeftMargin": 795.0571,
+                "RightMargin": 40.9429,
+                "TopMargin": 4.2244,
+                "BottomMargin": -0.2244,
+                "Tag": 289,
+                "ActionTag": -1757641396,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 36.0
+                },
+                "Name": "text_ticketrecord_status",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -311735371,
+            "Size": {
+              "X": 920.0,
+              "Y": 40.0
+            },
+            "Name": "panel_ticketrecorditem_bk",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 920.0,
+          "Y": 40.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fnt/normal.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

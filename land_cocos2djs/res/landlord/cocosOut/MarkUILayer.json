@@ -1,0 +1,3124 @@
+{
+  "ID": "b6d1588c-0db6-4956-be24-14e5716657a1",
+  "Version": "2.3.4",
+  "Name": "MarkUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 331,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -44,
+            "Scale9OriginY": -48,
+            "Scale9Width": 88,
+            "Scale9Height": 96,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 368,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_mall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9479,
+                  "Y": 0.8719
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": 25.0,
+                "TopMargin": 41.0,
+                "BottomMargin": 41.0,
+                "Tag": 81,
+                "ActionTag": -801197079,
+                "Size": {
+                  "X": 910.0,
+                  "Y": 558.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_rank_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 40,
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 479.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.499,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9167,
+                  "Y": 0.8594
+                },
+                "LeftMargin": 39.0,
+                "RightMargin": 41.0,
+                "TopMargin": 45.0,
+                "BottomMargin": 45.0,
+                "Tag": 80,
+                "ActionTag": -744293710,
+                "Size": {
+                  "X": 880.0,
+                  "Y": 550.0
+                },
+                "Name": "Image_rank_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 21,
+                "Scale9Width": 34,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 381.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5969
+                },
+                "PreSize": {
+                  "X": 0.8646,
+                  "Y": 0.5313
+                },
+                "LeftMargin": 65.0,
+                "RightMargin": 65.0,
+                "TopMargin": 88.0003,
+                "BottomMargin": 211.9997,
+                "Tag": 119,
+                "ActionTag": -1234655692,
+                "Size": {
+                  "X": 830.0,
+                  "Y": 340.0
+                },
+                "Name": "Image_rank_bg3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_title.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 580.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9063
+                },
+                "PreSize": {
+                  "X": 0.3542,
+                  "Y": 0.1641
+                },
+                "LeftMargin": 310.0,
+                "RightMargin": 310.0,
+                "TopMargin": 7.5,
+                "BottomMargin": 527.5,
+                "Tag": 121,
+                "ActionTag": 1675067607,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 105.0
+                },
+                "Name": "image_mark_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 34,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 900.7095,
+                  "Y": 586.1112
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9382,
+                  "Y": 0.9158
+                },
+                "PreSize": {
+                  "X": 0.0583,
+                  "Y": 0.0875
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 872.7095,
+                "RightMargin": 31.2905,
+                "TopMargin": 25.8888,
+                "BottomMargin": 558.1112,
+                "Tag": 381,
+                "ActionTag": 354129636,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 56.0
+                },
+                "Name": "btn_mark_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "每天签到一次，会获得可观的奖励，累计签到越多，获得奖励越高。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0,
+                  "Y": 186.84
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2919
+                },
+                "PreSize": {
+                  "X": 0.5552,
+                  "Y": 0.0328
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 213.5,
+                "RightMargin": 213.5,
+                "TopMargin": 442.66,
+                "BottomMargin": 176.34,
+                "Tag": 382,
+                "ActionTag": -2133302194,
+                "Size": {
+                  "X": 533.0,
+                  "Y": 21.0
+                },
+                "Name": "text_mark_info",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "SingleColor": {
+                  "R": 231,
+                  "G": 231,
+                  "B": 231
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -8,
+                "Scale9OriginY": -8,
+                "Scale9Width": 16,
+                "Scale9Height": 16,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 73.5645,
+                  "Y": 500.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 231,
+                  "G": 231,
+                  "B": 231
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0766,
+                  "Y": 0.7813
+                },
+                "PreSize": {
+                  "X": 0.5802,
+                  "Y": 0.0578
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 73.5645,
+                "RightMargin": 329.4355,
+                "TopMargin": 103.0,
+                "BottomMargin": 500.0,
+                "Tag": 137,
+                "Children": [
+                  {
+                    "FontSize": 21,
+                    "LabelText": "日",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 73.9696,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1328,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0395,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 62.9696,
+                    "RightMargin": 472.0304,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 138,
+                    "ActionTag": 985446768,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "一",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 146.1568,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2624,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0431,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 134.1568,
+                    "RightMargin": 398.8432,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 139,
+                    "ActionTag": 1829170596,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "二",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 220.7948,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3964,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0413,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 209.2948,
+                    "RightMargin": 324.7052,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 140,
+                    "ActionTag": 1851584138,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "三",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 301.5041,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5413,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0431,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 289.5041,
+                    "RightMargin": 243.4959,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 141,
+                    "ActionTag": -1418714514,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "四",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 382.1577,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6861,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0413,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 370.6577,
+                    "RightMargin": 163.3423,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 142,
+                    "ActionTag": -1789060740,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "五",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 460.8618,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8274,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0431,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 448.8618,
+                    "RightMargin": 84.1382,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 143,
+                    "ActionTag": 535609902,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 21,
+                    "LabelText": "六",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 537.0594,
+                      "Y": 18.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9642,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0431,
+                      "Y": 0.6486
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 525.0594,
+                    "RightMargin": 7.9406,
+                    "TopMargin": 6.5,
+                    "BottomMargin": 6.5,
+                    "Tag": 144,
+                    "ActionTag": -1940753899,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 24.0
+                    },
+                    "Name": "text_week_6",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1389469313,
+                "Size": {
+                  "X": 557.0,
+                  "Y": 37.0
+                },
+                "Name": "panel_week_bk",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1421103171,
+            "Size": {
+              "X": 960.0,
+              "Y": 640.0
+            },
+            "Name": "panel_mark",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 102.0001,
+              "Y": 239.9
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.88
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1063,
+              "Y": 0.3748
+            },
+            "PreSize": {
+              "X": 0.5781,
+              "Y": 0.4531
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 102.0001,
+            "RightMargin": 302.9999,
+            "TopMargin": 110.1,
+            "BottomMargin": 239.9,
+            "Tag": 134,
+            "ActionTag": 1274530291,
+            "Size": {
+              "X": 555.0,
+              "Y": 290.0
+            },
+            "Name": "panel_mark_date",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 246,
+              "G": 246,
+              "B": 246
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -13,
+            "Scale9OriginY": -13,
+            "Scale9Width": 26,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 779.9991,
+              "Y": 436.9995
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 246,
+              "G": 246,
+              "B": 246
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8125,
+              "Y": 0.6828
+            },
+            "PreSize": {
+              "X": 0.2604,
+              "Y": 0.125
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 654.9991,
+            "RightMargin": 55.0009,
+            "TopMargin": 123.0005,
+            "BottomMargin": 436.9995,
+            "Tag": 144,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "今日签到",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 125.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.88,
+                  "Y": 0.75
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 15.0,
+                "RightMargin": 15.0,
+                "TopMargin": -30.0,
+                "BottomMargin": 50.0,
+                "Tag": 120,
+                "ActionTag": 1637026003,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 60.0
+                },
+                "Name": "text_today",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "11月25日",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 125.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 250,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.88,
+                  "Y": 0.75
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 15.0,
+                "RightMargin": 15.0,
+                "TopMargin": 50.0,
+                "BottomMargin": -30.0,
+                "Tag": 148,
+                "ActionTag": -704062247,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 60.0
+                },
+                "Name": "text_today_date",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -546928839,
+            "Size": {
+              "X": 250.0,
+              "Y": 80.0
+            },
+            "Name": "panel_today",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 246,
+              "G": 246,
+              "B": 246
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -13,
+            "Scale9OriginY": -13,
+            "Scale9Width": 26,
+            "Scale9Height": 26,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 782.999,
+              "Y": 334.9996
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 246,
+              "G": 246,
+              "B": 246
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8156,
+              "Y": 0.5234
+            },
+            "PreSize": {
+              "X": 0.2604,
+              "Y": 0.0547
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 657.999,
+            "RightMargin": 52.001,
+            "TopMargin": 270.0004,
+            "BottomMargin": 334.9996,
+            "Tag": 149,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "累计签到：12天",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.48,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.72,
+                  "Y": 0.6857
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 30.0,
+                "RightMargin": 40.0,
+                "TopMargin": -12.0,
+                "BottomMargin": 23.0,
+                "Tag": 150,
+                "ActionTag": -759471838,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 24.0
+                },
+                "Name": "text_total_checkcount",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "可  补  签：25天",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 121.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.484,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.72,
+                  "Y": 0.6857
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 31.0,
+                "RightMargin": 39.0,
+                "TopMargin": 23.0,
+                "BottomMargin": -12.0,
+                "Tag": 151,
+                "ActionTag": 402918427,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 24.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_cancheck_count",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1184404752,
+            "Size": {
+              "X": 250.0,
+              "Y": 35.0
+            },
+            "Name": "panel_checkinfo",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 44,
+            "ButtonText": "",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_mark.png",
+              "Plist": "mark/mark.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_mark.png",
+              "Plist": "mark/mark.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 12,
+            "Scale9OriginY": 16,
+            "Scale9Width": 163,
+            "Scale9Height": 30,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 779.9993,
+              "Y": 269.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8125,
+              "Y": 0.4203
+            },
+            "PreSize": {
+              "X": 0.1875,
+              "Y": 0.1094
+            },
+            "LeftMargin": 689.9993,
+            "RightMargin": 90.0007,
+            "TopMargin": 335.9999,
+            "BottomMargin": 234.0001,
+            "Tag": 185,
+            "ActionTag": 1155650931,
+            "Size": {
+              "X": 180.0,
+              "Y": 70.0
+            },
+            "Name": "btn_check_now",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 2.7432,
+              "Y": 36.687
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0029,
+              "Y": 0.0573
+            },
+            "PreSize": {
+              "X": 0.2083,
+              "Y": 0.3125
+            },
+            "LeftMargin": 2.7432,
+            "RightMargin": 757.2568,
+            "TopMargin": 403.313,
+            "BottomMargin": 36.687,
+            "Tag": 52,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 25,
+                "Scale9Width": 58,
+                "Scale9Height": 28,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.0002,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.755,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.85,
+                  "Y": 0.39
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 66.0002,
+                "RightMargin": -36.0002,
+                "TopMargin": 71.0,
+                "BottomMargin": 51.0,
+                "Tag": 186,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_geted.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0588,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2882,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 131.006,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 68,
+                    "ActionTag": 2050290430,
+                    "Size": {
+                      "X": 48.994,
+                      "Y": 39.0
+                    },
+                    "Name": "Image_five_nor",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_receive.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0588,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2882,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 131.006,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 70,
+                    "ActionTag": 2011630673,
+                    "Size": {
+                      "X": 48.994,
+                      "Y": 39.0
+                    },
+                    "Name": "Image_five_pre",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "2日",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.9999,
+                      "Y": 51.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 207,
+                      "G": 239
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6235,
+                      "Y": 0.6538
+                    },
+                    "PreSize": {
+                      "X": 0.1529,
+                      "Y": 0.2179
+                    },
+                    "LeftMargin": 92.9999,
+                    "RightMargin": 51.0001,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 280,
+                    "ActionTag": -42751467,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 17.0
+                    },
+                    "Name": "textbmfont_all_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "50000累计",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 107.9999,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6353,
+                      "Y": 0.3462
+                    },
+                    "PreSize": {
+                      "X": 0.5235,
+                      "Y": 0.2692
+                    },
+                    "LeftMargin": 63.4999,
+                    "RightMargin": 17.5001,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 279,
+                    "ActionTag": -1235801476,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 21.0
+                    },
+                    "Name": "textbmfont_all_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_5.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 18,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.0004,
+                      "Y": 39.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1941,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3059,
+                      "Y": 0.7179
+                    },
+                    "LeftMargin": 7.0004,
+                    "RightMargin": 110.9996,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 278,
+                    "ActionTag": -1560661052,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_icon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1547285243,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_five_reward",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 25,
+                "Scale9Width": 63,
+                "Scale9Height": 28,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 315.5002,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.5775,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.905,
+                  "Y": 0.39
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 225.0002,
+                "RightMargin": -206.0002,
+                "TopMargin": 71.0,
+                "BottomMargin": 51.0,
+                "Tag": 71,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_geted.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 72,
+                    "ActionTag": -921135131,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_ten_nor",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_receive.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 17,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 74,
+                    "ActionTag": -1427611874,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_ten_pre",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "3日",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 51.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 207,
+                      "G": 239
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6354,
+                      "Y": 0.6538
+                    },
+                    "PreSize": {
+                      "X": 0.1436,
+                      "Y": 0.2179
+                    },
+                    "LeftMargin": 102.0,
+                    "RightMargin": 53.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 277,
+                    "ActionTag": -2020469238,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 17.0
+                    },
+                    "Name": "textbmfont_all_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "50000累计",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.9998,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6464,
+                      "Y": 0.3462
+                    },
+                    "PreSize": {
+                      "X": 0.4917,
+                      "Y": 0.2692
+                    },
+                    "LeftMargin": 72.4998,
+                    "RightMargin": 19.5002,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 276,
+                    "ActionTag": -1960055326,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 21.0
+                    },
+                    "Name": "textbmfont_all_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_10.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 18,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.0001,
+                      "Y": 39.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2818,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2873,
+                      "Y": 0.7179
+                    },
+                    "LeftMargin": 25.0001,
+                    "RightMargin": 103.9999,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 275,
+                    "ActionTag": 1959565313,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_icon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1418211076,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_ten_reward",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 25,
+                "Scale9Width": 63,
+                "Scale9Height": 28,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.0002,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.4,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.905,
+                  "Y": 0.39
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 389.5002,
+                "RightMargin": -370.5002,
+                "TopMargin": 71.0,
+                "BottomMargin": 51.0,
+                "Tag": 77,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_geted.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 78,
+                    "ActionTag": -1674028690,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_fifteen_nor",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_receive.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 17,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 80,
+                    "ActionTag": -504271539,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_fifteen_pre",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "7日",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 51.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 207,
+                      "G": 239
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6354,
+                      "Y": 0.6538
+                    },
+                    "PreSize": {
+                      "X": 0.1381,
+                      "Y": 0.2179
+                    },
+                    "LeftMargin": 102.5,
+                    "RightMargin": 53.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 274,
+                    "ActionTag": 1606120431,
+                    "Size": {
+                      "X": 25.0,
+                      "Y": 17.0
+                    },
+                    "Name": "textbmfont_all_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "50000累计",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.9999,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6464,
+                      "Y": 0.3462
+                    },
+                    "PreSize": {
+                      "X": 0.4917,
+                      "Y": 0.2692
+                    },
+                    "LeftMargin": 72.4999,
+                    "RightMargin": 19.5001,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 273,
+                    "ActionTag": 926682178,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 21.0
+                    },
+                    "Name": "textbmfont_all_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_15.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 18,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 52.0001,
+                      "Y": 39.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2873,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2873,
+                      "Y": 0.7179
+                    },
+                    "LeftMargin": 26.0001,
+                    "RightMargin": 102.9999,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 272,
+                    "ActionTag": -80151831,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_icon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 20210915,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_fifteen_reward",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_2.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 25,
+                "Scale9Width": 63,
+                "Scale9Height": 28,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 644.5002,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.2225,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.905,
+                  "Y": 0.39
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 554.0002,
+                "RightMargin": -535.0002,
+                "TopMargin": 71.0,
+                "BottomMargin": 51.0,
+                "Tag": 83,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_geted.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 84,
+                    "ActionTag": -80798600,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_twenty_nor",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_receive.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 17,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0552,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2707,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 142.0033,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 86,
+                    "ActionTag": 75577501,
+                    "Size": {
+                      "X": 48.9967,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_twenty_pre",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "15日",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 51.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 207,
+                      "G": 239
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6354,
+                      "Y": 0.6538
+                    },
+                    "PreSize": {
+                      "X": 0.1768,
+                      "Y": 0.2179
+                    },
+                    "LeftMargin": 99.0,
+                    "RightMargin": 50.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 271,
+                    "ActionTag": -1725359464,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 17.0
+                    },
+                    "Name": "textbmfont_all_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "50000累计",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 118.9999,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6575,
+                      "Y": 0.3462
+                    },
+                    "PreSize": {
+                      "X": 0.4917,
+                      "Y": 0.2692
+                    },
+                    "LeftMargin": 74.4999,
+                    "RightMargin": 17.5001,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 270,
+                    "ActionTag": -1685224290,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 21.0
+                    },
+                    "Name": "textbmfont_all_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_20.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 18,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 39.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2928,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2873,
+                      "Y": 0.7179
+                    },
+                    "LeftMargin": 27.0,
+                    "RightMargin": 102.0,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 269,
+                    "ActionTag": 1512743196,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_icon",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1110884009,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_twenty_reward",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_3.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_3.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_chest_bg_3.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 25,
+                "Scale9Width": 46,
+                "Scale9Height": 28,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 802.5999,
+                  "Y": 88.5136
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.013,
+                  "Y": 0.4426
+                },
+                "PreSize": {
+                  "X": 0.82,
+                  "Y": 0.39
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 720.5999,
+                "RightMargin": -684.5999,
+                "TopMargin": 72.4864,
+                "BottomMargin": 49.5136,
+                "Tag": 89,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_geted.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 17,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.061,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2988,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 124.9968,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 90,
+                    "ActionTag": 437674312,
+                    "Size": {
+                      "X": 49.0032,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_all_nor",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_receive.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 17,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.061,
+                      "Y": 0.641
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2988,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 124.9968,
+                    "TopMargin": -11.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 92,
+                    "ActionTag": -853022118,
+                    "Size": {
+                      "X": 49.0032,
+                      "Y": 39.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_all_pre",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_mark_chest_all.png",
+                      "Plist": "mark/mark.plist"
+                    },
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 18,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.9998,
+                      "Y": 39.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3171,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3171,
+                      "Y": 0.7179
+                    },
+                    "LeftMargin": 25.9998,
+                    "RightMargin": 86.0002,
+                    "TopMargin": 11.0,
+                    "BottomMargin": 11.0,
+                    "Tag": 268,
+                    "ActionTag": 1084168503,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "50000累计",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.9999,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 252,
+                      "G": 227,
+                      "B": 40
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7073,
+                      "Y": 0.3462
+                    },
+                    "PreSize": {
+                      "X": 0.5427,
+                      "Y": 0.2692
+                    },
+                    "LeftMargin": 71.4999,
+                    "RightMargin": 3.5001,
+                    "TopMargin": 40.5,
+                    "BottomMargin": 16.5,
+                    "Tag": 266,
+                    "ActionTag": 953615406,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 21.0
+                    },
+                    "Name": "textbmfont_all_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 15,
+                    "LabelText": "月度全勤",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 51.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 207,
+                      "G": 239
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7012,
+                      "Y": 0.6538
+                    },
+                    "PreSize": {
+                      "X": 0.378,
+                      "Y": 0.2179
+                    },
+                    "LeftMargin": 84.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 267,
+                    "ActionTag": 418817628,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 17.0
+                    },
+                    "Name": "textbmfont_all_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1061174768,
+                "Size": {
+                  "X": 164.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_all_reward",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -118026826,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_reward",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/image_mall_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

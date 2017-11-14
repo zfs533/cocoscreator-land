@@ -1,0 +1,411 @@
+{
+  "ID": "ca8dfe03-33c9-442a-ac9c-b8a7195df20b",
+  "Version": "2.3.4",
+  "Name": "LodingBarUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 124,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_loadingBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 523,
+            "ActionTag": 1889859942,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "image_plazaBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_loading_bar.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 7,
+            "Scale9Width": 554,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 120.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1875
+            },
+            "PreSize": {
+              "X": 0.5405,
+              "Y": 0.0531
+            },
+            "LeftMargin": 261.0,
+            "RightMargin": 261.0,
+            "TopMargin": 503.0,
+            "BottomMargin": 103.0,
+            "Tag": 620,
+            "Children": [
+              {
+                "ProgressInfo": 0,
+                "ImageFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_loading.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 6.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0098,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 6.0,
+                "RightMargin": -6.0,
+                "Tag": 544,
+                "ActionTag": 817567741,
+                "Size": {
+                  "X": 614.0,
+                  "Y": 34.0
+                },
+                "Name": "lodingbar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "正在努力加载...",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 54,
+                  "G": 114,
+                  "B": 20
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 306.9998,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.7647
+                },
+                "PreSize": {
+                  "X": 0.2036,
+                  "Y": 0.6176
+                },
+                "LeftMargin": 244.4998,
+                "RightMargin": 244.5002,
+                "TopMargin": -36.5,
+                "BottomMargin": 49.5,
+                "Tag": 619,
+                "ActionTag": -620381782,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 21.0
+                },
+                "Name": "text_lodingbar_tips_s",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "0%",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 54,
+                  "G": 114,
+                  "B": 20
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 305.9998,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4984,
+                  "Y": 0.4412
+                },
+                "PreSize": {
+                  "X": 0.07,
+                  "Y": 0.6176
+                },
+                "LeftMargin": 284.4998,
+                "RightMargin": 286.5002,
+                "TopMargin": 8.5,
+                "BottomMargin": 4.5,
+                "Tag": 1379,
+                "ActionTag": -293835347,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 21.0
+                },
+                "Name": "text_lodingbar_tips",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1884733183,
+            "Size": {
+              "X": 614.0,
+              "Y": 34.0
+            },
+            "Name": "lodingbar_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -663.5339,
+              "Y": -63.5984
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.5841,
+              "Y": -0.0994
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "LeftMargin": -686.5339,
+            "RightMargin": 1776.5339,
+            "TopMargin": 680.5984,
+            "BottomMargin": -86.5984,
+            "Tag": 199,
+            "ActionTag": 455185794,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "sm_card_club_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "card_back.png",
+              "Plist": "card/card.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -658.8915,
+              "Y": 46.283
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.58,
+              "Y": 0.0723
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.325
+            },
+            "LeftMargin": -737.8915,
+            "RightMargin": 1715.8915,
+            "TopMargin": 489.717,
+            "BottomMargin": -57.717,
+            "Tag": 200,
+            "ActionTag": -1264913106,
+            "Size": {
+              "X": 158.0,
+              "Y": 208.0
+            },
+            "Name": "card_back_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_logo.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 357.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5586
+            },
+            "PreSize": {
+              "X": 0.3627,
+              "Y": 0.3719
+            },
+            "LeftMargin": 362.0,
+            "RightMargin": 362.0,
+            "TopMargin": 163.5,
+            "BottomMargin": 238.5,
+            "Tag": 30,
+            "ActionTag": 601447323,
+            "Size": {
+              "X": 412.0,
+              "Y": 238.0
+            },
+            "Name": "image_logo_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "card/card.plist",
+        "card/card.png",
+        "Default/Sprite.png",
+        "fnt/normal.TTF",
+        "plaza/image_loadingBg.jpg",
+        "plaza/plaza.plist",
+        "plaza/plaza.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

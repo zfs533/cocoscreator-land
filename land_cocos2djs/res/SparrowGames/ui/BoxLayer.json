@@ -1,0 +1,448 @@
+{
+  "ID": "551f4548-ebed-446b-9c1b-58a1e6941901",
+  "Version": "2.3.1.1",
+  "Name": "BoxLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 54,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_box_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 35,
+            "Scale9Width": 10,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.362,
+              "Y": 321.5456
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5004,
+              "Y": 0.5024
+            },
+            "PreSize": {
+              "X": 0.875,
+              "Y": 0.9141
+            },
+            "LeftMargin": 60.362,
+            "RightMargin": 59.638,
+            "TopMargin": 25.9544,
+            "BottomMargin": 29.0456,
+            "Tag": 55,
+            "ActionTag": 1548339090,
+            "Size": {
+              "X": 840.0,
+              "Y": 585.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameBoxUI/21_clearing_luckycard_title2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 471.537,
+              "Y": 529.3539
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4912,
+              "Y": 0.8271
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 211.537,
+            "RightMargin": 228.463,
+            "TopMargin": 60.1461,
+            "BottomMargin": 478.8539,
+            "Tag": 57,
+            "ActionTag": -1883886403,
+            "Size": {
+              "X": 520.0,
+              "Y": 101.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipX": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameBoxUI/21_clearing_luckycard_title2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 522.9606,
+              "Y": 529.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5448,
+              "Y": 0.8281
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 262.9606,
+            "RightMargin": 177.0394,
+            "TopMargin": 59.5003,
+            "BottomMargin": 479.4997,
+            "Tag": 58,
+            "ActionTag": 1159653623,
+            "Size": {
+              "X": 520.0,
+              "Y": 101.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameBoxUI/21_clearing_luckycard_title.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 504.2641,
+              "Y": 524.6262
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5253,
+              "Y": 0.8197
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 244.2641,
+            "RightMargin": 195.7359,
+            "TopMargin": 64.8738,
+            "BottomMargin": 474.1262,
+            "Tag": 59,
+            "ActionTag": -1419756522,
+            "Size": {
+              "X": 520.0,
+              "Y": 101.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_textbox_result_.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 5,
+            "Scale9Width": 2,
+            "Scale9Height": 2,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 483.2262,
+              "Y": 282.2943
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5034,
+              "Y": 0.4411
+            },
+            "PreSize": {
+              "X": 0.8021,
+              "Y": 0.4219
+            },
+            "LeftMargin": 98.2262,
+            "RightMargin": 91.7738,
+            "TopMargin": 222.7057,
+            "BottomMargin": 147.2943,
+            "Tag": 61,
+            "ActionTag": 1994024497,
+            "Size": {
+              "X": 770.0,
+              "Y": 270.0
+            },
+            "Name": "itemBorder",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "关闭",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_gn_pre.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_gn_nor.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 23,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 481.2243,
+              "Y": 97.2491
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5013,
+              "Y": 0.152
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.1094
+            },
+            "LeftMargin": 361.2243,
+            "RightMargin": 358.7757,
+            "TopMargin": 507.7509,
+            "BottomMargin": 62.2491,
+            "Tag": 67,
+            "ActionTag": -927330616,
+            "Size": {
+              "X": 240.0,
+              "Y": 70.0
+            },
+            "Name": "btn_close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "倒计时：20",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 754.056,
+              "Y": 86.9366
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7855,
+              "Y": 0.1358
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 662.056,
+            "RightMargin": 113.944,
+            "TopMargin": 532.0634,
+            "BottomMargin": 65.9366,
+            "Tag": 68,
+            "ActionTag": -1872500898,
+            "Size": {
+              "X": 184.0,
+              "Y": 42.0
+            },
+            "Name": "retainTime",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "获得系统奖励幸运大抽奖机会一次\n",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 495.4545,
+              "Y": 449.032
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5161,
+              "Y": 0.7016
+            },
+            "PreSize": {
+              "X": 0.375,
+              "Y": 0.125
+            },
+            "LeftMargin": 315.4545,
+            "RightMargin": 284.5455,
+            "TopMargin": 150.968,
+            "BottomMargin": 409.032,
+            "Tag": 70,
+            "ActionTag": 1305283975,
+            "Size": {
+              "X": 360.0,
+              "Y": 80.0
+            },
+            "Name": "text_retain",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "gameBoxUI/21_clearing_luckycard_title.png",
+        "gameBoxUI/21_clearing_luckycard_title2.png",
+        "gameFinishUI/btn_todo_gn_nor.png",
+        "gameFinishUI/btn_todo_gn_pre.png",
+        "gameFinishUI/pop_box_bg.png",
+        "gameFinishUI/pop_textbox_result_.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

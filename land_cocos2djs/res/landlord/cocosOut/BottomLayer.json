@@ -1,0 +1,300 @@
+{
+  "ID": "6d289e55-52c2-426e-b038-0bbb373dfcc0",
+  "Version": "2.3.4",
+  "Name": "BottomLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 63,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "backUILayer/deskBottomPic.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 9,
+            "Scale9Width": 1106,
+            "Scale9Height": 42,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0004,
+              "Y": 27.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0004,
+            "RightMargin": -0.0005,
+            "TopMargin": -0.0003,
+            "BottomMargin": 0.0003,
+            "Tag": 65,
+            "ActionTag": -1887147493,
+            "Size": {
+              "X": 1136.0,
+              "Y": 54.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bottom_01",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_goldBar.png",
+              "Plist": "plaza/plaza.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 190,
+            "Scale9Height": 46,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 8.6765,
+              "Y": 21.6416
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0076,
+              "Y": 0.4008
+            },
+            "PreSize": {
+              "X": 0.1796,
+              "Y": 0.8519
+            },
+            "LeftMargin": 8.6765,
+            "RightMargin": 923.3235,
+            "TopMargin": 9.3584,
+            "BottomMargin": -1.3584,
+            "Tag": 64,
+            "Children": [
+              {
+                "LabelText": "11221789万",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/jia-export.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 42.9449,
+                  "Y": 26.8615
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2105,
+                  "Y": 0.5839
+                },
+                "PreSize": {
+                  "X": 0.9363,
+                  "Y": 0.9348
+                },
+                "LeftMargin": 42.9449,
+                "RightMargin": -29.9449,
+                "TopMargin": -2.3615,
+                "BottomMargin": 5.3615,
+                "Tag": 93,
+                "ActionTag": 1110055889,
+                "Size": {
+                  "X": 191.0,
+                  "Y": 43.0
+                },
+                "Name": "playerGoldNum",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_goMail.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 13,
+                "Scale9Height": 21,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 201.9756,
+                  "Y": 25.9048
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9901,
+                  "Y": 0.5631
+                },
+                "PreSize": {
+                  "X": 0.2108,
+                  "Y": 0.9348
+                },
+                "LeftMargin": 180.4756,
+                "RightMargin": -19.4756,
+                "TopMargin": -1.4048,
+                "BottomMargin": 4.4048,
+                "Tag": 92,
+                "ActionTag": -2078537302,
+                "Size": {
+                  "X": 43.0,
+                  "Y": 43.0
+                },
+                "VisibleForFrame": false,
+                "Name": "buyGoldBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1007921921,
+            "Size": {
+              "X": 204.0,
+              "Y": 46.0
+            },
+            "Name": "controlBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk004.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 104,
+            "Scale9Height": 27,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1074.3484,
+              "Y": 23.704
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9457,
+              "Y": 0.439
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.8519
+            },
+            "LeftMargin": 1023.3484,
+            "RightMargin": 10.6516,
+            "TopMargin": 7.296,
+            "BottomMargin": 0.704,
+            "Tag": 94,
+            "ActionTag": -1734639087,
+            "Size": {
+              "X": 102.0,
+              "Y": 46.0
+            },
+            "VisibleForFrame": false,
+            "Name": "chatBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 54.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "backUILayer/deskBottomPic.png",
+        "fnt/jia-export.fnt",
+        "fnt/jia-export.png",
+        "plaza/plaza.plist",
+        "plaza/plaza.png",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

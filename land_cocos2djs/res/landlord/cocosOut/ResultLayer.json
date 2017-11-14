@@ -1,0 +1,571 @@
+{
+  "ID": "bde4f783-093b-4c91-aa8f-31bfeff7a21b",
+  "Version": "2.3.4",
+  "Name": "ResultLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 61,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "21_clearing_win.png",
+              "Plist": "desk/desk.plist"
+            },
+            "Scale9Width": 614,
+            "Scale9Height": 364,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 570.249,
+              "Y": 404.57
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.502,
+              "Y": 0.6321
+            },
+            "PreSize": {
+              "X": 0.5405,
+              "Y": 0.5688
+            },
+            "LeftMargin": 263.249,
+            "RightMargin": 258.751,
+            "TopMargin": 53.4301,
+            "BottomMargin": 222.57,
+            "Tag": 33,
+            "ActionTag": -1018679067,
+            "Size": {
+              "X": 614.0,
+              "Y": 364.0
+            },
+            "Name": "background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "LabelText": "+119854",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.5373,
+              "Y": 334.0865
+            },
+            "Scale": {
+              "ScaleX": 0.7841,
+              "ScaleY": 0.7841
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4565,
+              "Y": 0.522
+            },
+            "PreSize": {
+              "X": 0.2254,
+              "Y": 0.1172
+            },
+            "LeftMargin": 518.5373,
+            "RightMargin": 361.4627,
+            "TopMargin": 268.4135,
+            "BottomMargin": 296.5865,
+            "Tag": 11,
+            "ActionTag": -1843481252,
+            "Size": {
+              "X": 256.0,
+              "Y": 75.0
+            },
+            "Name": "resultGold",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "5",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 402.9858,
+              "Y": 263.9096
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 211,
+              "G": 51,
+              "B": 51
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3547,
+              "Y": 0.4124
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 382.9858,
+            "RightMargin": 733.0142,
+            "TopMargin": 355.0904,
+            "BottomMargin": 242.9096,
+            "Tag": 12,
+            "ActionTag": -1297404281,
+            "Size": {
+              "X": 20.0,
+              "Y": 42.0
+            },
+            "Name": "beiSu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "倍",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 405.4811,
+              "Y": 263.9096
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 211,
+              "G": 51,
+              "B": 51
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3569,
+              "Y": 0.4124
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 405.4811,
+            "RightMargin": 694.5189,
+            "TopMargin": 355.0904,
+            "BottomMargin": 242.9096,
+            "Tag": 13,
+            "ActionTag": 1164461918,
+            "Size": {
+              "X": 36.0,
+              "Y": 42.0
+            },
+            "Name": "beiSu_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "300",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 783.037,
+              "Y": 263.9096
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 211,
+              "G": 51,
+              "B": 51
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6893,
+              "Y": 0.4124
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 783.037,
+            "RightMargin": 292.963,
+            "TopMargin": 355.0904,
+            "BottomMargin": 242.9096,
+            "Tag": 14,
+            "ActionTag": -973783013,
+            "Size": {
+              "X": 60.0,
+              "Y": 42.0
+            },
+            "Name": "diJing",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "继续游戏",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_0.png",
+              "Plist": "desk/desk.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 231,
+            "Scale9Height": 69,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 730.6046,
+              "Y": 151.2661
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6431,
+              "Y": 0.2364
+            },
+            "PreSize": {
+              "X": 0.2298,
+              "Y": 0.1422
+            },
+            "LeftMargin": 600.1046,
+            "RightMargin": 274.8954,
+            "TopMargin": 443.2339,
+            "BottomMargin": 105.7661,
+            "Tag": 15,
+            "ActionTag": -1961895390,
+            "Size": {
+              "X": 261.0,
+              "Y": 91.0
+            },
+            "Name": "continue_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "炫耀分享",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_1.png",
+              "Plist": "desk/desk.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 231,
+            "Scale9Height": 69,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 408.1788,
+              "Y": 151.979
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3593,
+              "Y": 0.2375
+            },
+            "PreSize": {
+              "X": 0.2298,
+              "Y": 0.1422
+            },
+            "LeftMargin": 277.6788,
+            "RightMargin": 597.3212,
+            "TopMargin": 442.521,
+            "BottomMargin": 106.479,
+            "Tag": 16,
+            "ActionTag": 425743182,
+            "Size": {
+              "X": 261.0,
+              "Y": 91.0
+            },
+            "Name": "share_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "icon_goldbox_bg.png",
+              "Plist": "desk/desk.plist"
+            },
+            "Scale9Width": 207,
+            "Scale9Height": 101,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.9452,
+              "Y": 105.3028
+            },
+            "Scale": {
+              "ScaleX": 1.7038,
+              "ScaleY": 1.7038
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5017,
+              "Y": 0.1645
+            },
+            "PreSize": {
+              "X": 0.1822,
+              "Y": 0.1578
+            },
+            "LeftMargin": 466.4452,
+            "RightMargin": 462.5548,
+            "TopMargin": 484.1972,
+            "BottomMargin": 54.8028,
+            "Tag": 18,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "icon_goldbox.png",
+                  "Plist": "desk/desk.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 79,
+                "Scale9Height": 73,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 103.7796,
+                  "Y": 64.5931
+                },
+                "Scale": {
+                  "ScaleX": 0.5616,
+                  "ScaleY": 0.5616
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.6395
+                },
+                "PreSize": {
+                  "X": 0.096,
+                  "Y": 0.1484
+                },
+                "LeftMargin": 49.2796,
+                "RightMargin": 48.7204,
+                "TopMargin": -11.0931,
+                "BottomMargin": 17.0931,
+                "Tag": 17,
+                "ActionTag": -1637544663,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 95.0
+                },
+                "Name": "baoXiang_bnt",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "买金币去，哈哈哈",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.8906,
+                  "Y": 15.9624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5067,
+                  "Y": 0.158
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 24.8906,
+                "RightMargin": 22.1094,
+                "TopMargin": 73.5376,
+                "BottomMargin": 4.4624,
+                "Tag": 19,
+                "ActionTag": -1035154465,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 21.0
+                },
+                "Name": "text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 445118912,
+            "Size": {
+              "X": 207.0,
+              "Y": 101.0
+            },
+            "Name": "baoxiang",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "desk/desk.plist",
+        "desk/desk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

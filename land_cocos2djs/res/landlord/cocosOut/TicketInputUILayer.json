@@ -1,0 +1,1045 @@
+{
+  "ID": "87405167-0e3b-459d-9f9e-1cebec24e998",
+  "Version": "2.3.4",
+  "Name": "TicketInputUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 124,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.1833,
+              "Y": 1.0
+            },
+            "LeftMargin": -88.0,
+            "RightMargin": -88.0,
+            "Tag": 464,
+            "ActionTag": 1451197083,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "touchLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9998,
+              "Y": 320.4316
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5007
+            },
+            "PreSize": {
+              "X": 1.1833,
+              "Y": 1.0
+            },
+            "LeftMargin": -88.0002,
+            "RightMargin": -87.9998,
+            "TopMargin": -0.4316,
+            "BottomMargin": 0.4316,
+            "Tag": 463,
+            "ActionTag": -1379066235,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Alpha": 104,
+            "Name": "maskLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.4688
+            },
+            "LeftMargin": 480.0,
+            "RightMargin": 180.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 320.0,
+            "Tag": 215,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "plaza/image_mall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 3.11,
+                  "Y": 1.6867
+                },
+                "LeftMargin": -466.5,
+                "RightMargin": -166.5,
+                "TopMargin": 47.0,
+                "BottomMargin": -253.0,
+                "Tag": 216,
+                "ActionTag": 1653354056,
+                "Size": {
+                  "X": 933.0,
+                  "Y": 506.0
+                },
+                "Name": "Image_bg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 96,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.0333
+                },
+                "PreSize": {
+                  "X": 2.6667,
+                  "Y": 1.5667
+                },
+                "LeftMargin": -400.0,
+                "RightMargin": -100.0,
+                "TopMargin": 75.0,
+                "BottomMargin": -245.0,
+                "Tag": 83,
+                "ActionTag": -709082769,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 470.0
+                },
+                "Name": "Image_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 8,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -0.0002,
+                  "Y": 10.2829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0343
+                },
+                "PreSize": {
+                  "X": 2.4,
+                  "Y": 1.0
+                },
+                "LeftMargin": -360.0002,
+                "RightMargin": -59.9998,
+                "TopMargin": 139.7171,
+                "BottomMargin": -139.7171,
+                "Tag": 164,
+                "ActionTag": -1152396699,
+                "Size": {
+                  "X": 720.0,
+                  "Y": 300.0
+                },
+                "Name": "Image_rank_bg3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_press.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_press.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_close_normal.png",
+                  "Plist": "ddzRoom/ddzRoom.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 34,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 377.8042,
+                  "Y": 204.6587
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.2593,
+                  "Y": 0.6822
+                },
+                "PreSize": {
+                  "X": 0.2133,
+                  "Y": 0.2133
+                },
+                "LeftMargin": 345.8042,
+                "RightMargin": -109.8042,
+                "TopMargin": 63.3413,
+                "BottomMargin": 172.6587,
+                "Tag": 110,
+                "ActionTag": 80469205,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_ticketinput_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_tips_title.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 9.001,
+                  "Y": 189.6103
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.03,
+                  "Y": 0.632
+                },
+                "PreSize": {
+                  "X": 1.1333,
+                  "Y": 0.35
+                },
+                "LeftMargin": -160.999,
+                "RightMargin": 120.999,
+                "TopMargin": 57.8897,
+                "BottomMargin": 137.1103,
+                "Tag": 111,
+                "ActionTag": -1740755588,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 105.0
+                },
+                "Name": "image_tips_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "电    话：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -275.0,
+                  "Y": 114.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.9167,
+                  "Y": 0.3833
+                },
+                "PreSize": {
+                  "X": 0.28,
+                  "Y": 0.0933
+                },
+                "LeftMargin": -317.0,
+                "RightMargin": 533.0,
+                "TopMargin": 171.0005,
+                "BottomMargin": 100.9995,
+                "Tag": 112,
+                "ActionTag": -1443313697,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 28.0
+                },
+                "Name": "text_title_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "联系人：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -275.0,
+                  "Y": 48.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.9167,
+                  "Y": 0.16
+                },
+                "PreSize": {
+                  "X": 0.28,
+                  "Y": 0.0933
+                },
+                "LeftMargin": -317.0,
+                "RightMargin": 533.0,
+                "TopMargin": 238.0,
+                "BottomMargin": 34.0,
+                "Tag": 113,
+                "ActionTag": -1116094036,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 28.0
+                },
+                "Name": "text_title_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "地    址：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -275.0013,
+                  "Y": -19.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.9167,
+                  "Y": -0.0633
+                },
+                "PreSize": {
+                  "X": 0.28,
+                  "Y": 0.0933
+                },
+                "LeftMargin": -317.0013,
+                "RightMargin": 533.0013,
+                "TopMargin": 305.0,
+                "BottomMargin": -33.0,
+                "Tag": 114,
+                "ActionTag": 1957625373,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 28.0
+                },
+                "Name": "text_title_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 17,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -15.3807,
+                  "Y": 115.3825
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0513,
+                  "Y": 0.3846
+                },
+                "PreSize": {
+                  "X": 1.2333,
+                  "Y": 0.18
+                },
+                "LeftMargin": -200.3807,
+                "RightMargin": 130.3807,
+                "TopMargin": 157.6175,
+                "BottomMargin": 88.3825,
+                "Tag": 116,
+                "ActionTag": 898904418,
+                "Size": {
+                  "X": 370.0,
+                  "Y": 54.0
+                },
+                "Name": "image_ticketinput_mobile",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "点击填写联系电话",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 30,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -193.0003,
+                  "Y": 111.5486
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 208,
+                  "G": 208,
+                  "B": 208
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6433,
+                  "Y": 0.3718
+                },
+                "PreSize": {
+                  "X": 1.1833,
+                  "Y": 0.1
+                },
+                "LeftMargin": -193.0003,
+                "RightMargin": 138.0003,
+                "TopMargin": 173.4514,
+                "BottomMargin": 96.5486,
+                "Tag": 329,
+                "ActionTag": 819535436,
+                "Size": {
+                  "X": 355.0,
+                  "Y": 30.0
+                },
+                "Alpha": 178,
+                "Name": "textfiled_ticketinput_mobile",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 17,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -15.3807,
+                  "Y": 48.1851
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0513,
+                  "Y": 0.1606
+                },
+                "PreSize": {
+                  "X": 1.2333,
+                  "Y": 0.18
+                },
+                "LeftMargin": -200.3807,
+                "RightMargin": 130.3807,
+                "TopMargin": 224.8149,
+                "BottomMargin": 21.1851,
+                "Tag": 247,
+                "ActionTag": -428823833,
+                "Size": {
+                  "X": 370.0,
+                  "Y": 54.0
+                },
+                "Name": "image_ticketinput_nickbk",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "点击填写联系人",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 30,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -193.0001,
+                  "Y": 45.1297
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 208,
+                  "G": 208,
+                  "B": 208
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6433,
+                  "Y": 0.1504
+                },
+                "PreSize": {
+                  "X": 1.1833,
+                  "Y": 0.1
+                },
+                "LeftMargin": -193.0001,
+                "RightMargin": 138.0001,
+                "TopMargin": 239.8703,
+                "BottomMargin": 30.1297,
+                "Tag": 330,
+                "ActionTag": 264421138,
+                "Size": {
+                  "X": 355.0,
+                  "Y": 30.0
+                },
+                "Alpha": 178,
+                "Name": "textfiled_ticketinput_nickname",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 17,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 41.6182,
+                  "Y": -40.3904
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1387,
+                  "Y": -0.1346
+                },
+                "PreSize": {
+                  "X": 1.6133,
+                  "Y": 0.3167
+                },
+                "LeftMargin": -200.3818,
+                "RightMargin": 16.3818,
+                "TopMargin": 292.8904,
+                "BottomMargin": -87.8904,
+                "Tag": 249,
+                "ActionTag": -1414784630,
+                "Size": {
+                  "X": 484.0,
+                  "Y": 95.0
+                },
+                "Name": "Image_ticketinput_addressbk",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "点击填写寄件地址",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -193.697,
+                  "Y": -42.5211
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 208,
+                  "G": 208,
+                  "B": 208
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6457,
+                  "Y": -0.1417
+                },
+                "PreSize": {
+                  "X": 1.5533,
+                  "Y": 0.24
+                },
+                "LeftMargin": -193.697,
+                "RightMargin": 27.697,
+                "TopMargin": 306.5211,
+                "BottomMargin": -78.5211,
+                "Tag": 303,
+                "ActionTag": 226164456,
+                "Size": {
+                  "X": 466.0,
+                  "Y": 72.0
+                },
+                "Alpha": 178,
+                "Name": "text_ticketinput_address",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "详实的寄件信息有助于精准快速的发货，请认真填写哦！",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.9999,
+                  "Y": -117.4382
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 207,
+                  "G": 239
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0033,
+                  "Y": -0.3915
+                },
+                "PreSize": {
+                  "X": 1.9567,
+                  "Y": 0.0933
+                },
+                "LeftMargin": -292.5001,
+                "RightMargin": 5.5001,
+                "TopMargin": 403.4382,
+                "BottomMargin": -131.4382,
+                "Tag": 251,
+                "ActionTag": 1446029970,
+                "Size": {
+                  "X": 587.0,
+                  "Y": 28.0
+                },
+                "Name": "text_tips",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_save.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_tips_save.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 157,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -0.0004,
+                  "Y": -188.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.6268
+                },
+                "PreSize": {
+                  "X": 0.6233,
+                  "Y": 0.2333
+                },
+                "LeftMargin": -93.5004,
+                "RightMargin": 206.5004,
+                "TopMargin": 453.05,
+                "BottomMargin": -223.05,
+                "Tag": 252,
+                "ActionTag": -387232245,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_ticketinput_ok",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -867742059,
+            "Size": {
+              "X": 300.0,
+              "Y": 300.0
+            },
+            "Name": "panel_ticketinput",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/exchange/exchange.plist",
+        "plaza/exchange/exchange.png",
+        "plaza/image_mall_bg.png",
+        "plaza/safeBox/safeBox.plist",
+        "plaza/safeBox/safeBox.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

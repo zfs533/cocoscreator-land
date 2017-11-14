@@ -1,0 +1,1393 @@
+{
+  "ID": "ec63c2fc-90eb-42e4-87a6-dc1cfcc03577",
+  "Version": "2.3.4",
+  "Name": "SystemOptionUILayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 106,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_plazaBg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1659,
+            "ActionTag": 308403124,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "image_plazaBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_topBar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1625
+            },
+            "BottomMargin": 536.0,
+            "Tag": 1657,
+            "ActionTag": -659949130,
+            "Size": {
+              "X": 1136.0,
+              "Y": 104.0
+            },
+            "Name": "image_topBar",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 30.0,
+              "Y": 610.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0264,
+              "Y": 0.9531
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0688
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 2.0,
+            "RightMargin": 1078.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 588.0,
+            "Tag": 1654,
+            "ActionTag": -135981760,
+            "Size": {
+              "X": 56.0,
+              "Y": 44.0
+            },
+            "VisibleForFrame": false,
+            "Name": "panel_modifyuserinfo_close",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "plaza/image_mall_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 21,
+            "Scale9OriginY": 21,
+            "Scale9Width": 22,
+            "Scale9Height": 22,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8594
+            },
+            "TopMargin": 90.0,
+            "Tag": 1006,
+            "ActionTag": 289907649,
+            "Size": {
+              "X": 1136.0,
+              "Y": 550.0
+            },
+            "Name": "BG",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_label_bg.png",
+              "Plist": "plaza/userInfo/userInfo.plist"
+            },
+            "Scale9OriginX": 72,
+            "Scale9OriginY": 2,
+            "Scale9Width": 6,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 1128.0,
+              "Y": 553.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.993,
+              "Y": 0.8641
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0141
+            },
+            "LeftMargin": 978.0,
+            "RightMargin": 8.0,
+            "TopMargin": 87.0,
+            "BottomMargin": 544.0,
+            "Tag": 1655,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_title_label_setting.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9OriginX": 72,
+                "Scale9OriginY": 33,
+                "Scale9Width": 22,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 76.0,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5067,
+                  "Y": 5.7778
+                },
+                "PreSize": {
+                  "X": 1.1067,
+                  "Y": 7.3333
+                },
+                "LeftMargin": -7.0,
+                "RightMargin": -9.0,
+                "TopMargin": -76.0,
+                "BottomMargin": 19.0,
+                "Tag": 1656,
+                "ActionTag": -1226069045,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 66.0
+                },
+                "Name": "Image_label_userinfo",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -669993957,
+            "Size": {
+              "X": 150.0,
+              "Y": 9.0
+            },
+            "Name": "Image_label_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 290.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4531
+            },
+            "PreSize": {
+              "X": 0.8327,
+              "Y": 0.6094
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 568.0,
+            "RightMargin": -378.0,
+            "TopMargin": -40.0,
+            "BottomMargin": 290.0,
+            "Tag": 133,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_Pop_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 52,
+                "Scale9OriginY": 52,
+                "Scale9Width": 96,
+                "Scale9Height": 96,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.0256
+                },
+                "PreSize": {
+                  "X": 0.9323,
+                  "Y": 1.1333
+                },
+                "LeftMargin": -441.0,
+                "RightMargin": 505.0,
+                "TopMargin": 179.0,
+                "BottomMargin": -231.0,
+                "Tag": 1660,
+                "ActionTag": -1990317049,
+                "Size": {
+                  "X": 882.0,
+                  "Y": 442.0
+                },
+                "Name": "Image_rank_bg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_di_1.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 24,
+                "Scale9Width": 26,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0008,
+                  "Y": 43.2802
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.111
+                },
+                "PreSize": {
+                  "X": 0.8668,
+                  "Y": 0.6436
+                },
+                "LeftMargin": -409.9992,
+                "RightMargin": 535.9992,
+                "TopMargin": 221.2198,
+                "BottomMargin": -82.2198,
+                "Tag": 1662,
+                "ActionTag": 628386413,
+                "Size": {
+                  "X": 820.0,
+                  "Y": 251.0
+                },
+                "Alpha": 122,
+                "Name": "Image_rank_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk017.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -297.3844,
+                  "Y": 43.6909
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.3144,
+                  "Y": 0.112
+                },
+                "PreSize": {
+                  "X": 0.0825,
+                  "Y": 0.0821
+                },
+                "LeftMargin": -336.3844,
+                "RightMargin": 1204.3844,
+                "TopMargin": 330.3091,
+                "BottomMargin": 27.6909,
+                "Tag": 1477,
+                "ActionTag": -2115765744,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 32.0
+                },
+                "Name": "image_setting_muisc_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "desk016.png",
+                  "Plist": "texturepackerOutput/newDesk.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 121.6592,
+                  "Y": 42.6911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1286,
+                  "Y": 0.1095
+                },
+                "PreSize": {
+                  "X": 0.0825,
+                  "Y": 0.0846
+                },
+                "LeftMargin": 82.6592,
+                "RightMargin": 785.3408,
+                "TopMargin": 330.8089,
+                "BottomMargin": 26.1911,
+                "Tag": 1478,
+                "ActionTag": 478424825,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 33.0
+                },
+                "Name": "image_setting_effect_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_ extend.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9OriginX": 47,
+                "Scale9OriginY": 10,
+                "Scale9Width": 49,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -268.2837,
+                  "Y": -23.5585
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2836,
+                  "Y": -0.0604
+                },
+                "PreSize": {
+                  "X": 0.1512,
+                  "Y": 0.0846
+                },
+                "LeftMargin": -339.7837,
+                "RightMargin": 1142.7837,
+                "TopMargin": 397.0585,
+                "BottomMargin": -40.0585,
+                "Tag": 1661,
+                "ActionTag": 163200556,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 33.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_sysopt_tgyinfo",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "100%",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/bmf_setting.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.1251,
+                  "Y": 149.861
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3268,
+                  "Y": 0.3843
+                },
+                "PreSize": {
+                  "X": 0.0951,
+                  "Y": 0.2051
+                },
+                "LeftMargin": 264.1251,
+                "RightMargin": 591.8749,
+                "TopMargin": 200.139,
+                "BottomMargin": 109.861,
+                "Tag": 1480,
+                "ActionTag": 324154904,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_sysopt_musicendvalue",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "100%",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/bmf_setting.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 308.3077,
+                  "Y": 61.6442
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3259,
+                  "Y": 0.1581
+                },
+                "PreSize": {
+                  "X": 0.0951,
+                  "Y": 0.2051
+                },
+                "LeftMargin": 263.3077,
+                "RightMargin": 592.6923,
+                "TopMargin": 288.3558,
+                "BottomMargin": 21.6442,
+                "Tag": 1481,
+                "ActionTag": -379463705,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_sysopt_soundendvale",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_muisc_bar.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "ProgressBarData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallNormalData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallPressedData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallDisabledData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PercentInfo": 100,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2.452,
+                  "Y": 132.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0026,
+                  "Y": 0.3385
+                },
+                "PreSize": {
+                  "X": 0.4313,
+                  "Y": 0.0692
+                },
+                "LeftMargin": -201.548,
+                "RightMargin": 739.548,
+                "TopMargin": 244.5,
+                "BottomMargin": 118.5,
+                "Tag": 170,
+                "ActionTag": 425964770,
+                "Size": {
+                  "X": 408.0,
+                  "Y": 27.0
+                },
+                "VisibleForFrame": false,
+                "Name": "slider_sysopt_music",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_muisc_bar.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "ProgressBarData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallNormalData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallPressedData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "BallDisabledData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_setting_progress_drag.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PercentInfo": 100,
+                "TouchEnable": true,
+                "StretchHeightEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 2.452,
+                  "Y": 38.0543
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0026,
+                  "Y": 0.0976
+                },
+                "PreSize": {
+                  "X": 0.4313,
+                  "Y": 0.0692
+                },
+                "LeftMargin": -201.548,
+                "RightMargin": 739.548,
+                "TopMargin": 338.4517,
+                "BottomMargin": 24.5603,
+                "Tag": 33,
+                "ActionTag": 1383063695,
+                "Size": {
+                  "X": 408.0,
+                  "Y": 26.988
+                },
+                "VisibleForFrame": false,
+                "Name": "slider_sysopt_sound",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FontSize": 28,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 183,
+                  "G": 183,
+                  "B": 183
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_exchange_ok.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_exchange_ok.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 167,
+                "Scale9Height": 50,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.7103,
+                  "Y": -24.5591
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2809,
+                  "Y": -0.063
+                },
+                "PreSize": {
+                  "X": 0.1977,
+                  "Y": 0.1795
+                },
+                "LeftMargin": 172.2103,
+                "RightMargin": 586.7897,
+                "TopMargin": 379.5591,
+                "BottomMargin": -59.5591,
+                "Tag": 72,
+                "ActionTag": -1852365717,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_sysopt_tgyok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 183,
+                  "G": 183,
+                  "B": 183
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_1.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_1.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_1.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 167,
+                "Scale9Height": 49,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -240.0,
+                  "Y": -151.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2537,
+                  "Y": -0.3872
+                },
+                "PreSize": {
+                  "X": 0.1977,
+                  "Y": 0.1795
+                },
+                "HorizontalEdge": "LeftEdge",
+                "LeftMargin": -333.5,
+                "RightMargin": 1092.5,
+                "TopMargin": 506.0002,
+                "BottomMargin": -186.0002,
+                "Tag": 75,
+                "ActionTag": -2107860891,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_sysopt_plrom",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 183,
+                  "G": 183,
+                  "B": 183
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_2.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_2.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_2.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 10,
+                "Scale9Width": 171,
+                "Scale9Height": 50,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -151.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.3872
+                },
+                "PreSize": {
+                  "X": 0.1977,
+                  "Y": 0.1795
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": -93.5,
+                "RightMargin": 852.5,
+                "TopMargin": 506.0002,
+                "BottomMargin": -186.0002,
+                "Tag": 76,
+                "ActionTag": 2062911128,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_sysopt_changeaccount",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 183,
+                  "G": 183,
+                  "B": 183
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_3.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_3.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting_3.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 10,
+                "Scale9Width": 171,
+                "Scale9Height": 49,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 240.0,
+                  "Y": -151.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2537,
+                  "Y": -0.3872
+                },
+                "PreSize": {
+                  "X": 0.1977,
+                  "Y": 0.1795
+                },
+                "HorizontalEdge": "RightEdge",
+                "LeftMargin": 146.5,
+                "RightMargin": 612.5,
+                "TopMargin": 506.0002,
+                "BottomMargin": -186.0002,
+                "Tag": 92,
+                "ActionTag": 237553697,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_sysopt_exit",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_safeBox_inputBg.png",
+                  "Plist": "plaza/safeBox/safeBox.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 20,
+                "Scale9Width": 20,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -181.322,
+                  "Y": -23.5593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1917,
+                  "Y": -0.0604
+                },
+                "PreSize": {
+                  "X": 0.3721,
+                  "Y": 0.1385
+                },
+                "LeftMargin": -181.322,
+                "RightMargin": 775.322,
+                "TopMargin": 386.5593,
+                "BottomMargin": -50.5593,
+                "Tag": 260,
+                "ActionTag": -2074336947,
+                "Size": {
+                  "X": 352.0,
+                  "Y": 54.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_sysopt_tgybk_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 18,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -173.0698,
+                  "Y": -23.9037
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1829,
+                  "Y": -0.0613
+                },
+                "PreSize": {
+                  "X": 0.3594,
+                  "Y": 0.0897
+                },
+                "LeftMargin": -173.0698,
+                "RightMargin": 779.0698,
+                "TopMargin": 396.4037,
+                "BottomMargin": -41.4037,
+                "Tag": 77,
+                "ActionTag": -1926357582,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 35.0
+                },
+                "Name": "textfiled_tgy",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_music_on.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_music_on.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 128,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -146.8935,
+                  "Y": 43.6911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1553,
+                  "Y": 0.112
+                },
+                "PreSize": {
+                  "X": 0.167,
+                  "Y": 0.1538
+                },
+                "LeftMargin": -225.8935,
+                "RightMargin": 1013.8934,
+                "TopMargin": 316.3089,
+                "BottomMargin": 13.6911,
+                "Tag": 1267,
+                "ActionTag": 287383971,
+                "Size": {
+                  "X": 158.0,
+                  "Y": 60.0
+                },
+                "Name": "btn_music",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_music_off.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_music_off.png",
+                  "Plist": "setting/setting.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 128,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 261.1109,
+                  "Y": 43.6907
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.276,
+                  "Y": 0.112
+                },
+                "PreSize": {
+                  "X": 0.167,
+                  "Y": 0.1538
+                },
+                "LeftMargin": 182.1109,
+                "RightMargin": 605.8891,
+                "TopMargin": 316.3093,
+                "BottomMargin": 13.6907,
+                "Tag": 1266,
+                "ActionTag": -1549675417,
+                "Size": {
+                  "X": 158.0,
+                  "Y": 60.0
+                },
+                "Name": "btn_effect",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1946148359,
+            "Size": {
+              "X": 946.0,
+              "Y": 390.0
+            },
+            "Name": "panel_sysopt",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "fnt/bmf_setting.fnt",
+        "fnt/bmf_setting.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png",
+        "plaza/exchange/exchange.plist",
+        "plaza/exchange/exchange.png",
+        "plaza/image_mall_bg.png",
+        "plaza/image_plazaBg.jpg",
+        "plaza/image_topBar.png",
+        "plaza/safeBox/safeBox.plist",
+        "plaza/safeBox/safeBox.png",
+        "plaza/userInfo/userInfo.plist",
+        "plaza/userInfo/userInfo.png",
+        "setting/setting.plist",
+        "setting/setting.png",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

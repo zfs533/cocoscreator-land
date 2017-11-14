@@ -1,0 +1,422 @@
+{
+  "ID": "63bbbde7-25e6-414b-b08b-e8135782156b",
+  "Version": "2.3.4",
+  "Name": "RankSubItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 66,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -20,
+            "Scale9OriginY": -20,
+            "Scale9Width": 166,
+            "Scale9Height": 40,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 67,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_rankScene_1.png",
+                  "Plist": "plaza/rank/rank.plist"
+                },
+                "Scale9OriginX": 17,
+                "Scale9OriginY": 20,
+                "Scale9Width": 18,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 80.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1015,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.066,
+                  "Y": 0.9242
+                },
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 54.0,
+                "RightMargin": 682.0,
+                "TopMargin": 2.5,
+                "BottomMargin": 2.5,
+                "Tag": 69,
+                "ActionTag": 1095217220,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 61.0
+                },
+                "Name": "Image_ranksubitem_first",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "4",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fnt/bmf_bag.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 81.0,
+                  "Y": 34.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1028,
+                  "Y": 0.5152
+                },
+                "PreSize": {
+                  "X": 0.0203,
+                  "Y": 0.4242
+                },
+                "LeftMargin": 73.0,
+                "RightMargin": 699.0,
+                "TopMargin": 18.0,
+                "BottomMargin": 20.0,
+                "Tag": 636,
+                "ActionTag": -1909663879,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 28.0
+                },
+                "Name": "fnt_ranksubitem_first",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_head_bg.png",
+                  "Plist": "plaza/rank/rank.plist"
+                },
+                "Scale9OriginX": 16,
+                "Scale9OriginY": 16,
+                "Scale9Width": 160,
+                "Scale9Height": 160,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 250.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3173,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0635,
+                  "Y": 0.7576
+                },
+                "LeftMargin": 225.0,
+                "RightMargin": 513.0,
+                "TopMargin": 8.0,
+                "BottomMargin": 8.0,
+                "Tag": 714,
+                "ActionTag": -1142304326,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "Image_ranksubitem_header_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 250.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3173,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0584,
+                  "Y": 0.697
+                },
+                "LeftMargin": 227.0,
+                "RightMargin": 515.0,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 118,
+                "ActionTag": 2040007928,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 46.0
+                },
+                "Name": "Image_ranksubitem_header",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "名字最大七个字",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 290.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 250,
+                  "B": 177
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.368,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2284,
+                  "Y": 0.5303
+                },
+                "LeftMargin": 290.0,
+                "RightMargin": 318.0,
+                "TopMargin": 15.5,
+                "BottomMargin": 15.5,
+                "Tag": 73,
+                "ActionTag": 94000868,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 35.0
+                },
+                "Name": "text_ranksubitem_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1008611",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 650.0,
+                  "Y": 33.1393
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 227,
+                  "B": 40
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8249,
+                  "Y": 0.5021
+                },
+                "PreSize": {
+                  "X": 0.2284,
+                  "Y": 0.5303
+                },
+                "LeftMargin": 560.0,
+                "RightMargin": 48.0,
+                "TopMargin": 15.3607,
+                "BottomMargin": 15.6393,
+                "Tag": 637,
+                "ActionTag": 295806320,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 35.0
+                },
+                "Name": "text_ranksubitem_score",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_separate.png",
+                  "Plist": "plaza/rank/rank.plist"
+                },
+                "Scale9OriginX": 260,
+                "Scale9Width": 268,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.0152
+                },
+                "TopMargin": 65.0,
+                "Tag": 656,
+                "ActionTag": 85048714,
+                "Size": {
+                  "X": 788.0,
+                  "Y": 1.0
+                },
+                "Name": "image_separate",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1982317127,
+            "Size": {
+              "X": 788.0,
+              "Y": 66.0
+            },
+            "Name": "panel_ranksubitem_bk",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 788.0,
+          "Y": 66.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ImageFile.png",
+        "fnt/bmf_bag.fnt",
+        "fnt/bmf_bag.png",
+        "fnt/normal.TTF",
+        "plaza/rank/rank.plist",
+        "plaza/rank/rank.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

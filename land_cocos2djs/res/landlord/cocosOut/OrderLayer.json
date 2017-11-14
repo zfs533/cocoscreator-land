@@ -1,0 +1,295 @@
+{
+  "ID": "63e034f7-5f65-47fe-acf3-2929d0518a99",
+  "Version": "2.3.4",
+  "Name": "OrderLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 53,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk001.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 152,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9998,
+              "Y": 35.2431
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2817,
+              "Y": 0.3524
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.9
+            },
+            "LeftMargin": 228.9998,
+            "RightMargin": 725.0002,
+            "TopMargin": 19.7569,
+            "BottomMargin": -9.7569,
+            "Tag": 54,
+            "ActionTag": 1016807364,
+            "Size": {
+              "X": 182.0,
+              "Y": 90.0
+            },
+            "Name": "btn0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk009.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 152,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 719.9978,
+              "Y": 35.2472
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6338,
+              "Y": 0.3525
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.9
+            },
+            "LeftMargin": 628.9978,
+            "RightMargin": 325.0022,
+            "TopMargin": 19.7528,
+            "BottomMargin": -9.7528,
+            "Tag": 58,
+            "ActionTag": 998205776,
+            "Size": {
+              "X": 182.0,
+              "Y": 90.0
+            },
+            "Name": "btn1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk013.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 152,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 519.9997,
+              "Y": 35.2472
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4577,
+              "Y": 0.3525
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.9
+            },
+            "LeftMargin": 428.9997,
+            "RightMargin": 525.0003,
+            "TopMargin": 19.7528,
+            "BottomMargin": -9.7528,
+            "Tag": 59,
+            "ActionTag": 1991917653,
+            "Size": {
+              "X": 182.0,
+              "Y": 90.0
+            },
+            "Name": "btn2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "desk002.png",
+              "Plist": "texturepackerOutput/newDesk.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 152,
+            "Scale9Height": 68,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 919.996,
+              "Y": 35.2431
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8099,
+              "Y": 0.3524
+            },
+            "PreSize": {
+              "X": 0.1602,
+              "Y": 0.9
+            },
+            "LeftMargin": 828.996,
+            "RightMargin": 125.004,
+            "TopMargin": 19.7569,
+            "BottomMargin": -9.7569,
+            "Tag": 60,
+            "ActionTag": -1393829573,
+            "Size": {
+              "X": 182.0,
+              "Y": 90.0
+            },
+            "Name": "btn3",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 100.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "texturepackerOutput/newDesk.plist",
+        "texturepackerOutput/newDesk.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

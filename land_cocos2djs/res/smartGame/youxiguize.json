@@ -1,0 +1,313 @@
+{
+  "ID": "ce5151c4-b715-4f3e-a6c6-ac86c9123a62",
+  "Version": "2.2.8.0",
+  "Name": "youxiguize",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 83,
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 512,
+            "ActionTag": -1118387110,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "BG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_tanchuang_di.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 53,
+            "Scale9Width": 56,
+            "Scale9Height": 57,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 234.0,
+              "Y": 96.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.206,
+              "Y": 0.15
+            },
+            "PreSize": {
+              "X": 0.5898,
+              "Y": 0.6406
+            },
+            "LeftMargin": 234.0,
+            "RightMargin": 232.0,
+            "TopMargin": 134.0,
+            "BottomMargin": 96.0,
+            "Tag": 85,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_tanchuang_di2.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 56,
+                "Scale9OriginY": 82,
+                "Scale9Width": 31,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 334.4978,
+                  "Y": 200.4987
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.489
+                },
+                "PreSize": {
+                  "X": 0.9403,
+                  "Y": 0.9024
+                },
+                "LeftMargin": 19.4978,
+                "RightMargin": 20.5022,
+                "TopMargin": 24.5013,
+                "BottomMargin": 15.4987,
+                "Tag": 86,
+                "ActionTag": -2001237494,
+                "Size": {
+                  "X": 630.0,
+                  "Y": 370.0
+                },
+                "Name": "image_zhibeijing",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_tanchuang_biaoti.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Width": 169,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 334.4976,
+                  "Y": 398.4985
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.9719
+                },
+                "PreSize": {
+                  "X": 0.1488,
+                  "Y": 0.0719
+                },
+                "LeftMargin": 249.9976,
+                "RightMargin": 251.0024,
+                "TopMargin": -11.4985,
+                "BottomMargin": 375.4985,
+                "Tag": 87,
+                "ActionTag": -1255657332,
+                "Size": {
+                  "X": 169.0,
+                  "Y": 46.0
+                },
+                "Name": "image_biaoti",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_tanchuang_di3.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 19,
+                "Scale9OriginY": 19,
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 334.4978,
+                  "Y": 198.4999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.4841
+                },
+                "PreSize": {
+                  "X": 0.8507,
+                  "Y": 0.7805
+                },
+                "LeftMargin": 49.4978,
+                "RightMargin": 50.5022,
+                "TopMargin": 51.5001,
+                "BottomMargin": 38.4999,
+                "Tag": 89,
+                "ActionTag": 1628731645,
+                "Size": {
+                  "X": 570.0,
+                  "Y": 320.0
+                },
+                "Name": "image_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1、龙虎斗是一种简单娱乐，牌面大小只比点数，不比花色，A为最小牌，K为最大牌；\n\n2、游戏使用八副扑克牌进行抽取；玩家可投注： 龙、虎、和；龙与虎各抽取一张牌，双方比较大小；\n\n3、下注龙，1赔1，开和时输一半下注金额；\n      下注虎，1赔1，开和时输一半下注金额；\n      下注和，1赔7\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 74.4977,
+                  "Y": 329.0159
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 228,
+                  "G": 125,
+                  "B": 71
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1112,
+                  "Y": 0.8025
+                },
+                "PreSize": {
+                  "X": 0.7761,
+                  "Y": 0.6585
+                },
+                "LeftMargin": 74.4977,
+                "RightMargin": 75.5023,
+                "TopMargin": 80.9841,
+                "BottomMargin": 59.0159,
+                "Tag": 88,
+                "ActionTag": -101480994,
+                "Size": {
+                  "X": 520.0,
+                  "Y": 270.0
+                },
+                "Name": "text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -987385825,
+            "Size": {
+              "X": 670.0,
+              "Y": 410.0
+            },
+            "Name": "image_diban",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

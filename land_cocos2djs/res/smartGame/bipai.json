@@ -1,0 +1,244 @@
+{
+  "ID": "88227e30-3458-4aad-ad3f-5af6391922cd",
+  "Version": "2.2.8.0",
+  "Name": "bipai",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 61,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "card_back.png",
+              "Plist": "card/card.plist"
+            },
+            "Scale9Width": 158,
+            "Scale9Height": 208,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 377.5,
+              "Y": 267.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3323,
+              "Y": 0.418
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.325
+            },
+            "LeftMargin": 298.5,
+            "RightMargin": 679.5,
+            "TopMargin": 268.5,
+            "BottomMargin": 163.5,
+            "Tag": 62,
+            "ActionTag": -1930261357,
+            "Size": {
+              "X": 158.0,
+              "Y": 208.0
+            },
+            "Name": "Image_card_long",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "card_back.png",
+              "Plist": "card/card.plist"
+            },
+            "Scale9Width": 158,
+            "Scale9Height": 208,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 771.5,
+              "Y": 267.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6791,
+              "Y": 0.418
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.325
+            },
+            "LeftMargin": 692.5,
+            "RightMargin": 285.5,
+            "TopMargin": 268.5,
+            "BottomMargin": 163.5,
+            "Tag": 62,
+            "ActionTag": 962646303,
+            "Size": {
+              "X": 158.0,
+              "Y": 208.0
+            },
+            "Name": "Image_card_hu",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_kaipai.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Width": 258,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5078,
+              "ScaleY": 0.4615
+            },
+            "Position": {
+              "X": 570.5,
+              "Y": 455.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5022,
+              "Y": 0.7117
+            },
+            "PreSize": {
+              "X": 0.2271,
+              "Y": 0.0812
+            },
+            "LeftMargin": 439.4876,
+            "RightMargin": 438.5124,
+            "TopMargin": 156.498,
+            "BottomMargin": 431.502,
+            "Tag": 63,
+            "ActionTag": 1937821603,
+            "Size": {
+              "X": 258.0,
+              "Y": 52.0
+            },
+            "Name": "Image_bipai_biaoti",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_kaipai_long.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Width": 158,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 374.5,
+              "Y": 408.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3297,
+              "Y": 0.6383
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0812
+            },
+            "LeftMargin": 295.5,
+            "RightMargin": 682.5,
+            "TopMargin": 205.5,
+            "BottomMargin": 382.5,
+            "Tag": 64,
+            "ActionTag": -944050612,
+            "Size": {
+              "X": 158.0,
+              "Y": 52.0
+            },
+            "Name": "Image_bipai_long",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_kaipai_hu.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Width": 158,
+            "Scale9Height": 52,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 769.5,
+              "Y": 409.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6774,
+              "Y": 0.6398
+            },
+            "PreSize": {
+              "X": 0.1391,
+              "Y": 0.0812
+            },
+            "LeftMargin": 690.5,
+            "RightMargin": 287.5,
+            "TopMargin": 204.5,
+            "BottomMargin": 383.5,
+            "Tag": 65,
+            "ActionTag": 770082336,
+            "Size": {
+              "X": 158.0,
+              "Y": 52.0
+            },
+            "Name": "Image_bipai_hu",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

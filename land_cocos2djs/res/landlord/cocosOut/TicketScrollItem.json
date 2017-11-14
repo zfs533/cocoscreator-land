@@ -1,0 +1,2090 @@
+{
+  "ID": "6116e855-20ab-4e9d-b9d5-db195162538a",
+  "Version": "2.3.4",
+  "Name": "TicketScrollItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 203,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 10,
+                "Scale9Width": 210,
+                "Scale9Height": 172,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 159.9881,
+                  "Y": 102.4163
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1702,
+                  "Y": 0.507
+                },
+                "PreSize": {
+                  "X": 0.3298,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 4.9881,
+                "RightMargin": 625.012,
+                "TopMargin": -1.4163,
+                "BottomMargin": 1.4163,
+                "Tag": 1202,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_item_icon_bg.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 36,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2258,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.3663
+                    },
+                    "LeftMargin": 20.0,
+                    "RightMargin": 190.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 1203,
+                    "ActionTag": 1269432686,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 74.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_tickitem_texture_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_task_huafei.png",
+                      "Plist": "plaza/task/task.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 8,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.3635,
+                      "Y": 124.5988
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2173,
+                      "Y": 0.6168
+                    },
+                    "PreSize": {
+                      "X": 0.2323,
+                      "Y": 0.3564
+                    },
+                    "LeftMargin": 31.3635,
+                    "RightMargin": 206.6365,
+                    "TopMargin": 41.4012,
+                    "BottomMargin": 88.5988,
+                    "Tag": 1204,
+                    "ActionTag": -799985327,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 72.0
+                    },
+                    "Name": "Image_tickitem_texture",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 105.9966,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3419,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.495
+                    },
+                    "LeftMargin": 105.9966,
+                    "RightMargin": 104.0034,
+                    "TopMargin": 42.0,
+                    "BottomMargin": 60.0,
+                    "Tag": 1205,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_champion_bg.png",
+                          "Plist": "ddzRoom/ddzRoom.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 63,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 69,
+                        "Scale9Height": 50,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 53.2957,
+                          "Y": 41.1859
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.533,
+                          "Y": 0.4119
+                        },
+                        "PreSize": {
+                          "X": 2.4,
+                          "Y": 0.76
+                        },
+                        "LeftMargin": -66.7043,
+                        "RightMargin": -73.2957,
+                        "TopMargin": 20.8141,
+                        "BottomMargin": 3.1859,
+                        "Tag": 1206,
+                        "ActionTag": -1254839142,
+                        "Size": {
+                          "X": 240.0,
+                          "Y": 76.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_champion",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "局对战战局对战战\n局局局对战战局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 5.1021,
+                          "Y": 77.5227
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.051,
+                          "Y": 0.7752
+                        },
+                        "PreSize": {
+                          "X": 1.74,
+                          "Y": 0.5
+                        },
+                        "LeftMargin": 5.1021,
+                        "RightMargin": -79.1021,
+                        "TopMargin": -2.5227,
+                        "BottomMargin": 52.5227,
+                        "Tag": 1207,
+                        "ActionTag": 478479003,
+                        "Size": {
+                          "X": 174.0,
+                          "Y": 50.0
+                        },
+                        "Name": "text_tickitem_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 21,
+                        "LabelText": "现价：",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 23.1025,
+                          "Y": -17.6928
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 125,
+                          "G": 77,
+                          "B": 40
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.231,
+                          "Y": -0.1769
+                        },
+                        "PreSize": {
+                          "X": 0.53,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": 23.1025,
+                        "RightMargin": 23.8975,
+                        "TopMargin": 105.6928,
+                        "BottomMargin": -29.6928,
+                        "Tag": 1208,
+                        "ActionTag": 1805772444,
+                        "Size": {
+                          "X": 53.0,
+                          "Y": 24.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "text_tickitem_nowPrice",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_task_jiangpai.png",
+                          "Plist": "plaza/task/task.plist"
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 26,
+                        "Scale9Height": 26,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -2.2304,
+                          "Y": -18.4949
+                        },
+                        "Scale": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0223,
+                          "Y": -0.1849
+                        },
+                        "PreSize": {
+                          "X": 0.72,
+                          "Y": 0.72
+                        },
+                        "LeftMargin": -38.2304,
+                        "RightMargin": 66.2304,
+                        "TopMargin": 82.4949,
+                        "BottomMargin": -54.4949,
+                        "Tag": 1209,
+                        "ActionTag": -1569112260,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_ticket_medal_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "9999999999999奖牌",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 52.0,
+                          "Y": -20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 250,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.52,
+                          "Y": -0.2
+                        },
+                        "PreSize": {
+                          "X": 2.01,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": -48.5,
+                        "RightMargin": -52.5,
+                        "TopMargin": 108.0,
+                        "BottomMargin": -32.0,
+                        "Tag": 1210,
+                        "ActionTag": 1898472545,
+                        "Size": {
+                          "X": 201.0,
+                          "Y": 24.0
+                        },
+                        "Name": "text_tickitem_price",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1441684536,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "layer_info",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 142,
+                    "Scale9Height": 90,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.1528,
+                      "Y": 97.9899
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5134,
+                      "Y": 0.4851
+                    },
+                    "PreSize": {
+                      "X": 0.5968,
+                      "Y": 0.5347
+                    },
+                    "LeftMargin": 66.6528,
+                    "RightMargin": 58.3472,
+                    "TopMargin": 50.0101,
+                    "BottomMargin": 43.9899,
+                    "Tag": 1211,
+                    "ActionTag": -301926978,
+                    "Size": {
+                      "X": 185.0,
+                      "Y": 108.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_signUp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "库存：50000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 226.8558,
+                      "Y": 76.8239
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7318,
+                      "Y": 0.3803
+                    },
+                    "PreSize": {
+                      "X": 0.3871,
+                      "Y": 0.104
+                    },
+                    "LeftMargin": 166.8558,
+                    "RightMargin": 23.1442,
+                    "TopMargin": 114.6761,
+                    "BottomMargin": 66.3239,
+                    "Tag": 1212,
+                    "ActionTag": 1288335298,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 21.0
+                    },
+                    "Name": "text_tickitem_count",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_exchange.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 155.0523,
+                      "Y": 90.1788
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5002,
+                      "Y": 0.4464
+                    },
+                    "PreSize": {
+                      "X": 0.2484,
+                      "Y": 0.1683
+                    },
+                    "LeftMargin": 116.5523,
+                    "RightMargin": 116.4477,
+                    "TopMargin": 94.8212,
+                    "BottomMargin": 73.1788,
+                    "Tag": 1213,
+                    "ActionTag": 1330659977,
+                    "Size": {
+                      "X": 77.0,
+                      "Y": 34.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_signUpEx",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -443612085,
+                "Size": {
+                  "X": 310.0,
+                  "Y": 202.0
+                },
+                "Name": "btn_item_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 10,
+                "Scale9Width": 210,
+                "Scale9Height": 172,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 470.0,
+                  "Y": 101.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3298,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 315.0,
+                "RightMargin": 315.0,
+                "Tag": 309,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_item_icon_bg.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 36,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2258,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.3663
+                    },
+                    "LeftMargin": 20.0,
+                    "RightMargin": 190.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 311,
+                    "ActionTag": 829541919,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 74.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_tickitem_texture_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_task_huafei.png",
+                      "Plist": "plaza/task/task.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 8,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.3635,
+                      "Y": 124.5988
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2173,
+                      "Y": 0.6168
+                    },
+                    "PreSize": {
+                      "X": 0.2323,
+                      "Y": 0.3564
+                    },
+                    "LeftMargin": 31.3635,
+                    "RightMargin": 206.6365,
+                    "TopMargin": 41.4012,
+                    "BottomMargin": 88.5988,
+                    "Tag": 836,
+                    "ActionTag": -626201434,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 72.0
+                    },
+                    "Name": "Image_tickitem_texture",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 105.9966,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3419,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.495
+                    },
+                    "LeftMargin": 105.9966,
+                    "RightMargin": 104.0034,
+                    "TopMargin": 42.0,
+                    "BottomMargin": 60.0,
+                    "Tag": 314,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_champion_bg.png",
+                          "Plist": "ddzRoom/ddzRoom.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 63,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 69,
+                        "Scale9Height": 50,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 53.2957,
+                          "Y": 41.1859
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.533,
+                          "Y": 0.4119
+                        },
+                        "PreSize": {
+                          "X": 2.4,
+                          "Y": 0.76
+                        },
+                        "LeftMargin": -66.7043,
+                        "RightMargin": -73.2957,
+                        "TopMargin": 20.8141,
+                        "BottomMargin": 3.1859,
+                        "Tag": 315,
+                        "ActionTag": -2116963215,
+                        "Size": {
+                          "X": 240.0,
+                          "Y": 76.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_champion",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "局对战战局对战战\n局局局对战战局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 5.1021,
+                          "Y": 77.5227
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.051,
+                          "Y": 0.7752
+                        },
+                        "PreSize": {
+                          "X": 1.74,
+                          "Y": 0.5
+                        },
+                        "LeftMargin": 5.1021,
+                        "RightMargin": -79.1021,
+                        "TopMargin": -2.5227,
+                        "BottomMargin": 52.5227,
+                        "Tag": 101,
+                        "ActionTag": 1705788332,
+                        "Size": {
+                          "X": 174.0,
+                          "Y": 50.0
+                        },
+                        "Name": "text_tickitem_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 21,
+                        "LabelText": "现价：",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 23.1025,
+                          "Y": -17.6928
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 125,
+                          "G": 77,
+                          "B": 40
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.231,
+                          "Y": -0.1769
+                        },
+                        "PreSize": {
+                          "X": 0.53,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": 23.1025,
+                        "RightMargin": 23.8975,
+                        "TopMargin": 105.6928,
+                        "BottomMargin": -29.6928,
+                        "Tag": 837,
+                        "ActionTag": 85966548,
+                        "Size": {
+                          "X": 53.0,
+                          "Y": 24.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "text_tickitem_nowPrice",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_task_jiangpai.png",
+                          "Plist": "plaza/task/task.plist"
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 26,
+                        "Scale9Height": 26,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -2.2304,
+                          "Y": -18.4949
+                        },
+                        "Scale": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0223,
+                          "Y": -0.1849
+                        },
+                        "PreSize": {
+                          "X": 0.72,
+                          "Y": 0.72
+                        },
+                        "LeftMargin": -38.2304,
+                        "RightMargin": 66.2304,
+                        "TopMargin": 82.4949,
+                        "BottomMargin": -54.4949,
+                        "Tag": 841,
+                        "ActionTag": 2107405609,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_ticket_medal_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "9999999999999奖牌",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 52.0,
+                          "Y": -20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 250,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.52,
+                          "Y": -0.2
+                        },
+                        "PreSize": {
+                          "X": 2.01,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": -48.5,
+                        "RightMargin": -52.5,
+                        "TopMargin": 108.0,
+                        "BottomMargin": -32.0,
+                        "Tag": 839,
+                        "ActionTag": 1234196842,
+                        "Size": {
+                          "X": 201.0,
+                          "Y": 24.0
+                        },
+                        "Name": "text_tickitem_price",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -30780056,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "layer_info",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 142,
+                    "Scale9Height": 90,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.1528,
+                      "Y": 97.9899
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5134,
+                      "Y": 0.4851
+                    },
+                    "PreSize": {
+                      "X": 0.5968,
+                      "Y": 0.5347
+                    },
+                    "LeftMargin": 66.6528,
+                    "RightMargin": 58.3472,
+                    "TopMargin": 50.0101,
+                    "BottomMargin": 43.9899,
+                    "Tag": 304,
+                    "ActionTag": 592965249,
+                    "Size": {
+                      "X": 185.0,
+                      "Y": 108.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_signUp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "库存：50000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 226.8558,
+                      "Y": 76.8239
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7318,
+                      "Y": 0.3803
+                    },
+                    "PreSize": {
+                      "X": 0.3871,
+                      "Y": 0.104
+                    },
+                    "LeftMargin": 166.8558,
+                    "RightMargin": 23.1442,
+                    "TopMargin": 114.6761,
+                    "BottomMargin": 66.3239,
+                    "Tag": 840,
+                    "ActionTag": 1868584285,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 21.0
+                    },
+                    "Name": "text_tickitem_count",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_exchange.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 155.0523,
+                      "Y": 90.1788
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5002,
+                      "Y": 0.4464
+                    },
+                    "PreSize": {
+                      "X": 0.2484,
+                      "Y": 0.1683
+                    },
+                    "LeftMargin": 116.5523,
+                    "RightMargin": 116.4477,
+                    "TopMargin": 94.8212,
+                    "BottomMargin": 73.1788,
+                    "Tag": 305,
+                    "ActionTag": -867541641,
+                    "Size": {
+                      "X": 77.0,
+                      "Y": 34.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_signUpEx",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1967697347,
+                "Size": {
+                  "X": 310.0,
+                  "Y": 202.0
+                },
+                "Name": "btn_item_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_exchange_di.png",
+                  "Plist": "plaza/exchange/exchange.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 10,
+                "Scale9Width": 210,
+                "Scale9Height": 172,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 780.012,
+                  "Y": 101.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8298,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3298,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 625.012,
+                "RightMargin": 4.988,
+                "Tag": 1214,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_item_icon_bg.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 36,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2258,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.3663
+                    },
+                    "LeftMargin": 20.0,
+                    "RightMargin": 190.0,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 1215,
+                    "ActionTag": -509161862,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 74.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_tickitem_texture_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_task_huafei.png",
+                      "Plist": "plaza/task/task.plist"
+                    },
+                    "Scale9OriginX": 32,
+                    "Scale9OriginY": 31,
+                    "Scale9Width": 8,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.3635,
+                      "Y": 124.5988
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2173,
+                      "Y": 0.6168
+                    },
+                    "PreSize": {
+                      "X": 0.2323,
+                      "Y": 0.3564
+                    },
+                    "LeftMargin": 31.3635,
+                    "RightMargin": 206.6365,
+                    "TopMargin": 41.4012,
+                    "BottomMargin": 88.5988,
+                    "Tag": 1216,
+                    "ActionTag": 169410661,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 72.0
+                    },
+                    "Name": "Image_tickitem_texture",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 105.9966,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3419,
+                      "Y": 0.297
+                    },
+                    "PreSize": {
+                      "X": 0.3226,
+                      "Y": 0.495
+                    },
+                    "LeftMargin": 105.9966,
+                    "RightMargin": 104.0034,
+                    "TopMargin": 42.0,
+                    "BottomMargin": 60.0,
+                    "Tag": 1217,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_champion_bg.png",
+                          "Plist": "ddzRoom/ddzRoom.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 63,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 69,
+                        "Scale9Height": 50,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 53.2957,
+                          "Y": 41.1859
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.533,
+                          "Y": 0.4119
+                        },
+                        "PreSize": {
+                          "X": 2.4,
+                          "Y": 0.76
+                        },
+                        "LeftMargin": -66.7043,
+                        "RightMargin": -73.2957,
+                        "TopMargin": 20.8141,
+                        "BottomMargin": 3.1859,
+                        "Tag": 1218,
+                        "ActionTag": 1353176242,
+                        "Size": {
+                          "X": 240.0,
+                          "Y": 76.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_champion",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "局对战战局对战战\n局局局对战战局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 5.1021,
+                          "Y": 77.5227
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.051,
+                          "Y": 0.7752
+                        },
+                        "PreSize": {
+                          "X": 1.74,
+                          "Y": 0.5
+                        },
+                        "LeftMargin": 5.1021,
+                        "RightMargin": -79.1021,
+                        "TopMargin": -2.5227,
+                        "BottomMargin": 52.5227,
+                        "Tag": 1219,
+                        "ActionTag": -1588393992,
+                        "Size": {
+                          "X": 174.0,
+                          "Y": 50.0
+                        },
+                        "Name": "text_tickitem_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 21,
+                        "LabelText": "现价：",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 23.1025,
+                          "Y": -17.6928
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 125,
+                          "G": 77,
+                          "B": 40
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.231,
+                          "Y": -0.1769
+                        },
+                        "PreSize": {
+                          "X": 0.53,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": 23.1025,
+                        "RightMargin": 23.8975,
+                        "TopMargin": 105.6928,
+                        "BottomMargin": -29.6928,
+                        "Tag": 1220,
+                        "ActionTag": -1475228899,
+                        "Size": {
+                          "X": 53.0,
+                          "Y": 24.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "text_tickitem_nowPrice",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_task_jiangpai.png",
+                          "Plist": "plaza/task/task.plist"
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 26,
+                        "Scale9Height": 26,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -2.2304,
+                          "Y": -18.4949
+                        },
+                        "Scale": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0223,
+                          "Y": -0.1849
+                        },
+                        "PreSize": {
+                          "X": 0.72,
+                          "Y": 0.72
+                        },
+                        "LeftMargin": -38.2304,
+                        "RightMargin": 66.2304,
+                        "TopMargin": 82.4949,
+                        "BottomMargin": -54.4949,
+                        "Tag": 1221,
+                        "ActionTag": 2130325189,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_ticket_medal_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 21,
+                        "LabelText": "9999999999999奖牌",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 0,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 52.0,
+                          "Y": -19.69
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 250,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.52,
+                          "Y": -0.1969
+                        },
+                        "PreSize": {
+                          "X": 2.01,
+                          "Y": 0.24
+                        },
+                        "LeftMargin": -48.5,
+                        "RightMargin": -52.5,
+                        "TopMargin": 107.69,
+                        "BottomMargin": -31.69,
+                        "Tag": 1222,
+                        "ActionTag": 2066093943,
+                        "Size": {
+                          "X": 201.0,
+                          "Y": 24.0
+                        },
+                        "Name": "text_tickitem_price",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -567039444,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "layer_info",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_signUp_normal.png",
+                      "Plist": "ddzRoom/ddzRoom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 142,
+                    "Scale9Height": 90,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.1528,
+                      "Y": 97.9899
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5134,
+                      "Y": 0.4851
+                    },
+                    "PreSize": {
+                      "X": 0.5968,
+                      "Y": 0.5347
+                    },
+                    "LeftMargin": 66.6528,
+                    "RightMargin": 58.3472,
+                    "TopMargin": 50.0101,
+                    "BottomMargin": 43.9899,
+                    "Tag": 1223,
+                    "ActionTag": 1422260661,
+                    "Size": {
+                      "X": 185.0,
+                      "Y": 108.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_signUp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "库存：50000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineSize": 0,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 226.8558,
+                      "Y": 76.8239
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7318,
+                      "Y": 0.3803
+                    },
+                    "PreSize": {
+                      "X": 0.3871,
+                      "Y": 0.104
+                    },
+                    "LeftMargin": 166.8558,
+                    "RightMargin": 23.1442,
+                    "TopMargin": 114.6761,
+                    "BottomMargin": 66.3239,
+                    "Tag": 1224,
+                    "ActionTag": -806316401,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 21.0
+                    },
+                    "Name": "text_tickitem_count",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_exchange.png",
+                      "Plist": "plaza/exchange/exchange.plist"
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 155.0523,
+                      "Y": 90.1788
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5002,
+                      "Y": 0.4464
+                    },
+                    "PreSize": {
+                      "X": 0.2484,
+                      "Y": 0.1683
+                    },
+                    "LeftMargin": 116.5523,
+                    "RightMargin": 116.4477,
+                    "TopMargin": 94.8212,
+                    "BottomMargin": 73.1788,
+                    "Tag": 1225,
+                    "ActionTag": -1240442499,
+                    "Size": {
+                      "X": 77.0,
+                      "Y": 34.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_signUpEx",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -603728954,
+                "Size": {
+                  "X": 310.0,
+                  "Y": 202.0
+                },
+                "Name": "btn_item_2",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2117393696,
+            "Size": {
+              "X": 940.0,
+              "Y": 202.0
+            },
+            "Name": "layer_ticketScrollitem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 940.0,
+          "Y": 202.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ddzRoom/ddzRoom.plist",
+        "ddzRoom/ddzRoom.png",
+        "Default/Button_Disable.png",
+        "fnt/normal.TTF",
+        "plaza/exchange/exchange.plist",
+        "plaza/exchange/exchange.png",
+        "plaza/task/task.plist",
+        "plaza/task/task.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

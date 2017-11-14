@@ -1,0 +1,193 @@
+{
+  "ID": "f6359586-0ff3-458b-9833-59f0ff138850",
+  "Version": "2.2.8.0",
+  "Name": "Layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 56,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_gezi.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Width": 33,
+            "Scale9Height": 100,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 57,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_weiyazhu.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Width": 23,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 6.0,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1818,
+                  "Y": 0.93
+                },
+                "PreSize": {
+                  "X": 0.697,
+                  "Y": 0.2
+                },
+                "LeftMargin": 6.0,
+                "RightMargin": 4.0,
+                "TopMargin": 7.0,
+                "BottomMargin": 73.0,
+                "Tag": 58,
+                "ActionTag": 1772515063,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 20.0
+                },
+                "Name": "image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_dui.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Width": 23,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 6.0,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1818,
+                  "Y": 0.93
+                },
+                "PreSize": {
+                  "X": 0.697,
+                  "Y": 0.2
+                },
+                "LeftMargin": 6.0,
+                "RightMargin": 4.0,
+                "TopMargin": 7.0,
+                "BottomMargin": 73.0,
+                "Tag": 59,
+                "ActionTag": 1921587179,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 20.0
+                },
+                "Name": "image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_cuo.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Width": 18,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 6.0,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1818,
+                  "Y": 0.93
+                },
+                "PreSize": {
+                  "X": 0.5455,
+                  "Y": 0.2
+                },
+                "LeftMargin": 6.0,
+                "RightMargin": 9.0,
+                "TopMargin": 7.0,
+                "BottomMargin": 73.0,
+                "Tag": 60,
+                "ActionTag": 267809214,
+                "Size": {
+                  "X": 18.0,
+                  "Y": 20.0
+                },
+                "Name": "Image_4",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1664277588,
+            "Size": {
+              "X": 33.0,
+              "Y": 100.0
+            },
+            "Name": "image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 33.0,
+          "Y": 100.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

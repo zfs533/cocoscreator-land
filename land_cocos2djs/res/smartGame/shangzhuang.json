@@ -1,0 +1,478 @@
+{
+  "ID": "ec34ae4d-2b61-436b-bff6-400673992475",
+  "Version": "2.2.8.0",
+  "Name": "shangzhuang",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 67,
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 841.0656,
+              "Y": 62.9784
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7404,
+              "Y": 0.0984
+            },
+            "PreSize": {
+              "X": 0.2597,
+              "Y": 0.7734
+            },
+            "LeftMargin": 841.0656,
+            "RightMargin": -0.0657,
+            "TopMargin": 82.0215,
+            "BottomMargin": 62.9784,
+            "Tag": 410,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_SZ_liebiao.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 117,
+                "Scale9Width": 58,
+                "Scale9Height": 59,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 295.4269,
+                  "Y": 14.2866
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0014,
+                  "Y": 0.0289
+                },
+                "PreSize": {
+                  "X": 0.2597,
+                  "Y": 0.7734
+                },
+                "LeftMargin": 0.4269,
+                "RightMargin": -0.4269,
+                "TopMargin": -14.2866,
+                "BottomMargin": 14.2866,
+                "Tag": 69,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 153.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5186,
+                      "Y": 0.1798
+                    },
+                    "PreSize": {
+                      "X": 0.1268,
+                      "Y": 0.1156
+                    },
+                    "LeftMargin": 81.0,
+                    "RightMargin": 70.0,
+                    "TopMargin": 369.0,
+                    "BottomMargin": 52.0,
+                    "Tag": 81,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "申请上庄",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 99,
+                          "G": 158,
+                          "B": 10
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 76.9998,
+                          "Y": 38.4981
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5347,
+                          "Y": 0.5202
+                        },
+                        "PreSize": {
+                          "X": 0.0986,
+                          "Y": 0.05
+                        },
+                        "LeftMargin": 20.9998,
+                        "RightMargin": 11.0002,
+                        "TopMargin": 19.5019,
+                        "BottomMargin": 22.4981,
+                        "Tag": 101,
+                        "ActionTag": -472919944,
+                        "Size": {
+                          "X": 112.0,
+                          "Y": 32.0
+                        },
+                        "Name": "text_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1795967166,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 74.0
+                    },
+                    "Name": "button_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "需要金币200万",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fnt/normal.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 156.1483,
+                      "Y": 39.1952
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 228,
+                      "G": 125,
+                      "B": 71
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5293,
+                      "Y": 0.0792
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 89.6483,
+                    "RightMargin": 72.3517,
+                    "TopMargin": 444.3048,
+                    "BottomMargin": 27.6952,
+                    "Tag": 82,
+                    "ActionTag": -104693330,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 23.0
+                    },
+                    "Name": "text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu2.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 109,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 155.2319,
+                      "Y": 89.2323
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5262,
+                      "Y": 0.1803
+                    },
+                    "PreSize": {
+                      "X": 0.4712,
+                      "Y": 0.1495
+                    },
+                    "LeftMargin": 85.7319,
+                    "RightMargin": 70.2681,
+                    "TopMargin": 368.7677,
+                    "BottomMargin": 52.2323,
+                    "Tag": 104,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "取消上庄",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fnt/normal.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 203,
+                          "G": 116,
+                          "B": 1
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 71.9998,
+                          "Y": 38.4982
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.518,
+                          "Y": 0.5202
+                        },
+                        "PreSize": {
+                          "X": 0.0986,
+                          "Y": 0.05
+                        },
+                        "LeftMargin": 11.9998,
+                        "RightMargin": 7.0002,
+                        "TopMargin": 18.5018,
+                        "BottomMargin": 21.4982,
+                        "Tag": 105,
+                        "ActionTag": -180317640,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 34.0
+                        },
+                        "Name": "text_1_5",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1862222602,
+                    "Size": {
+                      "X": 139.0,
+                      "Y": 74.0
+                    },
+                    "Name": "button_1_0",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 943742196,
+                "Size": {
+                  "X": 295.0,
+                  "Y": 495.0
+                },
+                "Name": "image_zanshikuang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "VerticalType": 0,
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 157.9268,
+                  "Y": 145.7838
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5353,
+                  "Y": 0.2945
+                },
+                "PreSize": {
+                  "X": 0.2377,
+                  "Y": 0.5313
+                },
+                "LeftMargin": 22.9268,
+                "RightMargin": 2.0732,
+                "TopMargin": 9.2162,
+                "BottomMargin": 145.7838,
+                "Tag": 96,
+                "ActionTag": 960768120,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 340.0
+                },
+                "Name": "listView_1",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 677336285,
+            "Size": {
+              "X": 295.0,
+              "Y": 495.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

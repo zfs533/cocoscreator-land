@@ -1,0 +1,1364 @@
+{
+  "ID": "ac7d8eae-06bf-4fe2-8d5d-c52fac0d1e5a",
+  "Version": "2.3.1.1",
+  "Name": "gameFinishLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 13,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_box_bg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 33,
+            "Scale9OriginY": 37,
+            "Scale9Width": 8,
+            "Scale9Height": 7,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.5781
+            },
+            "LeftMargin": 180.0,
+            "RightMargin": 180.0,
+            "TopMargin": 105.0,
+            "BottomMargin": 165.0,
+            "Tag": 14,
+            "ActionTag": 120234701,
+            "Size": {
+              "X": 600.0,
+              "Y": 370.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_textbox_result_.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9999,
+              "Y": 415.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6484
+            },
+            "PreSize": {
+              "X": 0.5729,
+              "Y": 0.0547
+            },
+            "LeftMargin": 204.9999,
+            "RightMargin": 205.0001,
+            "TopMargin": 207.5,
+            "BottomMargin": 397.5,
+            "Tag": 15,
+            "ActionTag": 615763249,
+            "Size": {
+              "X": 550.0,
+              "Y": 35.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_textbox_result_.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9999,
+              "Y": 375.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 102,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5859
+            },
+            "PreSize": {
+              "X": 0.5729,
+              "Y": 0.0547
+            },
+            "LeftMargin": 204.9999,
+            "RightMargin": 205.0001,
+            "TopMargin": 247.5,
+            "BottomMargin": 357.5,
+            "Tag": 16,
+            "ActionTag": 232191038,
+            "Size": {
+              "X": 550.0,
+              "Y": 35.0
+            },
+            "Name": "Image_2_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_textbox_result_.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9999,
+              "Y": 295.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 102,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4609
+            },
+            "PreSize": {
+              "X": 0.5729,
+              "Y": 0.0547
+            },
+            "LeftMargin": 204.9999,
+            "RightMargin": 205.0001,
+            "TopMargin": 327.5,
+            "BottomMargin": 277.5,
+            "Tag": 17,
+            "ActionTag": 117303064,
+            "Size": {
+              "X": 550.0,
+              "Y": 35.0
+            },
+            "Name": "Image_2_0_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_textbox_result_.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 2,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.9999,
+              "Y": 335.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 102,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5234
+            },
+            "PreSize": {
+              "X": 0.5729,
+              "Y": 0.0547
+            },
+            "LeftMargin": 204.9999,
+            "RightMargin": 205.0001,
+            "TopMargin": 287.5,
+            "BottomMargin": 317.5,
+            "Tag": 18,
+            "ActionTag": -1222792484,
+            "Size": {
+              "X": 550.0,
+              "Y": 35.0
+            },
+            "Name": "Image_2_0_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "本局结算",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 471.5001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 245,
+              "G": 218,
+              "B": 24
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7367
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 384.0,
+            "RightMargin": 384.0,
+            "TopMargin": 141.4999,
+            "BottomMargin": 444.5001,
+            "Tag": 19,
+            "ActionTag": -54827700,
+            "Size": {
+              "X": 192.0,
+              "Y": 54.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "继续游戏",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_gn_pre.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_gn_nor.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 23,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 615.5563,
+              "Y": 230.6857
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6412,
+              "Y": 0.3604
+            },
+            "PreSize": {
+              "X": 0.2604,
+              "Y": 0.1094
+            },
+            "LeftMargin": 490.5563,
+            "RightMargin": 219.4437,
+            "TopMargin": 374.3143,
+            "BottomMargin": 195.6857,
+            "Tag": 20,
+            "ActionTag": 1385944056,
+            "Size": {
+              "X": 250.0,
+              "Y": 70.0
+            },
+            "Name": "btn_continue",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 48,
+            "ButtonText": "炫耀一下",
+            "TextColor": {},
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_rd_pre.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/btn_todo_rd_nor.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 14,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 23,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 349.3881,
+              "Y": 230.0871
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3639,
+              "Y": 0.3595
+            },
+            "PreSize": {
+              "X": 0.2604,
+              "Y": 0.1094
+            },
+            "LeftMargin": 224.3881,
+            "RightMargin": 485.6119,
+            "TopMargin": 374.9129,
+            "BottomMargin": 195.0871,
+            "Tag": 21,
+            "ActionTag": 2013278421,
+            "Size": {
+              "X": 250.0,
+              "Y": 70.0
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "您本局结算",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 215.0,
+              "Y": 403.6891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 230,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.224,
+              "Y": 0.6308
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 645.0,
+            "TopMargin": 213.3109,
+            "BottomMargin": 403.6891,
+            "Tag": 22,
+            "ActionTag": 231549329,
+            "Size": {
+              "X": 100.0,
+              "Y": 23.0
+            },
+            "Name": "playerName_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "玩家2",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 215.0,
+              "Y": 363.7335
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.224,
+              "Y": 0.5683
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.0359
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 625.0,
+            "TopMargin": 253.2665,
+            "BottomMargin": 363.7335,
+            "Tag": 24,
+            "ActionTag": 614059491,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "playerName_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "玩家4",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 215.0,
+              "Y": 283.1198
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.224,
+              "Y": 0.4424
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.0359
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 625.0,
+            "TopMargin": 333.8802,
+            "BottomMargin": 283.1198,
+            "Tag": 25,
+            "ActionTag": 901271308,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "playerName_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "玩家3",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 215.0,
+              "Y": 323.602
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.224,
+              "Y": 0.5056
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.0359
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 625.0,
+            "TopMargin": 293.398,
+            "BottomMargin": 323.602,
+            "Tag": 26,
+            "ActionTag": 445859262,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "playerName_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/icon_goldbox_bg.png",
+              "Plist": ""
+            },
+            "Scale9Width": 207,
+            "Scale9Height": 101,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 100.6421
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1573
+            },
+            "PreSize": {
+              "X": 0.2156,
+              "Y": 0.1578
+            },
+            "LeftMargin": 376.5,
+            "RightMargin": 376.5,
+            "TopMargin": 488.8579,
+            "BottomMargin": 50.1421,
+            "Tag": 27,
+            "ActionTag": -468137533,
+            "Size": {
+              "X": 207.0,
+              "Y": 101.0
+            },
+            "Name": "buyBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "99番",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 403.0534,
+              "Y": 415.1896
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4198,
+              "Y": 0.6487
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 378.0534,
+            "RightMargin": 531.9466,
+            "TopMargin": 210.8104,
+            "BottomMargin": 401.1896,
+            "Tag": 28,
+            "ActionTag": 1120939662,
+            "Size": {
+              "X": 50.0,
+              "Y": 28.0
+            },
+            "Name": "winCount_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "99番",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 402.4765,
+              "Y": 335.8547
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4192,
+              "Y": 0.5248
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 377.4765,
+            "RightMargin": 532.5235,
+            "TopMargin": 290.1453,
+            "BottomMargin": 321.8547,
+            "Tag": 29,
+            "ActionTag": -1772178962,
+            "Size": {
+              "X": 50.0,
+              "Y": 28.0
+            },
+            "Name": "winCount_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "99番",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 404.2506,
+              "Y": 374.0372
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4211,
+              "Y": 0.5844
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 379.2506,
+            "RightMargin": 530.7494,
+            "TopMargin": 251.9628,
+            "BottomMargin": 360.0372,
+            "Tag": 30,
+            "ActionTag": 1342287322,
+            "Size": {
+              "X": 50.0,
+              "Y": 28.0
+            },
+            "Name": "winCount_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "99番",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 404.8492,
+              "Y": 295.8759
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4217,
+              "Y": 0.4623
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 379.8492,
+            "RightMargin": 530.1508,
+            "TopMargin": 330.1241,
+            "BottomMargin": 281.8759,
+            "Tag": 31,
+            "ActionTag": 1238466572,
+            "Size": {
+              "X": 50.0,
+              "Y": 28.0
+            },
+            "Name": "winCount_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_win.png",
+              "Plist": ""
+            },
+            "Scale9Width": 90,
+            "Scale9Height": 39,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 689.9998,
+              "Y": 414.8398
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7187,
+              "Y": 0.6482
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0609
+            },
+            "LeftMargin": 644.9998,
+            "RightMargin": 225.0002,
+            "TopMargin": 205.6602,
+            "BottomMargin": 395.3398,
+            "Tag": 32,
+            "ActionTag": 365053274,
+            "Size": {
+              "X": 90.0,
+              "Y": 39.0
+            },
+            "Name": "winImg_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_win.png",
+              "Plist": ""
+            },
+            "Scale9Width": 90,
+            "Scale9Height": 39,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 689.9999,
+              "Y": 376.1612
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7187,
+              "Y": 0.5878
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0609
+            },
+            "LeftMargin": 644.9999,
+            "RightMargin": 225.0001,
+            "TopMargin": 244.3388,
+            "BottomMargin": 356.6612,
+            "Tag": 33,
+            "ActionTag": 913989133,
+            "Size": {
+              "X": 90.0,
+              "Y": 39.0
+            },
+            "Name": "winImg_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_win.png",
+              "Plist": ""
+            },
+            "Scale9Width": 90,
+            "Scale9Height": 39,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 689.9996,
+              "Y": 335.7814
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7187,
+              "Y": 0.5247
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0609
+            },
+            "LeftMargin": 644.9996,
+            "RightMargin": 225.0004,
+            "TopMargin": 284.7186,
+            "BottomMargin": 316.2814,
+            "Tag": 34,
+            "ActionTag": 988519457,
+            "Size": {
+              "X": 90.0,
+              "Y": 39.0
+            },
+            "Name": "winImg_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/pop_win.png",
+              "Plist": ""
+            },
+            "Scale9Width": 90,
+            "Scale9Height": 39,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 689.9999,
+              "Y": 293.7014
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7187,
+              "Y": 0.4589
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0609
+            },
+            "LeftMargin": 644.9999,
+            "RightMargin": 225.0001,
+            "TopMargin": 326.7986,
+            "BottomMargin": 274.2014,
+            "Tag": 35,
+            "ActionTag": -695725129,
+            "Size": {
+              "X": 90.0,
+              "Y": 39.0
+            },
+            "Name": "winImg_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "+99999999999",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 599.9999,
+              "Y": 427.5145
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.668
+            },
+            "PreSize": {
+              "X": 0.0927,
+              "Y": 0.0359
+            },
+            "LeftMargin": 439.9999,
+            "RightMargin": 360.0001,
+            "TopMargin": 212.4855,
+            "BottomMargin": 399.5145,
+            "Tag": 36,
+            "ActionTag": 305508288,
+            "Size": {
+              "X": 160.0,
+              "Y": 28.0
+            },
+            "Name": "winText_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "+9999999",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 599.9999,
+              "Y": 388.1348
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.6065
+            },
+            "PreSize": {
+              "X": 0.1667,
+              "Y": 0.0437
+            },
+            "LeftMargin": 439.9999,
+            "RightMargin": 360.0001,
+            "TopMargin": 251.8652,
+            "BottomMargin": 360.1348,
+            "Tag": 37,
+            "ActionTag": 1892144106,
+            "Size": {
+              "X": 160.0,
+              "Y": 28.0
+            },
+            "Name": "winText_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "+9999999",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 599.9999,
+              "Y": 308.1497
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.4815
+            },
+            "PreSize": {
+              "X": 0.1667,
+              "Y": 0.0437
+            },
+            "LeftMargin": 439.9999,
+            "RightMargin": 360.0001,
+            "TopMargin": 331.8503,
+            "BottomMargin": 280.1497,
+            "Tag": 38,
+            "ActionTag": 36144464,
+            "Size": {
+              "X": 160.0,
+              "Y": 28.0
+            },
+            "Name": "winText_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "+9999999",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 599.9999,
+              "Y": 348.3319
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.5443
+            },
+            "PreSize": {
+              "X": 0.1667,
+              "Y": 0.0437
+            },
+            "LeftMargin": 439.9999,
+            "RightMargin": 360.0001,
+            "TopMargin": 291.6681,
+            "BottomMargin": 320.3319,
+            "Tag": 39,
+            "ActionTag": -1847634953,
+            "Size": {
+              "X": 160.0,
+              "Y": 28.0
+            },
+            "Name": "winText_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/icon_goldbox.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gameFinishUI/icon_goldbox.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 79,
+            "Scale9Height": 73,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 478.5,
+              "Y": 132.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4984,
+              "Y": 0.2062
+            },
+            "PreSize": {
+              "X": 0.1135,
+              "Y": 0.1484
+            },
+            "LeftMargin": 424.0,
+            "RightMargin": 427.0,
+            "TopMargin": 460.5,
+            "BottomMargin": 84.5,
+            "Tag": 75,
+            "ActionTag": 1894304714,
+            "Size": {
+              "X": 109.0,
+              "Y": 95.0
+            },
+            "Name": "btn_buy",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "gameFinishUI/btn_todo_gn_nor.png",
+        "gameFinishUI/btn_todo_gn_pre.png",
+        "gameFinishUI/btn_todo_rd_nor.png",
+        "gameFinishUI/btn_todo_rd_pre.png",
+        "gameFinishUI/icon_goldbox.png",
+        "gameFinishUI/icon_goldbox_bg.png",
+        "gameFinishUI/pop_box_bg.png",
+        "gameFinishUI/pop_textbox_result_.png",
+        "gameFinishUI/pop_win.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,318 @@
+{
+  "ID": "5bd388fa-49af-49a9-8609-d320f0db06bf",
+  "Version": "2.3.4",
+  "Name": "MarkRewardItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 159,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 135,
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -24,
+            "Scale9OriginY": -16,
+            "Scale9Width": 48,
+            "Scale9Height": 178,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 61.0,
+              "Y": 96.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 160,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "道具名称",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.0,
+                  "Y": 167.1168
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 216,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8704
+                },
+                "PreSize": {
+                  "X": 1.0082,
+                  "Y": 0.1875
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": -0.5,
+                "RightMargin": -0.5,
+                "TopMargin": 6.8832,
+                "BottomMargin": 149.1168,
+                "Tag": 162,
+                "ActionTag": 2007728926,
+                "Size": {
+                  "X": 123.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_goods_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "x5",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fnt/normal.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.0,
+                  "Y": 22.4256
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 199,
+                  "G": 63,
+                  "B": 36
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1168
+                },
+                "PreSize": {
+                  "X": 1.0082,
+                  "Y": 0.1875
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": -0.5,
+                "RightMargin": -0.5,
+                "TopMargin": 151.5744,
+                "BottomMargin": 4.4256,
+                "Tag": 237,
+                "ActionTag": 1902282443,
+                "Size": {
+                  "X": 123.0,
+                  "Y": 36.0
+                },
+                "Name": "text_goods_number",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_mark_reward_bg.png",
+                  "Plist": "mark/mark.plist"
+                },
+                "Scale9OriginX": 36,
+                "Scale9OriginY": 36,
+                "Scale9Width": 38,
+                "Scale9Height": 38,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4918,
+                  "Y": 0.5104
+                },
+                "PreSize": {
+                  "X": 0.9016,
+                  "Y": 0.5729
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 5.0,
+                "RightMargin": 7.0,
+                "TopMargin": 39.0,
+                "BottomMargin": 43.0,
+                "Tag": 536,
+                "ActionTag": -942572949,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 110.0
+                },
+                "Name": "Image_rewarditem_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 14,
+                "Scale9Width": 126,
+                "Scale9Height": 124,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 60.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4918,
+                  "Y": 0.5104
+                },
+                "PreSize": {
+                  "X": 0.7377,
+                  "Y": 0.4688
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 15.0,
+                "RightMargin": 17.0,
+                "TopMargin": 49.0,
+                "BottomMargin": 53.0,
+                "Tag": 222,
+                "ActionTag": -1958207200,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 90.0
+                },
+                "Name": "Image_rewarditem",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -720801530,
+            "Size": {
+              "X": 122.0,
+              "Y": 192.0
+            },
+            "Name": "panel_markrewarditem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 122.0,
+          "Y": 192.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ImageFile.png",
+        "fnt/normal.TTF",
+        "mark/mark.plist",
+        "mark/mark.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,338 @@
+{
+  "ID": "86819701-2358-4560-a777-9773de2fa4a1",
+  "Version": "2.2.8.0",
+  "Name": "dayingjia",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_tanchuang_di.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 54,
+            "Scale9OriginY": 53,
+            "Scale9Width": 56,
+            "Scale9Height": 57,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 283.5203
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.443
+            },
+            "PreSize": {
+              "X": 0.6805,
+              "Y": 0.7188
+            },
+            "LeftMargin": 181.5,
+            "RightMargin": 181.5,
+            "TopMargin": 126.4797,
+            "BottomMargin": 53.5203,
+            "Tag": 41,
+            "ActionTag": -480953502,
+            "Size": {
+              "X": 773.0,
+              "Y": 460.0
+            },
+            "Name": "dayingjia_di",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_tanchuang_di2.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 68,
+            "Scale9OriginY": 79,
+            "Scale9Width": 23,
+            "Scale9Height": 24,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 279.6003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4369
+            },
+            "PreSize": {
+              "X": 0.6338,
+              "Y": 0.6406
+            },
+            "LeftMargin": 208.0,
+            "RightMargin": 208.0,
+            "TopMargin": 155.3997,
+            "BottomMargin": 74.6003,
+            "Tag": 42,
+            "ActionTag": -221417771,
+            "Size": {
+              "X": 720.0,
+              "Y": 410.0
+            },
+            "Name": "dayingjia_di_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "imgae_dayingjia_biaoti.png",
+              "Plist": "DvsT/DvsT_1.plist"
+            },
+            "Scale9Width": 413,
+            "Scale9Height": 105,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 497.86
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7779
+            },
+            "PreSize": {
+              "X": 0.3636,
+              "Y": 0.1641
+            },
+            "LeftMargin": 361.5,
+            "RightMargin": 361.5,
+            "TopMargin": 89.64,
+            "BottomMargin": 445.36,
+            "Tag": 43,
+            "ActionTag": -1062049042,
+            "Size": {
+              "X": 413.0,
+              "Y": 105.0
+            },
+            "Name": "image_biaoti",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "image_tanchuang_di3.png",
+              "Plist": "DvsT/DvsT_1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 19,
+            "Scale9OriginY": 19,
+            "Scale9Width": 20,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 266.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4156
+            },
+            "PreSize": {
+              "X": 0.5986,
+              "Y": 0.5313
+            },
+            "LeftMargin": 228.0,
+            "RightMargin": 228.0,
+            "TopMargin": 204.0,
+            "BottomMargin": 96.0,
+            "Tag": 44,
+            "ActionTag": -515310387,
+            "Size": {
+              "X": 680.0,
+              "Y": 340.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 660,
+              "Height": 328
+            },
+            "ScrollDirectionType": "Vertical",
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 267.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4172
+            },
+            "PreSize": {
+              "X": 0.581,
+              "Y": 0.5078
+            },
+            "LeftMargin": 238.0,
+            "RightMargin": 238.0,
+            "TopMargin": 210.5,
+            "BottomMargin": 104.5,
+            "Tag": 45,
+            "ActionTag": -1080865196,
+            "Size": {
+              "X": 660.0,
+              "Y": 325.0
+            },
+            "Name": "wanjiaxinxi",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_tips_close_normal.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_tips_close_normal.png",
+              "Plist": "DvsT/DvsT_2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 34,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 925.8632,
+              "Y": 487.554
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.815,
+              "Y": 0.7618
+            },
+            "PreSize": {
+              "X": 0.0493,
+              "Y": 0.0875
+            },
+            "LeftMargin": 897.8632,
+            "RightMargin": 182.1368,
+            "TopMargin": 124.446,
+            "BottomMargin": 459.554,
+            "Tag": 59,
+            "ActionTag": -1530510886,
+            "Size": {
+              "X": 56.0,
+              "Y": 56.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

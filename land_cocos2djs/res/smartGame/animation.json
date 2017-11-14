@@ -1,0 +1,1665 @@
+{
+  "ID": "865fbc9f-4138-46e2-a50f-adb6334fa9e8",
+  "Version": "2.2.8.0",
+  "Name": "animation",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 150,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": 1510574836,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 578.0,
+                "Y": 310.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 578.0,
+                "Y": 310.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 578.0,
+                "Y": 310.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 578.0,
+                "Y": 310.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510574836,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 4.8,
+                "Y": 4.8,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 4.8,
+                "Y": 4.8,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 4.8,
+                "Y": 4.8,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510574836,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 10.0,
+                "Y": 10.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 50.0,
+                "Y": 50.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 50.0,
+                "Y": 50.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1510574836,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1567377555,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1567377555,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.2,
+                "Y": 1.2,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.08,
+                "Y": 1.08,
+                "FrameIndex": 25,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1567377555,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1567377555,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1471786013,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 25,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 568.0,
+                "Y": 320.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1471786013,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.2,
+                "Y": 1.2,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.08,
+                "Y": 1.08,
+                "FrameIndex": 25,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1471786013,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 25,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 93,
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 96,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_jiesuan_guang.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 57,
+                "Scale9OriginY": 51,
+                "Scale9Width": 59,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 578.0,
+                  "Y": 310.0
+                },
+                "Scale": {
+                  "ScaleX": 4.8,
+                  "ScaleY": 4.8
+                },
+                "Rotation": 21.1304,
+                "RotationSkewX": 21.1304,
+                "RotationSkewY": 21.1304,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5088,
+                  "Y": 0.4844
+                },
+                "PreSize": {
+                  "X": 0.865,
+                  "Y": 0.78
+                },
+                "LeftMargin": 491.5,
+                "RightMargin": 471.5,
+                "TopMargin": 252.0,
+                "BottomMargin": 232.0,
+                "Tag": 99,
+                "ActionTag": 1510574836,
+                "Size": {
+                  "X": 173.0,
+                  "Y": 156.0
+                },
+                "Name": "win_guang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_jiesuan_WIN.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 120,
+                "Scale9OriginY": 99,
+                "Scale9Width": 62,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4824,
+                  "Y": 0.5922
+                },
+                "LeftMargin": 294.0,
+                "RightMargin": 294.0,
+                "TopMargin": 130.5,
+                "BottomMargin": 130.5,
+                "Tag": 95,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 280.0,
+                      "Y": 78.33
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5109,
+                      "Y": 0.2067
+                    },
+                    "PreSize": {
+                      "X": 0.1268,
+                      "Y": 0.1156
+                    },
+                    "LeftMargin": 208.0,
+                    "RightMargin": 196.0,
+                    "TopMargin": 263.67,
+                    "BottomMargin": 41.33,
+                    "Tag": 102,
+                    "Children": [
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 106,
+                        "Children": [
+                          {
+                            "FontSize": 30,
+                            "LabelText": "继 续",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "fnt/normal.TTF",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 93,
+                              "G": 156,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 75.66,
+                              "Y": 37.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5254,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 38.66,
+                            "RightMargin": 31.34,
+                            "TopMargin": 19.0,
+                            "BottomMargin": 19.0,
+                            "Tag": 107,
+                            "ActionTag": 1635063750,
+                            "Size": {
+                              "X": 74.0,
+                              "Y": 36.0
+                            },
+                            "Name": "Text_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 352837961,
+                        "Size": {
+                          "X": 144.0,
+                          "Y": 74.0
+                        },
+                        "Name": "scaleNode",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -95089606,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 74.0
+                    },
+                    "Name": "Button_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_di.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 100,
+                    "Scale9Height": 51,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 274.41,
+                      "Y": 210.3021
+                    },
+                    "Scale": {
+                      "ScaleX": 5.0,
+                      "ScaleY": 5.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5007,
+                      "Y": 0.5549
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.255
+                    },
+                    "LeftMargin": 224.41,
+                    "RightMargin": 223.59,
+                    "TopMargin": 143.1979,
+                    "BottomMargin": 184.8021,
+                    "Tag": 119,
+                    "ActionTag": -982320457,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 51.0
+                    },
+                    "Name": "win_diguang",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "+50000",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fnt/win_export.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 280.979,
+                      "Y": 204.0303
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5127,
+                      "Y": 0.5383
+                    },
+                    "PreSize": {
+                      "X": 1.35,
+                      "Y": 0.32
+                    },
+                    "LeftMargin": 145.979,
+                    "RightMargin": 132.021,
+                    "TopMargin": 142.9697,
+                    "BottomMargin": 172.0303,
+                    "Tag": 120,
+                    "ActionTag": 2023573397,
+                    "Size": {
+                      "X": 270.0,
+                      "Y": 64.0
+                    },
+                    "Name": "win_number",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_piaodai.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 709,
+                    "Scale9Height": 91,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 302.0,
+                      "Y": 308.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5511,
+                      "Y": 0.8127
+                    },
+                    "PreSize": {
+                      "X": 3.545,
+                      "Y": 0.455
+                    },
+                    "LeftMargin": -52.5,
+                    "RightMargin": -108.5,
+                    "TopMargin": 25.5,
+                    "BottomMargin": 262.5,
+                    "Tag": 98,
+                    "ActionTag": -1686078131,
+                    "Size": {
+                      "X": 709.0,
+                      "Y": 91.0
+                    },
+                    "Name": "win_biaoti",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_li.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 78,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 322.7657,
+                      "Y": 331.6697
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.589,
+                      "Y": 0.8751
+                    },
+                    "PreSize": {
+                      "X": 0.11,
+                      "Y": 0.8791
+                    },
+                    "LeftMargin": 283.7657,
+                    "RightMargin": 186.2343,
+                    "TopMargin": 7.3303,
+                    "BottomMargin": 291.6697,
+                    "Tag": 101,
+                    "ActionTag": -550911494,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 80.0
+                    },
+                    "Name": "li",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_sheng.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 79,
+                    "Scale9Height": 79,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 239.9079,
+                      "Y": 330.503
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4378,
+                      "Y": 0.872
+                    },
+                    "PreSize": {
+                      "X": 0.1114,
+                      "Y": 0.8681
+                    },
+                    "LeftMargin": 200.4079,
+                    "RightMargin": 268.5921,
+                    "TopMargin": 8.997,
+                    "BottomMargin": 291.003,
+                    "Tag": 100,
+                    "ActionTag": -1167918360,
+                    "Size": {
+                      "X": 79.0,
+                      "Y": 79.0
+                    },
+                    "Name": "sheng",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1567377555,
+                "Size": {
+                  "X": 548.0,
+                  "Y": 379.0
+                },
+                "Name": "win_di",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -2005031333,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "win",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 121,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "image_jiesuan_LOSE.png",
+                  "Plist": "DvsT/DvsT_2.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 120,
+                "Scale9OriginY": 100,
+                "Scale9Width": 62,
+                "Scale9Height": 7,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 2.74,
+                  "Y": 1.895
+                },
+                "LeftMargin": 294.0,
+                "RightMargin": 294.0,
+                "TopMargin": 130.5,
+                "BottomMargin": 130.5,
+                "Tag": 123,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_di2.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 100,
+                    "Scale9Height": 51,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 276.25,
+                      "Y": 208.3071
+                    },
+                    "Scale": {
+                      "ScaleX": 5.0,
+                      "ScaleY": 4.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5041,
+                      "Y": 0.5496
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.255
+                    },
+                    "LeftMargin": 226.25,
+                    "RightMargin": 221.75,
+                    "TopMargin": 145.1929,
+                    "BottomMargin": 182.8071,
+                    "Tag": 124,
+                    "ActionTag": -1797235850,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 51.0
+                    },
+                    "Name": "lose_diguang",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "-50000",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fnt/lose_export.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 275.31,
+                      "Y": 200.36
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5024,
+                      "Y": 0.5287
+                    },
+                    "PreSize": {
+                      "X": 1.35,
+                      "Y": 0.32
+                    },
+                    "LeftMargin": 140.31,
+                    "RightMargin": 137.69,
+                    "TopMargin": 146.64,
+                    "BottomMargin": 168.36,
+                    "Tag": 133,
+                    "ActionTag": 467429054,
+                    "Size": {
+                      "X": 270.0,
+                      "Y": 64.0
+                    },
+                    "Name": "lose_number",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "image_jiesuan_piaodai2.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Width": 668,
+                    "Scale9Height": 91,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 281.8086,
+                      "Y": 307.3741
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5142,
+                      "Y": 0.811
+                    },
+                    "PreSize": {
+                      "X": 3.34,
+                      "Y": 0.455
+                    },
+                    "LeftMargin": -52.1914,
+                    "RightMargin": -67.8086,
+                    "TopMargin": 26.1259,
+                    "BottomMargin": 261.8741,
+                    "Tag": 127,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_jiesuan_shi.png",
+                          "Plist": "DvsT/DvsT_2.plist"
+                        },
+                        "Scale9Width": 80,
+                        "Scale9Height": 80,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 283.9997,
+                          "Y": 77.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4251,
+                          "Y": 0.8571
+                        },
+                        "PreSize": {
+                          "X": 0.1198,
+                          "Y": 0.8791
+                        },
+                        "LeftMargin": 243.9997,
+                        "RightMargin": 344.0003,
+                        "TopMargin": -26.9999,
+                        "BottomMargin": 37.9999,
+                        "Tag": 128,
+                        "ActionTag": -39540837,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "shi",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "image_jiesuan_bai.png",
+                          "Plist": "DvsT/DvsT_2.plist"
+                        },
+                        "Scale9Width": 80,
+                        "Scale9Height": 80,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 375.0,
+                          "Y": 77.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5614,
+                          "Y": 0.8571
+                        },
+                        "PreSize": {
+                          "X": 0.1198,
+                          "Y": 0.8791
+                        },
+                        "LeftMargin": 335.0,
+                        "RightMargin": 253.0,
+                        "TopMargin": -26.9999,
+                        "BottomMargin": 37.9999,
+                        "Tag": 129,
+                        "ActionTag": 878951751,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "bai",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 20446744,
+                    "Size": {
+                      "X": 668.0,
+                      "Y": 91.0
+                    },
+                    "Name": "lose_biaoti",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_anniu.png",
+                      "Plist": "DvsT/DvsT_2.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 114,
+                    "Scale9Height": 52,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 271.0,
+                      "Y": 77.33
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4945,
+                      "Y": 0.204
+                    },
+                    "PreSize": {
+                      "X": 0.1268,
+                      "Y": 0.1156
+                    },
+                    "LeftMargin": 199.0,
+                    "RightMargin": 205.0,
+                    "TopMargin": 264.67,
+                    "BottomMargin": 40.33,
+                    "Tag": 130,
+                    "Children": [
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 131,
+                        "Children": [
+                          {
+                            "FontSize": 30,
+                            "LabelText": "继 续",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "fnt/normal.TTF",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "R": 93,
+                              "G": 156,
+                              "B": 0
+                            },
+                            "OutlineEnabled": true,
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 75.66,
+                              "Y": 37.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5254,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 38.66,
+                            "RightMargin": 31.34,
+                            "TopMargin": 19.0,
+                            "BottomMargin": 19.0,
+                            "Tag": 132,
+                            "ActionTag": 460049494,
+                            "Size": {
+                              "X": 74.0,
+                              "Y": 36.0
+                            },
+                            "Name": "Text_2_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 527958205,
+                        "Size": {
+                          "X": 144.0,
+                          "Y": 74.0
+                        },
+                        "Name": "scaleNode_3",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 208966519,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 74.0
+                    },
+                    "Name": "Button_1_3",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1471786013,
+                "Size": {
+                  "X": 548.0,
+                  "Y": 379.0
+                },
+                "Name": "lose_di",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 763260912,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "lose",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

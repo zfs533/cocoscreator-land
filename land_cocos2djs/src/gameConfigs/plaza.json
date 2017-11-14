@@ -1,0 +1,382 @@
+{
+  "100": {
+    "100": {
+      "datas": [
+        {
+          "length": 16,
+          "name": "wFaceID",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbGender",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwCustomID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwUserID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwGameID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwExperience",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwLoveLiness",
+          "type": 0
+        },
+        {
+          "length": 64,
+          "name": "lUserScore",
+          "type": 0
+        },
+        {
+          "length": 64,
+          "name": "lUserInsure",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwGoldBeans",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "szNickName",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szLoginKey",
+          "type": 1
+        },
+        {
+          "length": 32,
+          "name": "dwUserMedal",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwTicketCount",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwWinCount",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwLostCount",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbPay",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwReliefCountOfDay",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwReliefCountOfDayMax",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwReliefGold",
+          "type": 0
+        }
+
+      ],
+      "totalLength": 202
+    },
+    "101": {
+      "datas": [
+        {
+          "length": 32,
+          "name": "lResultCode",
+          "type": 0
+        },
+        {
+          "length": 128,
+          "name": "szDescribeString",
+          "type": 1
+        }
+      ],
+      "totalLength": 260
+    },
+    "2": {
+      "datas": [
+        {
+          "length": 16,
+          "name": "wModuleID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwPlazaVersion",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbDeviceType",
+          "type": 0
+        },
+        {
+          "length": 33,
+          "name": "szPassword",
+          "type": 1
+        },
+        {
+          "length": 32,
+          "name": "szAccounts",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szMachineID",
+          "type": 1
+        },
+        {
+          "length": 12,
+          "name": "szMobilePhone",
+          "type": 1
+        }
+      ],
+      "totalLength": 227
+    },
+    "8": {
+      "datas": [
+        {
+          "length": 16,
+          "name": "wModuleID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwPlazaVersion",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbDeviceType",
+          "type": 0
+        },
+        {
+          "length": 33,
+          "name": "szPassword",
+          "type": 1
+        },
+        {
+          "length": 32,
+          "name": "szAccounts",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szMachineID",
+          "type": 1
+        },
+        {
+          "length": 12,
+          "name": "szMobilePhone",
+          "type": 1
+        }
+      ],
+      "totalLength": 227
+    }
+  },
+  "3": {
+    "100": {
+      "datas": [
+        {
+          "length": 16,
+          "name": "wFaceID",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbGender",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwCustomID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwUserID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwGameID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwExperience",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwLoveLiness",
+          "type": 0
+        },
+        {
+          "length": 64,
+          "name": "lUserScore",
+          "type": 0
+        },
+        {
+          "length": 64,
+          "name": "lUserInsure",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwGoldBeans",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "szNickName",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szLoginKey",
+          "type": 1
+        }
+      ],
+      "totalLength": 173
+    },
+    "101": {
+      "datas": [
+        {
+          "length": 32,
+          "name": "dwUserID",
+          "type": 0
+        },
+        {
+          "length": 33,
+          "name": "szDesPassword",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szScrPassword",
+          "type": 1
+        }
+      ],
+      "totalLength": 136
+    },
+    "2": {
+      "datas": [
+        {
+          "length": 16,
+          "name": "wModuleID",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwPlazaVersion",
+          "type": 0
+        },
+        {
+          "length": 8,
+          "name": "cbDeviceType",
+          "type": 0
+        },
+        {
+          "length": 33,
+          "name": "szPassword",
+          "type": 1
+        },
+        {
+          "length": 32,
+          "name": "szAccounts",
+          "type": 1
+        },
+        {
+          "length": 33,
+          "name": "szMachineID",
+          "type": 1
+        },
+        {
+          "length": 12,
+          "name": "szMobilePhone",
+          "type": 1
+        }
+      ],
+      "totalLength": 227
+    },
+    "303": {
+      "datas": [
+        {
+          "length": 8,
+          "name": "cbGender",
+          "type": 0
+        },
+        {
+          "length": 32,
+          "name": "dwUserID",
+          "type": 0
+        },
+        {
+          "length": 33,
+          "name": "szPassword",
+          "type": 1
+        }
+      ],
+      "totalLength": 71
+    },
+    "900": {
+      "datas": [
+        {
+          "length": 32,
+          "name": "lResultCode",
+          "type": 0
+        },
+        {
+          "length": 128,
+          "name": "szDescribeString",
+          "type": 1
+        }
+      ],
+      "totalLength": 260
+    },
+    "901": {
+      "datas": [
+        {
+          "length": 32,
+          "name": "lResultCode",
+          "type": 0
+        },
+        {
+          "length": 128,
+          "name": "szDescribeString",
+          "type": 1
+        }
+      ],
+      "totalLength": 260
+    }
+  }
+}

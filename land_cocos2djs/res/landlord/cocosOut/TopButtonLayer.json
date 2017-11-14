@@ -1,0 +1,233 @@
+{
+  "ID": "237bcb61-b82e-4938-ad51-0af1961413c6",
+  "Version": "2.3.4",
+  "Name": "TopButtonLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -200.0,
+            "BottomMargin": -70.0,
+            "Tag": 152,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_mark.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_mark.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_mark.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 6,
+                "Scale9Width": 41,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.325,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.335,
+                  "Y": 1.0286
+                },
+                "LeftMargin": 31.5,
+                "RightMargin": 101.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 153,
+                "ActionTag": -410090962,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 72.0
+                },
+                "Name": "btn_toppanel_checkin",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_setting.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_setting.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_top_setting.png",
+                  "Plist": "plaza/plaza.plist"
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 6,
+                "Scale9Width": 41,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 158.0,
+                  "Y": 35.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.79,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.335,
+                  "Y": 1.0286
+                },
+                "LeftMargin": 124.5,
+                "RightMargin": 8.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 154,
+                "ActionTag": -1779477979,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 72.0
+                },
+                "Name": "btn_toppanel_option",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1562438857,
+            "Size": {
+              "X": 200.0,
+              "Y": 70.0
+            },
+            "Name": "layer_btn",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "plaza/plaza.plist",
+        "plaza/plaza.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}
