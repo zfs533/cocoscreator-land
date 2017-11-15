@@ -184,6 +184,7 @@ var SockeLogic =
 	//出牌 {roomId:1,pos:0,cards:[],nPos:0:lastCount:0}//lastCount剩余数量
 	playerSendcard:function(room,data)
 	{
+		console.log(data);
 		room.left.socket.emit(Order.sendcard,data);
 		room.top.socket.emit(Order.sendcard,data);
 		room.right.socket.emit(Order.sendcard,data);

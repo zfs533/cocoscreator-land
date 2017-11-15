@@ -140,6 +140,8 @@ var Message = cc.Class(
         this.socket.on(Order.sendcard,function(data)
         {
             data = this.handleData(data);
+            cc.log("sendcarddata-------");
+            cc.log(JSON.stringify(data));
             this.parentt.ResSendcard(data);
         }.bind(this));
         this.socket.on(Order.gameover,function(data)

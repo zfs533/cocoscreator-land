@@ -108,6 +108,8 @@ var Room =
 	{
 		item.player.onLinee = false;
 		var room = this.getRoomByRoomId(item.roomId);
+		room.currentCards = [];
+		room.currentCardType = -1;	
 		if(room.id == item.roomId)
 		{
 			room.state = this.STATE_ZERO;
@@ -131,6 +133,8 @@ var Room =
 	{
 		item.player.isRoom = false;
 		var room = this.getRoomByRoomId(item.roomId);
+		room.currentCards = [];
+		room.currentCardType = -1;
 		if(room.id == item.roomId)
 		{
 			room.state = this.STATE_ZERO;
@@ -356,12 +360,15 @@ var Room =
 				if(type == room.currentCardType)
 				{
 					room.currentSenderPos = data.pos;
-					var cards = GameLogic.getCardForType(room.currentCards,data.cards,type);
+					// var cards = GameLogic.getCardForType(room.currentCards,data.cards,type);
+					var cards = GameLogic.getCardForType(data.cards,room.currentCards,type);
 					if(!cards || cards.length<1)
 					{
+						console.log(type);
+						console.log(cards);
 						console.log('send card error');
-						console.log(room.currentCards);
-						console.log(data.cards);
+						console.log(GameLogic.getPukerData(room.currentCards));
+						console.log(GameLogic.getPukerData(data.cards));
 						return;
 					}
 				}
@@ -396,7 +403,9 @@ var Room =
 			default:break;
 		}
 		data.lastCount = this.removeCardFromCurrentPlayer(room,data);
+		console.log(data);
 		SLogic.playerSendcard(room,data);
+		console.log('room.noCount=> '+room.noCount);
 		if(room.noCount == 2)
 		{
 			room.currentCards = [];

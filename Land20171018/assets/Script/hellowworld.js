@@ -36,7 +36,7 @@ cc.Class(
     },
     handleLoginButton:function()
     {
-        
+        //  this.layoutcard(); 
 
         if(!this.cardPrefab){
             Alert.show("this.cardPrefab is null");
@@ -50,24 +50,27 @@ cc.Class(
             return;
         }
         Net.connectServer(this,()=>{this.loginGame();});
-        // let list = GameLogic.m_cbCardListData.splice(0,13);
-        // var arr = [];
-        // for(let i = 0; i<list.length;i++)
-        // {
-        //     let card = cc.instantiate(this.cardPrefab);
-        //     card.getComponent('card').createCard(list[i]);
-        //     card.x = -cc.winSize.width/2 + card.width/2 +30*i;
-        //     card.y = 0;
-        //     this.node.addChild(card);
-        //     arr.push(card);
-        // }
-        // arr.sort(function(a,b){return a.getComponent('card').sortNumber - b.getComponent('card').sortNumber;});
-        // for(let i = 0; i<arr.length;i++)
-        // {
-        //     let card = arr[i];
-        //     card.setLocalZOrder(i);
-        //     card.x = -cc.winSize.width/2 + card.width/2 +30*i;
-        // }
+    },
+    layoutcard:function()
+    {
+        let list = GameLogic.m_cbCardListData.splice(0,13);
+        var arr = [];
+        for(let i = 0; i<list.length;i++)
+        {
+            let card = cc.instantiate(this.cardPrefab);
+            card.getComponent('card').createCard(list[i]);
+            card.x = -cc.winSize.width/2 + card.width/2 +30*i;
+            card.y = 0;
+            this.node.addChild(card);
+            arr.push(card);
+        }
+        arr.sort(function(a,b){return a.getComponent('card').sortNumber - b.getComponent('card').sortNumber;});
+        for(let i = 0; i<arr.length;i++)
+        {
+            let card = arr[i];
+            card.setLocalZOrder(i);
+            card.x = -cc.winSize.width/2 + card.width/2 +30*i;
+        }
     },
     loginGame:function()
     {
@@ -94,7 +97,7 @@ cc.Class(
     {
         this.label.string = data;
     },
-    layoutCard:function(data)
+    layoutCard11:function(data)
     {
         let list = data.card[data.pos];
         for(let i = 0; i<list.length;i++)

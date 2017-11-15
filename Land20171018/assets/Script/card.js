@@ -72,6 +72,8 @@ cc.Class({
             this.node.y -=gap;
             this.isSelected = false;
         }
+        // this.destroyTarget();
+        
         this.parentt.putinOrOutCard(this.cardNum);
     },
     createCard:function(num)
@@ -236,5 +238,9 @@ cc.Class({
         {
             return this.colorTexture.hei;
         }
+    },
+    destroyTarget:function()
+    {
+        this.node.destroy();
     }
 });

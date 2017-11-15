@@ -206,7 +206,7 @@ cc.Class(
         {
             for(let i = 0; i<this.playerCards.length;i++)
             {
-                this.playerCards[i].node.distroy();
+                this.playerCards[i].getComponent('card').destroyTarget();
             }
         }
         this.playerCards = [];
@@ -718,6 +718,8 @@ cc.Class(
     },
     handleSendcardButton:function()
     {
+        cc.log("this.nocount=> "+this.noCount);
+        cc.log(JSON.stringify(list));
         let list = this.outCards;
         let type = GameLogic.getType(list);
         if(type && this.currentCardType == -1)//新一轮开始
@@ -744,16 +746,18 @@ cc.Class(
             }
         }
         else
-        {
+        { 
             Alert.show('类型错误！')
         }
         cc.log(type);
         cc.log(JSON.stringify(list));
-    },
+    }, 
     //收到玩家出card {roomId:1,pos:0,cards:[],nPos:0,lastCount:0}//lastCount剩余数量
     //1：记住一轮中的类型，上家出的card，一直更新直到该轮结束
     ResSendcard:function(data)
     {
+        cc.log("--ressendcard------");
+        cc.log(JSON.stringify(data));
         this.setLastCardNumber(true,data.pos,data.lastCount);
         let bool = data.cards.length>0 ? true : false;
         this.setEquipLabelTexture(data.pos,bool);//不出标签显示处理
@@ -767,12 +771,19 @@ cc.Class(
         {
             this.noCount++;
         }
+        cc.log("this.nocount=> "+this.noCount);
         if(this.noCount !=2)
         {
             this.setClockPos(data.nPos);
             this.setPlayButtonShow(data.nPos);
-            this.clearDeskCards(nPos);
+            this.clearDeskCards(data.nPos);
             this.layoutSendcards(data.pos,data.cards);
+        }
+        else
+        {
+            this.clearDeskCards(-1);
+            this.currentCardType = -1;
+            this.currentCards = [];
         }
     },
     layoutSendcards:function(pos,list)
@@ -817,7 +828,8 @@ cc.Class(
                 break;
             }
         }
-        centerP = this.sendCardPos(p);
+        centerP = this.sendCardPos[p];
+        cc.log(JSON.stringify(list));
         for(let i = 0; i<list.length;i++)
         {
             let card = this.getCard(list[i]);
@@ -827,20 +839,59 @@ cc.Class(
         }
         if(PData.pos == pos)
         {
+            this.outCards = [];
             this.clearCardFromPlayercards(list);
         }
+        cc.log(JSON.stringify(centerP));
         this.sortAndLayoutCard(this.deskCards[p],centerP);
     },
     clearDeskCards:function(pos)
     {
         if(pos>-1)
         {
-            let list = this.deskCards[pos];
+            let p = 0;
+            switch(PData.pos)
+            {
+                case this.TOP:
+                {
+                    p = pos;
+                    break;
+                }
+                case this.LEFT:
+                {
+                    if(pos==0)
+                    {
+                        p = 2;
+                    }
+                    else if(pos == 2)
+                    {
+                        p = 1;
+                    }
+                    break;
+                }
+                case this.RIGHT:
+                {
+                    if(pos == 0)
+                    {
+                        p = 1;
+                    }
+                    else if(pos == 1)
+                    {
+                        p = 2;
+                    }
+                    break;
+                }
+                default:
+                {
+                    break;
+                }
+            }
+            let list = this.deskCards[p];
             for(let i = 0; i<list.length;i++)
             {
-                list[i].node.distroy();
+                list[i].getComponent('card').destroyTarget();
             }
-            this.deskCards[pos] = [];
+            this.deskCards[p] = [];
         }
         else
         {
@@ -848,7 +899,7 @@ cc.Class(
             {
                 for(let j =0; j<this.deskCards[i].length;j++)
                 {
-                    this.deskCards[i][j].node.distroy();
+                    this.deskCards[i][j].getComponent('card').destroyTarget();
                 }
             }
             this.deskCards = [[],[],[]];
@@ -856,14 +907,19 @@ cc.Class(
     },
     clearCardFromPlayercards:function(list)
     {
+        cc.log("clearplayercard-------"+JSON.stringify(list));
         for(let j = 0;j<list.length;j++)
-        {
+        { 
+            cc.log('this.playerCards.length=> '+this.playerCards.length);
+            cc.log("j=> "+j+"  list=> "+list[j]);
             for(let i = 0; i<this.playerCards.length;i++)
             {
                 let num = this.playerCards[i].getComponent('card').cardNum;
-                if(num == list[i])
+                cc.log('i=> '+i+"  cardnum=> "+num);
+                if(num == list[j])
                 {
-                    this.playerCards[i].node.distroy();
+                    cc.log("num= "+num);
+                    this.playerCards[i].getComponent('card').destroyTarget();
                     this.playerCards.splice(i,1);
                     break;
                 }
