@@ -4,6 +4,7 @@ var Item = function(socket,player)
 	this.player = player;
 	this.roomId = player.roomId;
 	this.pos = player.pos;
+	this.isRobot = player.isRobot;
 	this.updatePlayerPos = function(pos)
 	{
 		this.pos = pos;

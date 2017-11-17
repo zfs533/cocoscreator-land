@@ -2,6 +2,7 @@ var express = require("express");//exports = module.exports = createApplication;
 var app = express();
 var server = require("http").createServer(app);
 var io = require("socket.io")(server);
+var ioo = require('socket.io');
 //----------------------------------------
 var Order = require('./order');
 var GameLogic = require('./gamelogic');
@@ -55,6 +56,7 @@ io.on(Order.route.connection,function(socket)
 		}
 	});
 	//------------------login room------------------
+	// data = {name:name,roomId:roomId,pos:null};
 	socket.on(Order.route.login,function(data)
 	{
 		console.log("user "+data+" logined");
@@ -68,7 +70,21 @@ io.on(Order.route.connection,function(socket)
 		{
 			console.log("room is up!");
 		});
+		for(var i = 0; i < 2; i++)
+		{
+			var dt = data;
+			dt.name = Order.getName();
+			var player = new Player(dt.name,dt.roomId,dt.pos,true);
+			console.log(player);
+			var item = new Item(socket,player);
+			socketList.push(item);
+			Room.joinRoom(item,function()
+			{
+				console.log("room is up!");
+			});
+		}
 	});
+	//data roomId
 	socket.on(Order.route.roomInfo,function(data)
 	{
 		data = HandleData(data);

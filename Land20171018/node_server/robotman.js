@@ -2,4 +2,4 @@ var RobotMan = function()
 {
 
 };
-exports.route = RobotMan;
+module.exports = RobotMan;

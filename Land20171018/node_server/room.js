@@ -1,7 +1,7 @@
 //初始化100个空房间
 var SLogic = require('./socketlogic').route;
 var GameLogic = require('./gamelogic').route;
-var RobotMan = require('./robotman').route;
+var RobotMan = require('./robotman');
 var Room = 
 {
 	STATE_ZERO:0,//人未满
@@ -20,6 +20,7 @@ var Room =
 		{
 			var room = {
 				id:i,
+				socket:null,
 				left:null,
 				top:null,
 				right:null,
@@ -30,6 +31,7 @@ var Room =
 				currentCards:[],
 				dizhu:-1,
 				dizhuCard:[],
+				isHaveRobot:false,
 				state:this.STATE_ZERO
 			};//三个占位 state 0:人未满，1:人满
 			this.roomList.push(room);
@@ -49,6 +51,16 @@ var Room =
 				{
 					callback();
 					return;
+				}
+				console.log("------------zz");
+				room.socket = item.socket;
+				console.log("------------bb");
+				if(!room.isHaveRobot)
+				{
+					if(item.isRobot)
+					{
+						room.isHaveRobot = true;
+					}
 				}
 				switch (item.pos)
 				{
@@ -100,8 +112,9 @@ var Room =
 	//获取当前房间数据推送一份给客户端
 	getClientRoomInfo:function(roomId)
 	{
+		console.log("----------------error=> "+roomId)
 		var room = this.getRoomByRoomId(roomId);
-		SLogic.sendRoomInfo(room);
+		SLogic.sendRoomInfo(room,this);
 	},
 	//下线
 	clearUnlinePlayer:function(item)
@@ -252,25 +265,7 @@ var Room =
 		{
 			room.dizhu = data.pos;
 		}
-		switch(data.pos)
-		{
-			case 0:
-			{
-				data.nPos = 1;
-				break;
-			}
-			case 1:
-			{
-				data.nPos = 2;
-				break;
-			}
-			case 2:
-			{
-				data.nPos = 0;
-				break;
-			}
-			default:break;
-		}
+		data.nPos = this.getNextPos(data.pos);
 		SLogic.playerJiao(room,data);
 		this.checkJiaoFinish(data);
 	},
@@ -283,25 +278,7 @@ var Room =
 		{
 			room.dizhu = data.pos;
 		}
-		switch(data.pos)
-		{
-			case 0:
-			{
-				data.nPos = 1;
-				break;
-			}
-			case 1:
-			{
-				data.nPos = 2;
-				break;
-			}
-			case 2:
-			{
-				data.nPos = 0;
-				break;
-			}
-			default:break;
-		}
+		data.nPos = this.getNextPos(data.pos);
 		SLogic.playerQiang(room,data);
 		this.checkJiaoFinish(data);
 	},
@@ -311,8 +288,10 @@ var Room =
 		var room = this.getRoomByRoomId(data.roomId);
 		var dizhuCard = room.dizhuCard;
 		room.jiaoCount++;
+		var isfinish = false;
 		if(room.jiaoCount == 3)
 		{
+			isfinish = true;
 			room.jiaoCount = 0;
 			if(room.dizhu != -1)
 			{
@@ -338,6 +317,7 @@ var Room =
 				this.handleUpRoom(room);
 			}
 		}
+		return isfinish;
 	},
 	//出牌
 	HandleSendcard:function(data)
@@ -383,25 +363,7 @@ var Room =
 		{
 			room.noCount++;
 		}
-		switch(data.pos)
-		{
-			case 0:
-			{
-				data.nPos = 1;
-				break;
-			}
-			case 1:
-			{
-				data.nPos = 2;
-				break;
-			}
-			case 2:
-			{
-				data.nPos = 0;
-				break;
-			}
-			default:break;
-		}
+		data.nPos = this.getNextPos(data.pos);
 		data.lastCount = this.removeCardFromCurrentPlayer(room,data);
 		console.log(data);
 		SLogic.playerSendcard(room,data);
@@ -413,6 +375,30 @@ var Room =
 			SLogic.startSendcard(room,room.currentSenderPos);//一轮结束，开始新的一轮
 		}
 		this.checkGameOver(room,data);
+	},
+	getNextPos:function(pos)
+	{
+		var nextPos = 0;
+		switch(pos)
+		{
+			case 0:
+			{
+				nextPos = 1;
+				break;
+			}
+			case 1:
+			{
+				nextPos = 2;
+				break;
+			}
+			case 2:
+			{
+				nextPos = 0;
+				break;
+			}
+			default:break;
+		}
+		return nextPos;
 	},
 	removeCardFromCurrentPlayer:function(room,data)
 	{
@@ -479,3 +465,4 @@ var Room =
 	}
 }
 exports.route = Room;
+exports.room = Room;

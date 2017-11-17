@@ -1,4 +1,4 @@
-var Player = function(name,roomId,pos)
+var Player = function(name,roomId,pos,isRobot)
 {
 	this.userId = 0;
 	this.namee = name;
@@ -10,6 +10,11 @@ var Player = function(name,roomId,pos)
 	this.isRoom = false;
 	this.isReady = false;
 	this.isDizhu = false;
+	this.isRobot = isRobot;
+	if(isRobot)
+	{
+		this.isReady = true;
+	}
 }
 
 exports.route = Player;
